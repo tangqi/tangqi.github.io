@@ -14,26 +14,9 @@ nav:
 - News: news.md
 - Team: gallery.md
 - Research:
-  - 'Control & flux surface destruction': cont-fmr.md
-  - 'Nonlinear MHD leading into disruption': pixie3d.md
-  - 'Aligning thermal & current quenches with high density low-Z injection': pixiesheath.md
-  - 'Thermal quench of core plasmas': gts.md
-  - 'Thermal quench of edge/boundary plasmas': bout.md
-  - 'Parallel transport physics of plasma thermal quench': TQ-VPIC.md
-  - 'Collisional-radiative modeling of disrupting plasma': cr.md
-  - 'Kinetic modeling of plasma-wall and plasma-neutral interaction': sheath.md 
-  - 'Multifluid modeling of plasma/neutral interaction': drekar-new.md
-  - 'Plasma-Material Interactions for Disruption Mitigation': plasmamaterials.md
-  - 'Resistive MHD modeling of plasma instabilities and VDE': drekar-mhd.md
-  - 'Integrated runaway modeling for current quench': RAMc.md
-- Computing:
-  - 'Algorithmic innovation for anisotropic transport': anisotropic.md
-  - 'MFEM-based implicit MHD solver with AMR': mfem.md
-  - 'Parallel scaling of fluid plasma simulations in Drekar': drekar-cmp.md
-  - 'PETSc-p4est relativistic Fokker-Planck-Boltzmann solver': fokkerplanck.md
-  - 'Scalable hybridized DG and exponential DG for fluid models': hdg.md
-  - 'Uncertainty Quantification': uq.md
-  - 'Machine Learning': ml.md
+  - 'High-performance computing': cont-fmr.md
+  - 'Scientific computing and simulation': pixie3d.md
+  - 'Structure-preserving machine learning': ml.md
 - Publications: publications.md
 - CV: cv.md
 - Teaching: teaching.md

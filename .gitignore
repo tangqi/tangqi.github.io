@@ -1,3 +1,4 @@
 # ignore directories from mkdocs build process
 __pycache__/
 site/
+.DS_Store
