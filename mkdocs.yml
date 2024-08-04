@@ -1,5 +1,5 @@
-site_name: TDS
-site_url: https://tds-scidac.github.io
+site_name: Qi Tang
+site_url: https://tangqi.github.io
 docs_dir: 'src'
 
 markdown_extensions:
@@ -7,14 +7,13 @@ markdown_extensions:
 - fenced_code  # GitHub style code blocks, e.g. ```python, see https://highlightjs.readthedocs.org/en/latest/css-classes-reference.html for a list of languages
 - footnotes
 - attr_list  # Allow us to add link attributes
-
-#repo_url: https://github.com/tds-scidac/tds-scidac.github.io 
-#remote_name: origin
+- sane_lists # Allow list starting from an arbitrary number
 
 nav:
 - Home: index.md
 - News: news.md
-- Physics:
+- Team: gallery.md
+- Research:
   - 'Control & flux surface destruction': cont-fmr.md
   - 'Nonlinear MHD leading into disruption': pixie3d.md
   - 'Aligning thermal & current quenches with high density low-Z injection': pixiesheath.md
@@ -36,30 +35,13 @@ nav:
   - 'Uncertainty Quantification': uq.md
   - 'Machine Learning': ml.md
 - Publications: publications.md
-- Gallery: gallery.md
-- Awards: awards.md
-- About: about.md
+- CV: cv.md
+- Teaching: teaching.md
+
 
 theme:
   name: mkdocs  # required. Can be anything as long as custom_dir is set correctly below
   custom_dir: template
-  features:
-    - search.suggest
 
 extra:
   include_next_prev: false  # turn off next/previous buttons
-
-plugins:
-  - search
-  - exclude-search:
-      exclude:
-        # List of pages that will not be searched
-        - index.md
-
-    #  - macros:
-    #      include_dir: "src/"
-    #  - bibtex:
-    #      bib_file: "src/refs.bib"
-
-google_analytics: ['UA-101697-3', 'https://tds-scidac.github.io/']
-
