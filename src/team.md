@@ -9,15 +9,15 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
 ### Postdocs
 * <ins>Daniel Serino</ins>,  Los Alamos National Laboratory, 2022–present
     * Dan has been supported by ASCR, FES and LANL LDRD.
-    * Bio: Dan received his PhD in Mathematics at Rensselaer Polytechnic Institute in 2019 where he specialized in numerical methods for fluid-structure interaction and free-surface flows. Prior to joining LANL, 
+    * **Bio:** Dan received his PhD in Mathematics at Rensselaer Polytechnic Institute in 2019 where he specialized in numerical methods for fluid-structure interaction and free-surface flows. Prior to joining LANL, 
     he held research scientist positions in industry and worked on problems involving acoustic scattering and financial optimization. His current research interests include developing stable numerical discretizations for multi-physics problems, designing long-term stable machine learning architectures for modeling dynamical systems, and developing robust solvers for the free-boundary Grad-Shafranov problem.
 * <ins>Allen Alvarez-Loya</ins>, Los Alamos National Laboratory, 2022–present
     * Allen has been supported by NSF MPS-Ascend postdoc fellowship ([DMS-2213261](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213261)).
-    * Bio: Allen received his PhD in applied mathematics at the University of Colorado at Boulder in 2022 where he developed high-order methods for wave phenomena. 
+    * **Bio:** Allen received his PhD in applied mathematics at the University of Colorado at Boulder in 2022 where he developed high-order methods for wave phenomena. 
     His current goals are to develop structure-preserving algorithms for plasma physics simulations and promote diversity in the mathematical and physical sciences.
 * <ins>Oleksii Beznosov</ins>, Los Alamos National Laboratory (I am a co-mentor), 2022–present
     * Oleksii has been supported by FES, ARDAP, and LANL LDRD.
-    * Bio: Oleksii received his PhD in mathematics at the University of New Mexico in 2020. Before joining LANL he did his postdoc at UNM and Cornell studying mathematical and computational aspects of spin dynamics in high energy electron storage rings. His research interests are stochastic particle dynamics in plasma physics and high energy physics, scalable high order numerical methods for wave propagation problems posed on domains with complex geometries, machine learning and high-performance computing. 
+    * **Bio:** Oleksii received his PhD in mathematics at the University of New Mexico in 2020. Before joining LANL he did his postdoc at UNM and Cornell studying mathematical and computational aspects of spin dynamics in high energy electron storage rings. His research interests are stochastic particle dynamics in plasma physics and high energy physics, scalable high order numerical methods for wave propagation problems posed on domains with complex geometries, machine learning and high-performance computing. 
 
 ### Ph.D. students
 * <ins>Manolis G. Drimalas</ins>, Department of Physics, University of Arizona, 2024–present
@@ -50,10 +50,10 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
 ## Postdoc collaborators at LANL
 * <ins>Xuping Xie</ins>, Los Alamos National Laboratory, 2022-2024
     * Current: Assistant Professor, Old Dominion University
-    * I was an informal co-mentor.
+    * I was his informal co-mentor.
 * <ins>Zakariae Jorti</ins>, Los Alamos National Laboratory, 2020-2023
     * Current: Senior R&D Engineer, Ansys
-    * I was an informal co-mentor.
+    * I was his informal co-mentor.
 * <ins>Shuang Liu</ins>, Los Alamos National Laboratory, 2020
     * Current: Assistant Professor, University of North Texas
-    * I was an informal co-mentor.
+    * I was her informal co-mentor.
