@@ -1,40 +1,55 @@
-<div class="col-md-6" markdown="1">
+<div class="col-md-4" markdown="1">
+![](img/profile.jpg)
+## Qi Tang 
+Assistant Professor<br/>
+School of Computational Science and Engineering<br/>
+Georgia Institute of Technology
 
-![](img/tds_full.png)
+**Email:** TBD <br/>
+**Office:** TBD
 
-# Tokamak Disruption Simulation (TDS) SciDAC center
-
-The primary objective of the TDS Center is to help establish the
-physics basis for effective disruption mitigation in a reactor-size
-tokamak through large-scale simulations, using the largest computers
-available.  To reach this ambitious goal, the TDS Center aims to
-simultaneously advance the frontiers of disruption physics and
-advanced simulation.  In particular, the TDS Team develops
-cutting-edge _scalable_, _adaptive_, _high-order_ algorithms for
-tokamak simulations.
-
-</div><div class="col-md-6 news-table" markdown="1">
-
-## Highlights
-
-* Advanced scalable algorithms design and development for tokamak simulations
-* Extended magnetohydrodynamic simulation of flux surface breakup and global field line stochasticization
-* Transport (fully kinetic, gyrokinetic, and gyrofluid) calculations of particle and energy in 3D magnetic fields
-* Multi-fluid and kinetic calculation of plasma/neutral and plasma/pellet interaction
-* Collisional-radiative modeling of a disrupting plasma with high-Z impurities and runaway electrons
-* Self-consistent kinetic calculations of runaway generation and transport
-
-
-## News
-
-Date             | Message
----------------- | -----------------------------------------------------------------
-Jun 22, 2022     | TDS team members will give invited talks at [APS-DPP](https://engage.aps.org/dpp/meetings/annual-meeting). 
-Jun 21, 2022     | Luis Chacon (LANL) was awarded the [EO Lawrence Award](https://science.osti.gov/lawrence).
-Apr 11, 2022     | Luis Chacon (LANL) organized 2 sessions at the [CMCIM](https://easychair.org/smart-program/CM2022/2022-04-04.html).
-Apr 11, 2022     | John Shadid (SNL) co-chairs the [CMCIM](https://easychair.org/smart-program/CM2022/).
-Apr 4, 2022      | TDS team members attend [Sherwood Fusion Theory Conference](https://www.sherwoodtheory.org/sw2022/index.php). 
+<div class="row">
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:14.3%;padding:0"><a href="https://github.com/tangqi"><img src="img/github-mark.png" alt="Github" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:15%;padding:0"><a href="https://scholar.google.com/citations?user=EtoOcLMAAAAJ&hl=en"><img src="img/GS.png" alt="Google Scholar" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:15%;padding:0"><a href="https://www.researchgate.net/profile/Qi-Tang-16"><img src="img/RG.png" alt="ResearchGate" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:15%;padding:0"><a href="https://orcid.org/0000-0001-9614-1075"><img src="img/orcid.svg" alt="ORCiD" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
+<div class="col-xs-6 col-md-6" style="width:15%;padding:0"><a href="https://www.linkedin.com/in/qi-tang-28a64123"><img src="img/linkedin.png" alt="Linkedin" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
+<div class="col-xs-6 col-md-6" style="width:1%;padding:0"></div>
+</div>
+</div>
 
 
 
-</div><div class="col-md-12 bottom"></div>
+<div class="col-md-8 bottom"  markdown="1">
+<br/>
+I am an Assistant Professor in the School of Computational Science and Engineering ([CSE](https://cse.gatech.edu/)) at the Georgia Institute of Technology. From 2018 to 2024, I was a Postdoc and later converted to a Scientist in the Applied Mathematics and Plasma Physics Group ([T-5](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php)) in the Theoretical Division at Los Alamos National Laboratory (LANL). Prior to that, from 2015 to 2018, I was an Eliza Ricketts Foundation Postdoctoral Fellow at Rensselaer Polytechnic Institute. I received my Ph.D. in Applied Math from Michigan State University in 2015 and B.S. in Math & Applied Math from Zhejiang University in 2010. 
+
+
+I am a computational scientist and applied mathematician by training. My research goal is to leverage modern computational science tools for physics applications. My research heavily relies on open-source packages such as [MFEM](https://mfem.org/), [PETSc](https://petsc.org/), [p4est](https://www.p4est.org/), [Overture](https://www.overtureframework.org/), and [hypre](https://hypre.readthedocs.io/) for development of scalable physics codes. Additionally, I am interested in exploring scientific machine learning (SciML) in those physics applications. My primary physics interests are magnetic confinement fusion and plasma physics (e.g., MHD turbulence and plasma-based accelerators).
+
+During my career at LANL, my research was primarily supported by DOE Office of Science's Advanced Scientific Computing Research (ASCR) and Fusion Energy Sciences (FES) programs,
+ including their joint SciDAC program. 
+My research was also supported by several LANL Laboratory Directed Research and Development (LDRD) programs and NSF (MSGI and DMS).
+
+<span style="color:#003057"><b>I have multiple Ph.D. student openings in the School of CSE at Georgia Tech starting in Fall 2025. The Ph.D. projects can involve one or multiple areas from the research interests listed below. If there is sufficient interest, students can undertake a summer internship at one of the DOE national labs. I also strongly support my students in pursuing diverse career paths that align with their interests. If you are interested in joining my team, please email me.</b></span>
+
+## Research interests
+* **High-performance computing:** high-order schemes, scalable iterative solvers, preconditioning, adaptive mesh refinement, GPU accelerations
+* **Scientific computing and simulations:** multiscale and multiphysics problems, fusion whole device modeling, computational plasma physics, fluid-structure interaction
+* **AI/ML:** structure-preserving machine learning, dynamical system learning, ML-based surrogates
+
+## Partnership 
+* I am part of the DOE ASCR MMICC Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)).
+* I lead a multi-institional ASCR SciML team involving LANL, ANL, IIT, John Hopkins, and Penn State.
+* I was part of the DOE FES Tokamak Disruption Simulation ([TDS](https://tds-scidac.github.io/)) SciDAC center.
+
+
+</div>
+
+
+<!-- **Address:** School of Computational Science and Engineering, Georgia Institute of Technology, Atlanta, GA 30332. <br/> -->

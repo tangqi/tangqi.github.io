@@ -12,11 +12,11 @@ markdown_extensions:
 nav:
 - Home: index.md
 - News: news.md
-- Team: gallery.md
+- Team: team.md
 - Research:
-  - 'High-performance computing': cont-fmr.md
-  - 'Scientific computing and simulation': pixie3d.md
-  - 'Structure-preserving machine learning': ml.md
+  - 'High-performance computing': hpc.md
+  - 'Scientific computing and simulation': computing.md
+  - 'Scientific machine learning': ml.md
 - Publications: publications.md
 - CV: cv.md
 - Teaching: teaching.md

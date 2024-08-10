@@ -23,7 +23,7 @@ Rensselaer Polytechnic Institute 2015–2018.
 * A stable partitioned multiscale solver for ocean surface and floating structure interaction, LANL LDRD CSES Program, Role: PI, FY25-FY27.
 * Towards the understanding of polarization mystery of astrophysical X-ray sources with MHD-PIC simulations powered by machine learning, LANL LDRD CSES Program, Role: Co-I, FY24-FY27.
 * DeepFusion accelerator for fusion energy sciences in disruption mitigation, DOE-SC FES, Role: Co-I, FY24-FY26.
-* Accurate discretizations and compatible linear solvers for extreme anisotropies in fusion, LANL LDRD, Role: Co-I (unfunded since FY25), FY24-FY26.
+* Accurate discretizations and compatible linear solvers for extreme anisotropies in fusion, LANL LDRD, Role: Co-I (unfunded starting from FY25), FY24-FY26.
 * Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)), DOE-SC ASCR, Role: Co-I, FY23-FY27
 * Inertial neural surrogates for stable dynamical prediction, DOE-SC ASCR, Role: Lead PI, FY21-FY24.
 * Preventing beam degradation in the LANSCE linear accelerator, LANL LDRD, Role: Co-I, FY23.
@@ -32,12 +32,14 @@ Rensselaer Polytechnic Institute 2015–2018.
 
 ## Computing Allocations
 * Inertial neural surrogates for stable dynamical predictions, ERCAP (NERSC), Role: PI, 2022-2024.
+    * ~6M machine hours/year
 * High-resolution simulations of fusion plasmas, Insitutional Computing (LANL), Role: PI, 2021-2024.
+    * ~7.5M machine hours/year
 
 ----
 
 ## Proposal Review
-* Reviewer for DOE SBIR/STTR Programs (Phase I and II), 2021, 2022, 2023, 2024.
+* Reviewer for DOE SBIR/STTR Programs, 2021, 2022, 2023, 2024.
 * Reivewer for LANL Instituional Computing, 2022, 2023.
 
 ## Journal Review

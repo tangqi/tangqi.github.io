@@ -1,4 +1,4 @@
-# Publications
+## Publications
 
 ### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate))
 1. D. Serino, Q. Tang, X.-Z. Tang, T. V. Kolev, and K. Lipnikov. An adaptive Newton-based free-boundary Grad–Shafranov solver, _submitted_, 23 pages, 2024.
@@ -11,7 +11,7 @@
 5. J. Rudi, M. Heldman, E. M. Constantinescu, Q. Tang, and X.-Z. Tang. Scalable implicit solvers with dynamic mesh adaptation for a relativistic drift-kinetic Fokker–Planck–Boltzmann model, **Journal of Computational Physics**, 507:112954, 2024.
 1. M. J. Picklo, Q. Tang, Y. Zhang, J. K. Ryan, and X.-Z. Tang. Denoising Particle-In-Cell Data via Smoothness-Increasing Accuracy-Conserving Filters with Application to Bohm Speed Computation, **Journal of Computational Physics**, 502:112790, 2024.
 1. H. Ji, L. Li and Q. Tang. Numerical methods for fourth-order PDEs on overlapping grids with application to Kirchhoff-Love plates, **Journal of Scientifc Computing**, 98(2):41, 2024.
-1. Huang, C. K., Q. Tang, et al. Symplectic neural surrogate models for beam dynamics. **Journal of Physics: Conference Series**, 2687(6):062026,  2024.
+1. C.-K. Huang, Q. Tang, et al. Symplectic neural surrogate models for beam dynamics. **Journal of Physics: Conference Series**, 2687(6):062026,  2024.
 1. V. Duruisseaux, J. W. Burby, and Q. Tang. Approximation of Nearly-Periodic Symplectic Maps via Structure-Preserving Neural Networks, **Scientific Reports**, 13.1:8351, 2023.
 1. A. J. Linot, J. W. Burby, Q. Tang, P. Balaprakash, M. D. Graham, and R. Maulik. Stabilized Neural Ordinary Differential Equations for Long-Time Forecasting of Dynamical Systems, **Journal of Computational Physics**, 474:111838, 2023.
 1. N. A. Garland, R. Maulik, Q. Tang, X.-Z. Tang and P. Balaprakash. Efficient data acquisition and training of collisional-radiative model artificial neural network surrogates through adaptive parameter space sampling, **Machine Learning: Science and Technology**, 3:045003, 2022.

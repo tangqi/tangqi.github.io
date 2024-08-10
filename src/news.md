@@ -1,0 +1,10 @@
+## Team News
+
+<img width=280px, style="margin:-10px"> | |
+------------ | -----------------------------------------------------------------
+Aug 20, 2024 | Qi Tang has started a new position as a tenure-track assistant professor in the School of Computational Science and Engineering (CSE) at the Georgia Institute of Technology. At Georgia Tech, our team will continously explore high-performance computing, scientific computing and simulation, and AI/ML, three core research areas at CSE.
+Aug 16, 2024  | After nearly six fruitful years at Los Alamos National Laboratory (LANL), our team will be leaving T-5 and LANL. It has been a remarkable journey collaborating with some of the world’s best computational scientists, mathematicians, and physicists at Department of Energy national labs. We especially thank our collaborators from LANL, LLNL, SNL, and ANL for many helpful discussions.
+Aug 8, 2024 | Our postdoc, Xuping Xie, has started a new position as a tenure-track assistant professor in Department of Mathematics and Statistics and School of Data Science at Old Dominion University. Congratulations!
+Jul 3, 2024 | A new paper has been submitted on an adaptive Newton-based method for the free-boundary Grad-Shafranov equation. This solver provides an accurate low-beta initial condition for whole device modeling (WDM) in magnetic confinement fusion. See [arXiv](https://arxiv.org/abs/2407.03499). Our postdoc, Dan Serino, is the lead author.
+Jun 17, 2024 | A new paper has been submitted on building a physics-assisted latent dynamics model for collisional-radiative models. This is a critical component in integrated modeling for fusion WDM. See [OSTI](https://www.osti.gov/biblio/2377685/). Our postdoc, Xuping Xie, is the lead author.
+Feb 24, 2024 | A new paper has been submitted  on building Fenichel normal form strongly into neural ODE. This is the first realization of Fenichel normal form in machine learning, opening a new path for studying multiscale dynamical systems. See [arXiv](https://arxiv.org/abs/2402.15839).  Our postdocs, Dan Serino and Allen Alvarez-Loya, are the lead authors.
