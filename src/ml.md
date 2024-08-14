@@ -1,4 +1,6 @@
-# Structure-preserving machine learning
+# Scientific machine learning
+
+I am interested in building mathematical and physical structures strongly into neural networks. Scientific machine learning (SciML) is a promising tool to resolve cases where the traditional numerical algorithms struggle. For instance, when designed properly, SciML can provide an alternative way to study dynamical systems. 
 
 
 ## Fast neural Poincaré maps for toroidal magnetic fields

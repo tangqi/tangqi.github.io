@@ -1,46 +1,48 @@
-# Scalable MFEM-based resistive MHD solver
+# Scientific computing and simulations
+My interest in scientific computing centers around multiscale and multiphysics problems. In fusion modeling, both temporal and spatial scales span many orders of magnitude, presenting a rich class of multiscale and multiphysics challenges for numerical algorithms. As a result, a significant portion of my research has focused on developing scalable physics codes for whole-device modeling in magnetic confinement fusion. Additionally, I am interested in computational plasma physics for other applications, such as astrophysics, accelerators, and inertial confinement fusion (ICF).
 
-**LA-UR-22-22440. Approved for public release; distribution is unlimited.** 
+## Full cold vertical displacement event (VDE) simulation of a major disruption in an ITER-like tokamak reactor
 
-## Overview
+**LA-UR-23-21442. Approved for public release; distribution is unlimited.** 
 
-The magnetohydrodynamics (MHD) equations are continuum models used in the study of a wide range of plasma physics systems, including the evolution of complex plasma dynamics in tokamak disruptions. However, efficient numerical solution methods for MHD are extremely challenging due to disparate time and length scales, strong hyperbolic phenomena, and nonlinearity. Therefore the development of scalable, implicit MHD algorithms and high-resolution adaptive mesh refinement strategies is of considerable importance. 
+We consider a multi-domain quasi-static MHD model for force-free plasmas, addressing the coupling between instability in hot plasmas and the magnetic diffusion in the wall region in ITER.
+We develop a solver for the quasi-static force-free plasma model above. This solver is based on Mimetic Finite Difference (MFD) method and [PETSc](https://petsc.org)’s  DMStag data structure for staggered grid representations, fully implicit, solved with the Jacobian-free Newton-Krylov and inexact Newton methods with a field-split nested preconditioning strategy.
 
-We recently developed a high-order stabilized finite-element algorithm[^1] for the reduced visco-resistive MHD equations based on [MFEM](https://mfem.org). The scheme is fully implicit, solved with the Jacobian-free Newton-Krylov (JFNK) method with a physics-based preconditioning strategy. Our preconditioning strategy is a generalization of the physics-based preconditioning methods in [Chacon, et al, JCP 2002] to adaptive, stabilized finite elements. Algebraic multigrid methods are used to invert sub-block operators to achieve scalability. A parallel adaptive mesh refinement scheme with dynamic load-balancing is implemented to efficiently resolve the multi-scale spatial features of the system. The potential of the AMR approach is observed in an island coalescence problem in the high Lundquist-number regime ($\ge 10^7$) with the successful resolution of plasmoid instabilities and thin current sheets.
+The MFD solver[^1] is used for simulating the cold vertical displacement events (VDE) of a major disruption in an ITER-like tokamak reactor over the actual plasma current diffusion time.
+The first movie shows the evolution of the toroidal current and magnetic field lines over time for isotropic resistivities inside the tokamak subdomains. 
+On the other hand, the remaining animations correspond to a setting where the blanket module has an anisotropic resistivity (different values in toroidal and poloidal directions). This setting was employed to simulate the halo and eddy currents inside the tokamak. All the movies are prestend along one selected poloidal plane. 
+
 
 ----
 
 ## Result
 
-<video controls preload="metadata" width="100%">
-    <source src="../img/gallery/res1e-6.mp4" type="video/mp4">
-    Sorry, your browser doesn't support embedded videos.
-</video>
-*This simulation uses 6 levels of AMR refinement, H1 finite elements of 3rd order polynomials, physics-based preconditioning, and stabilized discretization on 1800 CPUs. The run is initialized with two magnetic islands and they collide into each other and form the current sheet. The movie zooms in the center of the entire simulation domain. Here it uses the Lundquist number of $10^6$. Therefore, the plasmoids start to appear around the thin current sheet at a later time, and those plasmoids are quickly ejected into the jet region in the top and bottom of the current sheet.*
-
-----
 
 <video controls preload="metadata" width="100%">
-    <source src="../img/gallery/res1e-6-2.mp4" type="video/mp4">
+    <source src="../img/gallery/RJ_phi_10fps.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
-*Zoomed-in view of the above run around the current sheet*
-
-----
-
-![](img/gallery/mfem-dd.png)
-*Domain decomposition at the intial time (left) and the final time (right) of the above run. A random number is assigned to each domain for visualization. Since a space filling curve is used for partitioning, the decompositions are mostly continuous througout the run.*
-
-----
+*The toroidal current and magnetic field lines over time for a full cold VDE simulation ($T_e = 15{\text eV}$)*
 
 <video controls preload="metadata" width="100%">
-    <source src="../img/gallery/res1e-7.mp4" type="video/mp4">
+    <source src="../img/gallery/halo-eddy-current_10fps.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
-*This simulation uses 7 levels of AMR refinement and the Lundquist number of $10^7$ instead. The run is also initialized with two magnetic islands and a very thin current sheet is forming in the center. Note that many plasmoids continuously appear around the current sheet particularly near the center of the domain (x point), and those plasmoids collide into each other and form a very complicated structure.*
+*Toroidal current and streamlines of poloidal current over time for the halo current simulation ($T_e = 15{\text eV}$)*
 
+<video controls preload="metadata" width="100%">
+    <source src="../img/gallery/JxB-force_pol_10fps.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+*Magnitude of poloidal Lorentz force $|| \left((\nabla\times{\mathbf{B}})\times{\mathbf{B}}\right)_{\rm pol}||$ over time for the halo current simulation ($T_e = 15{\text eV}$)*
 
-[^1]: Q. Tang\*, L. Chacon, T. V. Kolev, J. N. Shadid and X.-Z. Tang. An adaptive scalable fully implicit algorithm based on stabilized finite element for reduced visco-resistive MHD, **Journal of Computational Physics**, 454:110967, 2022
+<video controls preload="metadata" width="100%">
+    <source src="../img/gallery/JxB-force_phi_10fps.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+*Toroidal Lorentz force component $ \left((\nabla\times{\mathbf{B}})\times{\mathbf{B}}\right)_{\phi} $ over time for the halo current simulation ($T_e = 15{\text eV}$)*
+
+[^1]: Z. Jorti, Q. Tang, K. Lipnikov and X.-Z. Tang. A mimetic finite difference based quasi-static magnetohydrodynamic solver for force-free plasmas in tokamak disruptions, [arXiv:2303.08337](https://arxiv.org/abs/2303.08337), submitted, 2023.
 
 
 <script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: {equationNumbers: {autoNumber: "all"}}, tex2jax: {inlineMath: [['$','$']]}});</script>
