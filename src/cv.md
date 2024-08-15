@@ -25,7 +25,7 @@ Rensselaer Polytechnic Institute 2015–2018.
 * DeepFusion accelerator for fusion energy sciences in disruption mitigation, DOE-SC FES, Role: Co-I, FY24-FY26.
 * Accurate discretizations and compatible linear solvers for extreme anisotropies in fusion, LANL LDRD, Role: Co-I (unfunded starting from FY25), FY24-FY26.
 * Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)), DOE-SC ASCR, Role: Co-I, FY23-FY27
-* Inertial neural surrogates for stable dynamical prediction, DOE-SC ASCR, Role: Lead PI, FY21-FY24.
+* Inertial neural surrogates for stable dynamical prediction, DOE-SC ASCR, Role: Lead PI, FY22-FY25.
 * Preventing beam degradation in the LANSCE linear accelerator, LANL LDRD, Role: Co-I, FY23.
 * Data compression techniques for particle-based simulations, LANL LDRD ISTI Program, Role: PI, FY22.
 
