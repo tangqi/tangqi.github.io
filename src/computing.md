@@ -9,8 +9,7 @@ We consider a multi-domain quasi-static MHD model for force-free plasmas, addres
 We develop a solver for the quasi-static force-free plasma model above. This solver is based on Mimetic Finite Difference (MFD) method and [PETSc](https://petsc.org)’s  DMStag data structure for staggered grid representations, fully implicit, solved with the Jacobian-free Newton-Krylov and inexact Newton methods with a field-split nested preconditioning strategy.
 
 The MFD solver[^1] is used for simulating the cold vertical displacement events (VDE) of a major disruption in an ITER-like tokamak reactor over the actual plasma current diffusion time.
-The first movie shows the evolution of the toroidal current and magnetic field lines over time for isotropic resistivities inside the tokamak subdomains. 
-On the other hand, the remaining animations correspond to a setting where the blanket module has an anisotropic resistivity (different values in toroidal and poloidal directions). This setting was employed to simulate the halo and eddy currents inside the tokamak. All the movies are prestend along one selected poloidal plane. 
+The first movie shows the evolution of the toroidal current and magnetic field lines over time for isotropic resistivities inside the tokamak subdomains. On the other hand, the remaining movies correspond to a setting where the blanket module has an anisotropic resistivity (different values in toroidal and poloidal directions). This setting was employed to simulate the halo and eddy currents inside the tokamak. All the movies are shown on one selected poloidal plane. 
 
 
 ----

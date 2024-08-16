@@ -6,7 +6,7 @@ School of Computational Science and Engineering<br>
 Georgia Institute of Technology
 
 **Email:** [tangqimath@gmail.com](mailto:tangqimath@gmail.com) <br>
-**Office:** TBD
+**Office:** Coda at Tech Square, 13th Floor
 
 <div class="row">
 <div class="col-xs-6 col-md-6" style="width:5%;padding:0"></div>
