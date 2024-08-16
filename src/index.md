@@ -5,8 +5,9 @@ Assistant Professor<br>
 School of Computational Science and Engineering<br>
 Georgia Institute of Technology
 
-**Email:** [tangqimath@gmail.com](mailto:tangqimath@gmail.com) <br>
+**Email:** [qtang@gatech.edu](mailto:qtang@gatech.edu) <br>
 **Office:** Coda at Tech Square, 13th Floor
+<br/><br/>
 
 <div class="row">
 <div class="col-xs-6 col-md-6" style="width:5%;padding:0"></div>
