@@ -2,97 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://tangqi.github.io/</loc>
-     <lastmod>2022-03-27</lastmod>
+     <lastmod>2024-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://tangqi.github.io/news/</loc>
-     <lastmod>2022-03-27</lastmod>
+     <lastmod>2024-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tangqi.github.io/cont-fmr/</loc>
-     <lastmod>2022-03-27</lastmod>
+     <loc>https://tangqi.github.io/team/</loc>
+     <lastmod>2024-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tangqi.github.io/pixie3d/</loc>
-     <lastmod>2022-03-27</lastmod>
+     <loc>https://tangqi.github.io/hpc/</loc>
+     <lastmod>2024-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tangqi.github.io/gts/</loc>
-     <lastmod>2022-03-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tangqi.github.io/bout/</loc>
-     <lastmod>2022-03-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tangqi.github.io/cr/</loc>
-     <lastmod>2022-03-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tangqi.github.io/sheath/</loc>
-     <lastmod>2022-03-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tangqi.github.io/drekar/</loc>
-     <lastmod>2022-03-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tangqi.github.io/RAMc/</loc>
-     <lastmod>2022-03-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tangqi.github.io/anisotropic/</loc>
-     <lastmod>2022-03-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tangqi.github.io/mfem/</loc>
-     <lastmod>2022-03-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tangqi.github.io/fokkerplanck/</loc>
-     <lastmod>2022-03-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tangqi.github.io/hdg/</loc>
-     <lastmod>2022-03-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tangqi.github.io/uq/</loc>
-     <lastmod>2022-03-27</lastmod>
+     <loc>https://tangqi.github.io/computing/</loc>
+     <lastmod>2024-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://tangqi.github.io/ml/</loc>
-     <lastmod>2022-03-27</lastmod>
+     <lastmod>2024-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://tangqi.github.io/publications/</loc>
-     <lastmod>2022-03-27</lastmod>
+     <lastmod>2024-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tangqi.github.io/gallery/</loc>
-     <lastmod>2022-03-27</lastmod>
+     <loc>https://tangqi.github.io/cv/</loc>
+     <lastmod>2024-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tangqi.github.io/about/</loc>
-     <lastmod>2022-03-27</lastmod>
+     <loc>https://tangqi.github.io/teaching/</loc>
+     <lastmod>2024-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

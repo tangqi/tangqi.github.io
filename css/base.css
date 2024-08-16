@@ -274,3 +274,19 @@ input {
   right: auto;
   color: #000;
 }
+
+img.institution {
+    padding: 0.5em 0;
+    margin: 0;
+    max-height: 7em;
+    max-width: 15em;
+}
+
+@media (min-width: 768px) {
+    img.institution {
+        display: inline;
+        padding: 0;
+        margin: 0;
+        max-width: 100%;
+    }
+}
