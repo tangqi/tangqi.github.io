@@ -2,11 +2,11 @@
 ![](img/profile.jpg)
 ## Qi Tang 
 Assistant Professor<br>
-School of Computational Science and Engineering<br>
-Georgia Institute of Technology
+[School of Computational Science and Engineering](https://cse.gatech.edu)<br>
+[Georgia Institute of Technology](https://www.gatech.edu/)
 
 **Email:** [qtang@gatech.edu](mailto:qtang@gatech.edu) <br>
-**Office:** Coda at Tech Square, 13th Floor
+**Office:** Coda at Tech Square, S1373B
 <br/><br/>
 
 <div class="row">
