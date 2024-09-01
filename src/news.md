@@ -2,6 +2,7 @@
 
 <img width=280px, style="margin:-10px"> | |
 ------------ | -----------------------------------------------------------------
+Aug 29, 2024 | Our postdoc, Dan Serino, has accepted an offer to become a Staff Scientist at T-5. He will continue as a collaborator of our team, with his research focusing on machine learning, applied math, and computational science at LANL. Congratulations, Dan!
 Aug 20, 2024 | Qi Tang has started a new position as a tenure-track assistant professor in the School of Computational Science and Engineering (CSE) at the Georgia Institute of Technology. At Georgia Tech, our team will continously explore high-performance computing, scientific computing and simulation, and AI/ML, three core research areas at CSE.
 Aug 16, 2024  | After nearly six fruitful years at Los Alamos National Laboratory (LANL), our team will be leaving T-5 and LANL. It has been a remarkable journey collaborating with some of the world’s best computational scientists, mathematicians, and physicists at Department of Energy national labs. We especially thank our collaborators from LANL, LLNL, SNL, and ANL for many helpful discussions.
 Aug 8, 2024 | Our postdoc, Xuping Xie, has started a new position as a tenure-track assistant professor in Department of Mathematics and Statistics and School of Data Science at Old Dominion University. Congratulations!

@@ -37,7 +37,7 @@ During my career at LANL, my research was mainly supported by DOE Office of Scie
  including their joint SciDAC program. 
 My research was also supported by several LANL Laboratory Directed Research and Development (LDRD) programs and NSF (MSGI and DMS).
 
-<span style="color:#003057"><b>I have multiple Ph.D. student openings in the School of CSE at Georgia Tech starting in Fall 2025. The Ph.D. projects can involve one or multiple areas from the research interests listed below. If there is sufficient interest, students can undertake a summer internship at one of the DOE national labs. I also strongly support my students in pursuing diverse career paths that align with their interests. If you are interested in joining my team, please email me.</b></span>
+<span style="color:#003057"><b>I have multiple Ph.D. student openings in the School of CSE at Georgia Tech starting in Fall 2025. The Ph.D. projects can involve one or multiple areas from the research interests listed below. If there is sufficient interest, students can undertake a summer internship at one of the DOE national labs. I also strongly support my students in pursuing diverse career paths that align with their interests. If you are interested in joining my team, please email me. Please note that Ph.D. students in the CSE program can have a home unit in a different school. Therefore, I am also interested in accepting students in mathematics or physics.</b></span>
 
 ## Research interests
 * **High-performance computing:** high-order schemes, scalable iterative solvers, preconditioning, adaptive mesh refinement, GPU accelerations
