@@ -138,6 +138,8 @@
         
             <li><a href="#fast-neural-poincare-maps-for-toroidal-magnetic-fields">Fast neural Poincaré maps for toroidal magnetic fields</a></li>
         
+            <li><a href="#other-structure-preserving-sciml-work">Other structure-preserving SciML work</a></li>
+        
     
     </ul>
 </div>
@@ -149,10 +151,12 @@
             <div class="col-md-9" role="main">
 
 <h1 id="scientific-machine-learning">Scientific machine learning</h1>
-<p>I am interested in building mathematical and physical structures strongly into neural networks. Scientific machine learning (SciML) is a promising tool to resolve cases where the traditional numerical algorithms struggle. For instance, when designed properly, SciML can provide an alternative way to study dynamical systems. </p>
+<p>I have been increasingly interested in ML/AI, particularly in integrating mathematical and physical structures into neural networks. Scientific machine learning (SciML) offers a promising approach to tackling problems where traditional numerical algorithms fall short. For instance, when designed properly, SciML can provide an alternative method for studying dynamical systems.</p>
 <h2 id="fast-neural-poincare-maps-for-toroidal-magnetic-fields">Fast neural Poincaré maps for toroidal magnetic fields</h2>
 <p><img alt="" src="../img/gallery/rmp.png" />
-Poincaré maps for toroidal magnetic fields are routinely employed to study gross confinement properties in devices built to contain hot plasmas. In most practical applications, evaluating a Poincaré map requires numerical integration of a magnetic field line, a process that can be slow and that cannot be easily accelerated using parallel computations. We propose a novel neural network architecture, the HénonNet<sup id="fnref:1"><a class="footnote-ref" href="#fn:1" rel="footnote">1</a></sup>, and show that it is capable of accurately learning realistic Poincaré maps from observations of a conventional field-line-following algorithm. After training, such learned Poincaré maps evaluate much faster than the field-line integration method. Moreover, the HénonNet architecture exactly reproduces the primary physics constraint imposed on field-line Poincaré maps: flux preservation. This structure-preserving property is the consequence of each layer in a HénonNet being a symplectic map. We demonstrate empirically that a HénonNet can learn to mock the confinement properties of a large magnetic island by using coiled hyperbolic invariant manifolds to produce a sticky chaotic region at the desired island location. This suggests a novel approach to designing magnetic fields with good confinement properties that may be more flexible than ensuring confinement using KAM tori.</p>
+Poincaré maps for toroidal magnetic fields are routinely employed to study gross confinement properties in devices built to contain hot plasmas. In most practical applications, evaluating a Poincaré map requires numerical integration of a magnetic field line, a process that can be slow and that cannot be easily accelerated using parallel computations. We propose a novel neural network architecture, the HénonNet,<sup id="fnref:1"><a class="footnote-ref" href="#fn:1" rel="footnote">1</a></sup> and show that it is capable of accurately learning realistic Poincaré maps from observations of a conventional field-line-following algorithm. After training, such learned Poincaré maps evaluate much faster than the field-line integration method. Moreover, the HénonNet architecture exactly reproduces the primary physics constraint imposed on field-line Poincaré maps: flux preservation. This structure-preserving property is the consequence of each layer in a HénonNet being a symplectic map. We demonstrate empirically that a HénonNet can learn to mock the confinement properties of a large magnetic island by using coiled hyperbolic invariant manifolds to produce a sticky chaotic region at the desired island location. This suggests a novel approach to designing magnetic fields with good confinement properties that may be more flexible than ensuring confinement using KAM tori.</p>
+<h2 id="other-structure-preserving-sciml-work">Other structure-preserving SciML work</h2>
+<p>The recent representative papers include: physics-assisted learning,<sup id="fnref:2"><a class="footnote-ref" href="#fn:2" rel="footnote">2</a></sup> dynamics learing for multiscale ODEs<sup id="fnref:3"><a class="footnote-ref" href="#fn:3" rel="footnote">3</a></sup> or large-scale PDEs,<sup id="fnref:4"><a class="footnote-ref" href="#fn:4" rel="footnote">4</a></sup> learning flow maps for multiscale Hamiltonians.<sup id="fnref:5"><a class="footnote-ref" href="#fn:5" rel="footnote">5</a></sup> Please refer to the following references for more details. I plan to write more on this topic when I have more time. </p>
 <script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: {equationNumbers: {autoNumber: "all"}}, tex2jax: {inlineMath: [['$','$']]}});</script>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_HTML"></script>
@@ -163,6 +167,18 @@ Poincaré maps for toroidal magnetic fields are routinely employed to study gros
 <li id="fn:1">
 <p>J. W. Burby, Q. Tang and R. Maulik. Fast neural Poincare maps for toroidal magnetic fields, <strong>Plasma Physics and Controlled Fusion</strong>, 63:024001, 2020.&#160;<a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
+<li id="fn:2">
+<p>X. Xie, Q. Tang, and X.-Z. Tang. Physics-assisted latent space dynamics learning for stiff collisional-radiative models, <em>submitted</em>, 26 pages, 2024.&#160;<a class="footnote-backref" href="#fnref:2" rev="footnote" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+<li id="fn:3">
+<p>D. Serino, A. Alvarez Loya, J. W. Burby, I. G. Kevrekidis, and Q. Tang. Intelligent attractors for singularly perturbed dynamical systems, <em>submitted</em>, 32 pages, 2024.&#160;<a class="footnote-backref" href="#fnref:3" rev="footnote" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
+<li id="fn:4">
+<p>A. J. Linot, J. W. Burby, Q. Tang, P. Balaprakash, M. D. Graham, and R. Maulik. Stabilized Neural Ordinary Differential Equations for Long-Time Forecasting of Dynamical Systems, <strong>Journal of Computational Physics</strong>, 474:111838, 2023.&#160;<a class="footnote-backref" href="#fnref:4" rev="footnote" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+</li>
+<li id="fn:5">
+<p>V. Duruisseaux, J. W. Burby, and Q. Tang. Approximation of Nearly-Periodic Symplectic Maps via Structure-Preserving Neural Networks, <strong>Scientific Reports</strong>, 13.1:8351, 2023.&#160;<a class="footnote-backref" href="#fnref:5" rev="footnote" title="Jump back to footnote 5 in the text">&#8617;</a></p>
+</li>
 </ol>
 </div></div>
             <div class="col-md-3 hidden-xs hidden-sm"><div class="bs-sidebar hidden-print affix well" role="complementary">
@@ -171,6 +187,8 @@ Poincaré maps for toroidal magnetic fields are routinely employed to study gros
         <li class="main active"><a href="#scientific-machine-learning">Scientific machine learning</a></li>
         
             <li><a href="#fast-neural-poincare-maps-for-toroidal-magnetic-fields">Fast neural Poincaré maps for toroidal magnetic fields</a></li>
+        
+            <li><a href="#other-structure-preserving-sciml-work">Other structure-preserving SciML work</a></li>
         
     
     </ul>
