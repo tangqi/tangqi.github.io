@@ -160,7 +160,7 @@ such as implicit time stepping, iterative methods, adavanced preconditioning, ad
 <h2 id="scalable-mfem-based-resistive-mhd-solver">Scalable MFEM-based resistive MHD solver</h2>
 <p><strong>LA-UR-22-22440. Approved for public release; distribution is unlimited.</strong> </p>
 <p>The magnetohydrodynamics (MHD) equations are continuum models used in the study of a wide range of plasma physics systems, including the evolution of complex plasma dynamics in tokamak disruptions. However, efficient numerical solution methods for MHD are extremely challenging due to disparate time and length scales, strong hyperbolic phenomena, and nonlinearity. Therefore the development of scalable, implicit MHD algorithms and high-resolution adaptive mesh refinement strategies is of considerable importance. </p>
-<p>We recently developed a high-order stabilized finite-element algorithm<sup id="fnref:1"><a class="footnote-ref" href="#fn:1" rel="footnote">1</a></sup> for the reduced visco-resistive MHD equations based on <a href="https://mfem.org">MFEM</a>. The scheme is fully implicit, solved with the Jacobian-free Newton-Krylov (JFNK) method with a physics-based preconditioning strategy. Our preconditioning strategy is a generalization of the physics-based preconditioning methods in [Chacon, et al, JCP 2002] to adaptive, stabilized finite elements. Algebraic multigrid methods are used to invert sub-block operators to achieve scalability. A parallel adaptive mesh refinement scheme with dynamic load-balancing is implemented to efficiently resolve the multi-scale spatial features of the system. The potential of the AMR approach is observed in an island coalescence problem in the high Lundquist-number regime ($\ge 10^7$) with the successful resolution of plasmoid instabilities and thin current sheets.</p>
+<p>We recently developed a high-order stabilized finite-element algorithm<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> for the reduced visco-resistive MHD equations based on <a href="https://mfem.org">MFEM</a>. The scheme is fully implicit, solved with the Jacobian-free Newton-Krylov (JFNK) method with a physics-based preconditioning strategy. Our preconditioning strategy is a generalization of the physics-based preconditioning methods in [Chacon, et al, JCP 2002] to adaptive, stabilized finite elements. Algebraic multigrid methods are used to invert sub-block operators to achieve scalability. A parallel adaptive mesh refinement scheme with dynamic load-balancing is implemented to efficiently resolve the multi-scale spatial features of the system. The potential of the AMR approach is observed in an island coalescence problem in the high Lundquist-number regime ($\ge 10^7$) with the successful resolution of plasmoid instabilities and thin current sheets.</p>
 <hr />
 <h2 id="result">Result</h2>
 <video controls preload="metadata" width="100%">
@@ -189,7 +189,7 @@ such as implicit time stepping, iterative methods, adavanced preconditioning, ad
 <hr />
 <h2 id="adaptive-scalable-relativistic-fokker-planck-boltzmann-solver-based-on-petsc-p4est">Adaptive, scalable relativistic Fokker-Planck-Boltzmann solver based on PETSc-p4est</h2>
 <p><strong>LA-UR-22-22439. Approved for public release; distribution is unlimited.</strong> </p>
-<p>We consider a 0D2V relativistic Fokker-Planck equation for runaway electrons<sup id="fnref:2"><a class="footnote-ref" href="#fn:2" rel="footnote">2</a></sup>
+<p>We consider a 0D2V relativistic Fokker-Planck equation for runaway electrons<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>
 \begin{align}
 \frac{\partial f}{\partial t}  - eE_\parallel \left(\xi\frac{\partial f}{\partial p} + \frac{1-\xi^2}{p} \frac{\partial f}{\partial\xi} \right) = C_{\rm col}(f) + C_{\rm rad}(f) + C_{\rm Chiu}(f),
 \end{align}
@@ -203,7 +203,7 @@ We develop a scalable fully implicit solver with dynamic adaptivity. We develope
     Sorry, your browser doesn't support embedded videos.
 </video>
 
-<p><em>The simulation demonstrates the critical need for AMR<sup id="fnref2:1"><a class="footnote-ref" href="#fn:1" rel="footnote">1</a></sup>, in which 7 levels of refinement are used (corresponding to a 128 factor of resolution increase) to resolve both low-energy Maxwellian bulk and high-energy runaway tail. The dynamic AMR successfully captures the interaction between two structures and resolves a forming vortex structure. A delta-function-like Chiu source and practical collision parameters extracted from ITER are also deployed.</em></p>
+<p><em>The simulation demonstrates the critical need for AMR<sup id="fnref2:1"><a class="footnote-ref" href="#fn:1">1</a></sup>, in which 7 levels of refinement are used (corresponding to a 128 factor of resolution increase) to resolve both low-energy Maxwellian bulk and high-energy runaway tail. The dynamic AMR successfully captures the interaction between two structures and resolves a forming vortex structure. A delta-function-like Chiu source and practical collision parameters extracted from ITER are also deployed.</em></p>
 <video controls preload="metadata" width="100%">
     <source src="../img/gallery/dd-p4est.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -218,10 +218,10 @@ We develop a scalable fully implicit solver with dynamic adaptivity. We develope
 <hr />
 <ol>
 <li id="fn:1">
-<p>Q. Tang*, L. Chacon, T. V. Kolev, J. N. Shadid and X.-Z. Tang. An adaptive scalable fully implicit algorithm based on stabilized finite element for reduced visco-resistive MHD, <strong>Journal of Computational Physics</strong>, 454:110967, 2022&#160;<a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+<p>Q. Tang*, L. Chacon, T. V. Kolev, J. N. Shadid and X.-Z. Tang. An adaptive scalable fully implicit algorithm based on stabilized finite element for reduced visco-resistive MHD, <strong>Journal of Computational Physics</strong>, 454:110967, 2022&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 <li id="fn:2">
-<p>J. Rudi*, M. Heldman, E. M. Constantinescu, Q. Tang*, and X.-Z. Tang. Scalable implicit solvers with dynamic mesh adaptation for a relativistic drift-kinetic Fokker–Planck–Boltzmann model, <strong>Journal of Computational Physics</strong>, 507:112954, 2024.&#160;<a class="footnote-backref" href="#fnref:2" rev="footnote" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+<p>J. Rudi*, M. Heldman, E. M. Constantinescu, Q. Tang*, and X.-Z. Tang. Scalable implicit solvers with dynamic mesh adaptation for a relativistic drift-kinetic Fokker–Planck–Boltzmann model, <strong>Journal of Computational Physics</strong>, 507:112954, 2024.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
 </li>
 </ol>
 </div></div>
