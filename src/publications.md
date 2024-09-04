@@ -2,7 +2,7 @@
 
 ### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate))
 1. D. Serino, Q. Tang, X.-Z. Tang, T. V. Kolev, and K. Lipnikov. An adaptive Newton-based free-boundary Grad–Shafranov solver, _submitted_, 23 pages, 2024.
-2. X. Xie, Q. Tang, and X.-Z. Tang. Physics-assisted latent space dynamics learning for stiff collisional-radiative models, _submitted_, 26 pages, 2024.
+2. X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, _submitted_, 27 pages, 2024.
 3. D. Serino, A. Alvarez Loya, J. W. Burby, I. G. Kevrekidis, and Q. Tang. Intelligent attractors for singularly perturbed dynamical systems, _submitted_, 32 pages, 2024.
 4. Z. Jorti, Q. Tang, K. Lipnikov, and X.-Z. Tang. A mimetic finite difference based quasi-static magnetohydrodynamic solver for force-free plasmas in tokamak disruptions, _submitted_, 43 pages, 2023.
 

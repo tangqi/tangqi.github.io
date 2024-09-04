@@ -10,11 +10,11 @@ Poincaré maps for toroidal magnetic fields are routinely employed to study gros
 
 ## Other structure-preserving SciML work
 
-The recent representative papers include: physics-assisted learning,[^2] dynamics learing for multiscale ODEs[^3] or large-scale PDEs,[^4] learning flow maps for multiscale Hamiltonians.[^5] Please refer to the following references for more details. I plan to write more on this topic when I have more time. 
+The recent representative papers include: physics-assisted learning,[^2] dynamics learing for multiscale ODEs[^3] or large-scale PDEs,[^4] learning flow maps for multiscale Hamiltonians.[^5] Please refer to the following references for more details. I plan to write more on this topic when I have time. 
 
 
 [^1]: J. W. Burby, Q. Tang and R. Maulik. Fast neural Poincare maps for toroidal magnetic fields, **Plasma Physics and Controlled Fusion**, 63:024001, 2020.
-[^2]: X. Xie, Q. Tang, and X.-Z. Tang. Physics-assisted latent space dynamics learning for stiff collisional-radiative models, _submitted_, 26 pages, 2024.
+[^2]: X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, _submitted_, 26 pages, 2024.
 [^3]: D. Serino, A. Alvarez Loya, J. W. Burby, I. G. Kevrekidis, and Q. Tang. Intelligent attractors for singularly perturbed dynamical systems, _submitted_, 32 pages, 2024.
 [^4]: A. J. Linot, J. W. Burby, Q. Tang, P. Balaprakash, M. D. Graham, and R. Maulik. Stabilized Neural Ordinary Differential Equations for Long-Time Forecasting of Dynamical Systems, **Journal of Computational Physics**, 474:111838, 2023.
 [^5]: V. Duruisseaux, J. W. Burby, and Q. Tang. Approximation of Nearly-Periodic Symplectic Maps via Structure-Preserving Neural Networks, **Scientific Reports**, 13.1:8351, 2023.

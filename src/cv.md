@@ -1,7 +1,6 @@
 ## Appointments
 * Assistant Professor, School of Computational Science and Engineering,
 Georgia Institute of Technology, 2024-present.
-* Guest Scientist, Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory 2024–present.
 * Scientist 2/3, Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory 2021–2024.
 * Postdoc, Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory 2018–2021.
     * Mentors: [Xianzhu Tang](https://scholar.google.com/citations?user=TzXmYdwAAAAJ&hl=en) and [Luis Chacon](https://scholar.google.com/citations?user=sDebqYwAAAAJ&hl=en)
@@ -20,7 +19,8 @@ Rensselaer Polytechnic Institute 2015–2018.
 
 ## Selected Grants
 
-* A stable partitioned multiscale solver for ocean surface and floating structure interaction, LANL LDRD CSES Program, Role: PI, FY25-FY27.
+* A stable partitioned multiscale solver for ocean surface and floating structure interaction, LANL LDRD CSES Program, Role: PI\*, FY25-FY27.<br>
+\*The PI role has been transfered to Dan Serino. 
 * Towards the understanding of polarization mystery of astrophysical X-ray sources with MHD-PIC simulations powered by machine learning, LANL LDRD CSES Program, Role: Co-I, FY24-FY27.
 * DeepFusion accelerator for fusion energy sciences in disruption mitigation, DOE-SC FES, Role: Co-I, FY24-FY26.
 * Accurate discretizations and compatible linear solvers for extreme anisotropies in fusion, LANL LDRD, Role: Co-I (unfunded starting from FY25), FY24-FY26.
@@ -31,10 +31,8 @@ Rensselaer Polytechnic Institute 2015–2018.
 
 
 ## Computing Allocations
-* Inertial neural surrogates for stable dynamical predictions, ERCAP (NERSC), Role: PI, 2022-2024.
-    * ~6M machine hours/year
-* High-resolution simulations of fusion plasmas, Insitutional Computing (LANL), Role: PI, 2021-2024.
-    * ~7.5M machine hours/year
+* ERCAP at the DOE NERSC center, Role: PI, 6M machine hours/year, 2022-2024.
+* LANL Insitutional Computing, Role: PI, 7.5M machine hours/year, 2021-2024.
 
 ----
 
