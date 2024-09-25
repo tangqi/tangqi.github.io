@@ -61,9 +61,9 @@
             
             
             
-                <li class="active">
+                <li >
                     <!-- Replace "nav_item.url|url" with "nav_item.url" for older mkdocs (before 1.0) -->
-                    <a href="./">Team</a>
+                    <a href="../team/">Team</a>
                 </li>
             
             
@@ -117,13 +117,13 @@
             
             
             
-                <li class="dropdown">
+                <li class="dropdown active">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Teaching <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                     
                         
-                            <li >
-                                 <a href="../spring-2025/">Spring 2025</a>
+                            <li class="active">
+                                 <a href="./">Spring 2025</a>
                             </li>
                         
                     
@@ -142,13 +142,27 @@
             <div class="col-md-3 visible-xs visible-sm"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#team">Team</a></li>
+        <li class="main active"><a href="#syllabus-cx-parallel-computing-programming-and-applications">Syllabus - CX ???? Parallel Computing Programming and Applications</a></li>
         
-            <li><a href="#current-members">Current members</a></li>
+            <li><a href="#instructor-information">Instructor information</a></li>
         
-            <li><a href="#former-members">Former members</a></li>
+            <li><a href="#course-description">Course Description</a></li>
         
-            <li><a href="#postdoc-collaborators-at-lanl">Postdoc collaborators at LANL</a></li>
+            <li><a href="#prerequisites">Prerequisites</a></li>
+        
+            <li><a href="#topics">Topics</a></li>
+        
+            <li><a href="#grading">Grading</a></li>
+        
+            <li><a href="#textbooks">Textbooks</a></li>
+        
+            <li><a href="#pre-course-assignments">Pre-course Assignments</a></li>
+        
+            <li><a href="#course-meetings">Course Meetings</a></li>
+        
+            <li><a href="#course-management">Course Management</a></li>
+        
+            <li><a href="#course-policies-expectations-guidelines">Course policies, expectations &amp; guidelines</a></li>
         
     
     </ul>
@@ -160,89 +174,130 @@
 --></div> <!-- toc on top on mobile -->
             <div class="col-md-9" role="main">
 
-<h1 id="team">Team</h1>
-<p>Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LDRD, and NSF. </p>
+<h1 id="syllabus-cx-parallel-computing-programming-and-applications">Syllabus - CX ???? Parallel Computing Programming and Applications</h1>
+<h3 id="instructor-information">Instructor information</h3>
+<p>Lectures: TR 6:30-7:45 pm <br>
+Location: TBD</p>
+<p>Instructor: <a href="https://tangqi.github.io/">Qi Tang</a> <br>
+E-mail: qtang@gatech.edu <br>
+Office Hours: Mondays 2-3 pm in CODA (TBD)</p>
+<p>TA: TBD</p>
 <hr />
-<h2 id="current-members">Current members</h2>
-<h3 id="postdocs">Postdocs</h3>
+<h3 id="course-description">Course Description</h3>
+<p>This undergraduate-level course covers the practical and theoretical aspects of parallel computing and their applications. This is a course aiming to accelerate your code.</p>
+<h2 id="prerequisites">Prerequisites</h2>
 <ul>
-<li><ins>Allen Alvarez-Loya</ins>, T-5, Los Alamos National Laboratory, 2022–present<ul>
-<li>Allen has been supported by NSF MPS-Ascend postdoc fellowship (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213261">DMS-2213261</a>).</li>
-<li><strong>Bio:</strong> Allen received his PhD in applied mathematics at the University of Colorado at Boulder in 2022 where he developed high-order methods for wave phenomena. 
-His current goals are to develop structure-preserving algorithms for plasma physics simulations and promote diversity in the mathematical and physical sciences.</li>
+<li>Proficiency in C/C++ programming</li>
+<li>CS 1332, 1372, 2110 or CX 4010</li>
+<li>Some basic knowledge in Linux</li>
 </ul>
-</li>
-<li><ins>Oleksii Beznosov</ins>, T-5, Los Alamos National Laboratory (I am a co-mentor), 2022–present<ul>
-<li>Oleksii has been supported by FES, ARDAP, and LANL LDRD.</li>
-<li><strong>Bio:</strong> Oleksii received his PhD in mathematics at the University of New Mexico in 2020. Before joining LANL he did his postdoc at UNM and Cornell studying mathematical and computational aspects of spin dynamics in high energy electron storage rings. His research interests are stochastic particle dynamics in plasma physics and high energy physics, scalable high order numerical methods for wave propagation problems posed on domains with complex geometries, machine learning and high-performance computing. </li>
-</ul>
-</li>
-</ul>
-<h3 id="phd-students">Ph.D. students</h3>
+<h2 id="topics">Topics</h2>
 <ul>
-<li><ins>Manolis G. Drimalas</ins>, Department of Physics, University of Arizona, 2024–present<ul>
-<li>Manolis has been supported by LANL LDRD CSES prgoram.</li>
-<li>Co-advised with Federico Fraschetti (Harvard) and Chengkun Huang (LANL).</li>
+<li>Computer architecture and networks</li>
+<li>Parallel algorithms</li>
+<li>Performance modeling</li>
+<li>Distributed memory (MPI) programming</li>
+<li>Multithreaded (OpenMP) programming</li>
+<li>GPU (CUDA) programming</li>
+<li>Parallel scientific applications  </li>
 </ul>
-</li>
-<li><ins>Mandela B. Quashie</ins>, Department of CMSE, Michigan State University, 2023–present<ul>
-<li>Mandela has been supported by ASCR and LANL Center for Nonlinear Studies (CNLS).</li>
-<li>Co-advised with Andrew Christlieb (MSU) and Josh Burby (UT-Austin).</li>
-</ul>
-</li>
-</ul>
-<hr />
-<h2 id="former-members">Former members</h2>
-<h3 id="postdocs_1">Postdocs</h3>
+<h2 id="grading">Grading</h2>
+<p>The weights for the course grade are as follows.</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mini-Projects (about 6 during the semester)</td>
+<td>80%</td>
+</tr>
+<tr>
+<td>Semester-end written assignment (due during exam week)</td>
+<td>10%</td>
+</tr>
+<tr>
+<td>Class participation</td>
+<td>10%</td>
+</tr>
+</tbody>
+</table>
+<p>The final course grade will be assigned based on the following scale.</p>
+<table>
+<thead>
+<tr>
+<th>Grade</th>
+<th>%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>90-100%</td>
+</tr>
+<tr>
+<td>B</td>
+<td>80-89%</td>
+</tr>
+<tr>
+<td>C</td>
+<td>70-79%</td>
+</tr>
+<tr>
+<td>D</td>
+<td>60-69%</td>
+</tr>
+<tr>
+<td>F</td>
+<td>0-59%</td>
+</tr>
+</tbody>
+</table>
+<h2 id="textbooks">Textbooks</h2>
 <ul>
-<li><ins>Daniel Serino</ins>, T-5, Los Alamos National Laboratory, 2022–2024<ul>
-<li>Current: Staff Scientist, T-5, Los Alamos National Laboratory</li>
-<li>Dan was supported by ASCR, FES and LANL LDRD.</li>
+<li>The Science of Computing, Victor Eijkhout</li>
+<li>Parallel Programming in Science and Engineering, Victor Eijkhout</li>
+<li>CUDA by Example: An Introduction to General-Purpose GPU Programming, Jason Sanders and Edward Kandrot </li>
 </ul>
-</li>
-</ul>
-<h3 id="student-interns-mentored-at-lanl">Student interns mentored at LANL</h3>
-<ul>
-<li><ins>Shih-Hsin Wang</ins>, Graduate student from University of Utah, summer 2024</li>
-<li><ins>Jack Coughlin</ins>, Graduate student from University of Washington, summer 2022</li>
-<li><ins>Valentin Duruisseaux</ins>, Graduate student from University of California San Diego, summer 2022</li>
-<li><ins>George Kevrekidis</ins>, Graduate student from Johns Hopkins University, summer 2022</li>
-<li><ins>Matt Picklo</ins>, Graduate student from Colorado School of Mines (ISTI fellow), summer 2022</li>
-<li><ins>Kyle Schwiebert</ins>, Graduate student from Michigan Tech University (NSF MSGI), 2022</li>
-<li><ins>Boqian Shen</ins>, Graduate student from Rice University, summer 2021</li>
-<li><ins>Mingchang Ding</ins>, Graduate student from University of Delaware, summer 2019</li>
-<li><ins>Zhichao Peng</ins>, Graduate student from Rensselear Polytechnic Institute, summer 2019</li>
-<li><ins>Kai Huang</ins>, Graduate student from Michigan State University, summer 2019</li>
-</ul>
-<hr />
-<h2 id="postdoc-collaborators-at-lanl">Postdoc collaborators at LANL</h2>
-<ul>
-<li><ins>Xuping Xie</ins>, Los Alamos National Laboratory, 2022-2024<ul>
-<li>Current: Assistant Professor, Old Dominion University</li>
-<li>I was his informal co-mentor.</li>
-</ul>
-</li>
-<li><ins>Zakariae Jorti</ins>, Los Alamos National Laboratory, 2020-2023<ul>
-<li>Current: Senior R&amp;D Engineer, Ansys</li>
-<li>I was his informal co-mentor.</li>
-</ul>
-</li>
-<li><ins>Shuang Liu</ins>, Los Alamos National Laboratory, 2020<ul>
-<li>Current: Assistant Professor, University of North Texas</li>
-<li>I was her informal co-mentor.</li>
-</ul>
-</li>
-</ul></div>
+<h2 id="pre-course-assignments">Pre-course Assignments</h2>
+<p>For almost every course meeting, there will be an associated pre-course assignment that you should complete before attending. The pre-course assignments will serve as the basis for in-class discussion and so it is important that you complete them.</p>
+<h2 id="course-meetings">Course Meetings</h2>
+<p>Course meetings are meant to be highly interactive and you are expected to attend if possible. You must be able to bring a laptop computer to class and are expected to complete short programming assignments in class.</p>
+<h2 id="course-management">Course Management</h2>
+<p>We will use Canvas to deliver course materials, announcements, and manage the discussion board. All course materials will be hosted on Canvas.</p>
+<h2 id="course-policies-expectations-guidelines">Course policies, expectations &amp; guidelines</h2>
+<h3 id="plagiarism-academic-integrity">Plagiarism &amp; Academic Integrity</h3>
+<p>Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards. For more information on the Honor Code, please visit the <a href="https://osi.gatech.edu/">OSI</a> website.</p>
+<p>Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will be reported to the Office of Student Integrity, which will investigate the incident and identify the appropriate penalty for violations. </p>
+<h3 id="accommodations-for-individuals-with-disabilities">Accommodations for Individuals with Disabilities</h3>
+<p>If you are a student with learning needs that require special accommodation, contact the Office of Disability Services at (404) 894-2563 or http://disabilityservices.gatech.edu/, as soon as possible, to make an appointment to discuss your special needs and to obtain an accommodations letter.  Please also email me as soon as possible in order to set up a time to discuss your learning needs.</p></div>
             <div class="col-md-3 hidden-xs hidden-sm"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#team">Team</a></li>
+        <li class="main active"><a href="#syllabus-cx-parallel-computing-programming-and-applications">Syllabus - CX ???? Parallel Computing Programming and Applications</a></li>
         
-            <li><a href="#current-members">Current members</a></li>
+            <li><a href="#instructor-information">Instructor information</a></li>
         
-            <li><a href="#former-members">Former members</a></li>
+            <li><a href="#course-description">Course Description</a></li>
         
-            <li><a href="#postdoc-collaborators-at-lanl">Postdoc collaborators at LANL</a></li>
+            <li><a href="#prerequisites">Prerequisites</a></li>
+        
+            <li><a href="#topics">Topics</a></li>
+        
+            <li><a href="#grading">Grading</a></li>
+        
+            <li><a href="#textbooks">Textbooks</a></li>
+        
+            <li><a href="#pre-course-assignments">Pre-course Assignments</a></li>
+        
+            <li><a href="#course-meetings">Course Meetings</a></li>
+        
+            <li><a href="#course-management">Course Management</a></li>
+        
+            <li><a href="#course-policies-expectations-guidelines">Course policies, expectations &amp; guidelines</a></li>
         
     
     </ul>
