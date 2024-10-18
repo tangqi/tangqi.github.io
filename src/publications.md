@@ -1,14 +1,16 @@
 ## Publications
 
-### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate))
+### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate) or can be found on [arXiv](https://arxiv.org/search/?searchtype=author&query=Tang%2C+Q))
+1. G. Wimmer, B. Southworth, and Q. Tang. A structure-preserving discontinuous Galerkin scheme for the Cahn-Hilliard equation including time adaptivity, _submitted_, 24 pages, 2024.
+1. Q. Zhang, Y. Zhang, Q. Tang, and X.-Z. Tang. Self-mediation of runaway electrons via self-excited wave-wave and wave-particle interactions, _submitted_, 7 pages, 2024.
 1. D. Serino, Q. Tang, X.-Z. Tang, T. V. Kolev, and K. Lipnikov. An adaptive Newton-based free-boundary Grad–Shafranov solver, _submitted_, 23 pages, 2024.
-2. X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, _submitted_, 27 pages, 2024.
-3. D. Serino, A. Alvarez Loya, J. W. Burby, I. G. Kevrekidis, and Q. Tang. Intelligent attractors for singularly perturbed dynamical systems, _submitted_, 32 pages, 2024.
-4. Z. Jorti, Q. Tang, K. Lipnikov, and X.-Z. Tang. A mimetic finite difference based quasi-static magnetohydrodynamic solver for force-free plasmas in tokamak disruptions, _submitted_, 43 pages, 2023.
+1. X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, _submitted_, 27 pages, 2024.
+1. D. Serino, A. Alvarez Loya, J. W. Burby, I. G. Kevrekidis, and Q. Tang. Intelligent attractors for singularly perturbed dynamical systems, _submitted_, 32 pages, 2024.
+1. Z. Jorti, Q. Tang, K. Lipnikov, and X.-Z. Tang. A mimetic finite difference based quasi-static magnetohydrodynamic solver for force-free plasmas in tokamak disruptions, _submitted_, 43 pages, 2023.
 
 ### Journal Publications
 
-5. J. Rudi, M. Heldman, E. M. Constantinescu, Q. Tang, and X.-Z. Tang. Scalable implicit solvers with dynamic mesh adaptation for a relativistic drift-kinetic Fokker–Planck–Boltzmann model, **Journal of Computational Physics**, 507:112954, 2024.
+7. J. Rudi, M. Heldman, E. M. Constantinescu, Q. Tang, and X.-Z. Tang. Scalable implicit solvers with dynamic mesh adaptation for a relativistic drift-kinetic Fokker–Planck–Boltzmann model, **Journal of Computational Physics**, 507:112954, 2024.
 1. M. J. Picklo, Q. Tang, Y. Zhang, J. K. Ryan, and X.-Z. Tang. Denoising Particle-In-Cell Data via Smoothness-Increasing Accuracy-Conserving Filters with Application to Bohm Speed Computation, **Journal of Computational Physics**, 502:112790, 2024.
 1. H. Ji, L. Li and Q. Tang. Numerical methods for fourth-order PDEs on overlapping grids with application to Kirchhoff-Love plates, **Journal of Scientifc Computing**, 98(2):41, 2024.
 1. C.-K. Huang, Q. Tang, et al. Symplectic neural surrogate models for beam dynamics. **Journal of Physics: Conference Series**, 2687(6):062026,  2024.
@@ -33,7 +35,7 @@
 1. A. J. Christlieb, J. A. Rossmanith and Q. Tang. Finite difference weighted essentially non-oscillatory schemes with constrained transport for ideal magnetohydrodynamics, **Journal of Computational Physics**, 268:302–325, 2014.
 
 ### Conference Proceedings
-28. C.-K. Huang, ..., Q. Tang, et al. Modeling of nonlinear beam dynamics via a novel particle-mesh method and surrogate models with symplectic neural networks, **Proceedings of North American Particle Accelerator Conference**, 3 pages, 2022.
+30. C.-K. Huang, ..., Q. Tang, et al. Modeling of nonlinear beam dynamics via a novel particle-mesh method and surrogate models with symplectic neural networks, **Proceedings of North American Particle Accelerator Conference**, 3 pages, 2022.
 1. N. A. Garland, R. Maulik, Q. Tang, X.-Z. Tang and P. Balaprakash. Progress towards high fidelity collisional-radiative model surrogates for rapid in-situ evaluation, **Machine learning for Physical Sciences workshop**, **NeurIPS**, 7 pages, 2020.
 
 ### Techinical Reports 

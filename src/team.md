@@ -7,10 +7,6 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
 ## Current members
 
 ### Postdocs
-* <ins>Daniel Serino</ins>, T-5, Los Alamos National Laboratory, 2022–present
-    * Dan has been supported by ASCR, FES and LANL LDRD.
-    * **Bio:** Dan received his PhD in Mathematics at Rensselaer Polytechnic Institute in 2019 where he specialized in numerical methods for fluid-structure interaction and free-surface flows. Prior to joining LANL, 
-    he held research scientist positions in industry and worked on problems involving acoustic scattering and financial optimization. His current research interests include developing stable numerical discretizations for multi-physics problems, designing long-term stable machine learning architectures for modeling dynamical systems, and developing robust solvers for the free-boundary Grad-Shafranov problem.
 * <ins>Allen Alvarez-Loya</ins>, T-5, Los Alamos National Laboratory, 2022–present
     * Allen has been supported by NSF MPS-Ascend postdoc fellowship ([DMS-2213261](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213261)).
     * **Bio:** Allen received his PhD in applied mathematics at the University of Colorado at Boulder in 2022 where he developed high-order methods for wave phenomena. 
@@ -23,7 +19,7 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
 * <ins>Manolis G. Drimalas</ins>, Department of Physics, University of Arizona, 2024–present
     * Manolis has been supported by LANL LDRD CSES prgoram.
     * Co-advised with Federico Fraschetti (Harvard) and Chengkun Huang (LANL).
-* <ins>Mandela B. Quashie</ins>, Department of Computational Mathematics, Science and Engineering, Michigan State University, 2023–present
+* <ins>Mandela B. Quashie</ins>, Department of CMSE, Michigan State University, 2023–present
     * Mandela has been supported by ASCR and LANL Center for Nonlinear Studies (CNLS).
     * Co-advised with Andrew Christlieb (MSU) and Josh Burby (UT-Austin).
 
@@ -32,6 +28,9 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
 ## Former members
 
 ### Postdocs
+* <ins>Daniel Serino</ins>, T-5, Los Alamos National Laboratory, 2022–2024
+    * Current: Staff Scientist, T-5, Los Alamos National Laboratory
+    * Dan was supported by ASCR, FES and LANL LDRD.
 
 ### Student interns mentored at LANL
 * <ins>Shih-Hsin Wang</ins>, Graduate student from University of Utah, summer 2024

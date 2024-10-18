@@ -19,7 +19,8 @@ nav:
   - 'Scientific machine learning': ml.md
 - Publications: publications.md
 - CV: cv.md
-- Teaching: teaching.md
+- Teaching: 
+  - 'Spring 2025': spring-2025.md
 
 
 theme:
