@@ -2,14 +2,15 @@
 
 ## Instructor information
 
-**Lectures:** W M 6:30-7:45pm <br>
-**Location:** TBD
+**Lectures:** M W 6:30-7:45pm <br>
+**Location:** Boggs B9
 
 **Instructor:** [Qi Tang](https://tangqi.github.io/) <br>
 **Email:** [qtang@gatech.edu](mailto:qtang@gatech.edu) <br>
-**Office Hours:** Mondays 2-3 PM in CODA (TBD)
+**Office Hours:** Tuesdays 2-3 PM in CODA (TBD)
 
-**TA:** TBD
+**TA:** Amrutha Praveen <br>
+**Email:** [aothayoth3@gatech.edu](mailto:aothayoth3@gatech.edu) <br>
 
 ----
 
@@ -35,8 +36,8 @@ The weights for the course grade are as follows.
 
 Category      | %
 --------------|----
-Mini-Projects (during the semester) | 80% 
-Semester-end written assignment (due during exam week) | 10% 
+Mini-Projects (during the semester) | 60% 
+Final Project (due during exam week) | 20% 
 Class participation         | 10% 
 
 The final course grade will be assigned based on the following scale.

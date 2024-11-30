@@ -1,7 +1,7 @@
 ## Appointments
 * Assistant Professor, School of Computational Science and Engineering,
 Georgia Institute of Technology, 2024-present.
-* Scientist 2/3, Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory 2021–2024.
+* Staff Scientist (2 and 3), Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory 2021–2024.
 * Postdoc, Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory 2018–2021.
     * Mentors: [Xianzhu Tang](https://scholar.google.com/citations?user=TzXmYdwAAAAJ&hl=en) and [Luis Chacon](https://scholar.google.com/citations?user=sDebqYwAAAAJ&hl=en)
 * Eliza Ricketts Postdoctoral Fellow, Department of Mathematical Sciences,
@@ -22,7 +22,7 @@ Rensselaer Polytechnic Institute 2015–2018.
 * A stable partitioned multiscale solver for ocean surface and floating structure interaction, LANL LDRD CSES Program, Role: PI\*, FY25-FY27.<br>
 \*The PI role has been transfered to Dan Serino. 
 * Towards the understanding of polarization mystery of astrophysical X-ray sources with MHD-PIC simulations powered by machine learning, LANL LDRD CSES Program, Role: Co-I, FY24-FY27.
-* DeepFusion accelerator for fusion energy sciences in disruption mitigation, DOE-SC FES, Role: Co-I, FY24-FY26.
+* DeepFusion accelerator for fusion energy sciences in disruption mitigation, DOE-SC FES, Role: Co-I (unfunded starting from FY25), FY24-FY26.
 * Accurate discretizations and compatible linear solvers for extreme anisotropies in fusion, LANL LDRD, Role: Co-I (unfunded starting from FY25), FY24-FY26.
 * Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)), DOE-SC ASCR, Role: Co-I, FY23-FY27
 * Inertial neural surrogates for stable dynamical prediction, DOE-SC ASCR, Role: Lead PI, FY22-FY25.
@@ -37,9 +37,10 @@ Rensselaer Polytechnic Institute 2015–2018.
 ----
 
 ## Proposal Review
-* Reviewer for DOE SBIR/STTR Programs, 2021, 2022, 2023, 2024.
-* Reivewer for LANL Instituional Computing, 2022, 2023.
+* DOE SBIR/STTR Program (ASCR)
+* DOE SBIR/STTR Program (FES)
+* LANL Instituional Computing
 
 ## Journal Review
-Journal of Computational Physics, SIAM Journal on Scientific Computing, SIAM Journal on Numerical Analysis, Computer Methods in Applied Mechanics and Engineering, Journal of Scientific Computing, Chaos: An Interdisciplinary Journal of Nonlinear Science, MathSciNet, Communications in Nonlinear Science and Numerical Simulation, Computers & Fluids, Computers & Mathematics with Applications, Physical Review Accelerators and Beams, Physical Review E, Physical Review Fluids, Physical Review Materials, Applied Mathematics and Computation, Applied Mathematics and Mechanics, Electronic Transactions on Numerical Analysis, Journal of Computational and Applied Mathematics, Journal of Physics D: Applied Physics, Machine Learning: Science and Technology, Communications in Computational Physics, Mediterranean Journal of Mathematics, NeurIPS workshops, and many more  (not updating).
+Journal of Computational Physics, SIAM Journal on Scientific Computing, SIAM Journal on Numerical Analysis, Computer Methods in Applied Mechanics and Engineering, Journal of Scientific Computing, Chaos: An Interdisciplinary Journal of Nonlinear Science, MathSciNet, Communications in Nonlinear Science and Numerical Simulation, Computers & Fluids, Computers & Mathematics with Applications, Physical Review Accelerators and Beams, Physical Review E, Physical Review Fluids, Physical Review Materials, Nuclear Fusion, Applied Mathematics and Computation, Applied Mathematics and Mechanics, Electronic Transactions on Numerical Analysis, Journal of Computational and Applied Mathematics, Journal of Physics D: Applied Physics, Machine Learning: Science and Technology, Communications in Computational Physics, Mediterranean Journal of Mathematics, NeurIPS workshops, and more.
 

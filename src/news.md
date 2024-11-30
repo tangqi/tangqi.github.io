@@ -2,6 +2,7 @@
 
 <img width=280px, style="margin:-10px"> | |
 ------------ | -----------------------------------------------------------------
+Nov 22, 2024 | A new paper has been submitted on learning generalized diffusions using a variational framework. Our network builds in an energy dissipation law strongly into the learning framework. This is a joint work with applied mathematicians from Illinois Tech and UCR, and it was primarily supported by our DOE ASCR SciML project. 
 Oct 16, 2024 | A new paper has been submitted on a structure-preserving discontinuous Galerkin scheme for the Cahn-Hilliard equation. We designed and developed the new scheme using a combination of compatible finite elements, fully implicit time stepping, preconditioning, and time adaptivity. This is a joint work with Golo Wimmer and Ben Southworth at LANL. See [arXiv](https://arxiv.org/abs/2410.13087).
 Sep 24, 2024 | A new paper has been submitted on runaway electrons through wave-wave and wave-particle interactions. Using LANL's flagship VPIC code, We conducted large-scale Particle-In-Cell simulations to discover new physics related slow-X modes. This is a joint work with several physicists at LANL. See [arXiv](https://arxiv.org/abs/2409.15830).
 Aug 29, 2024 | Our postdoc, Dan Serino, has accepted an offer to become a Staff Scientist at T-5. He will continue as a collaborator of our team, with his research focusing on machine learning, applied math, and computational science at LANL. Congratulations, Dan!
