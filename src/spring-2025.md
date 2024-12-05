@@ -15,7 +15,7 @@
 ----
 
 ## Course Description
-This undergraduate-level course covers the practical and theoretical aspects of parallel computing and their applications. This course is designed to help you accelerate your code.
+This course covers the practical and theoretical aspects of parallel computing and their applications. It will focus on OpenMPI, MPI, GPU programming (CUDA), practical tools, and scientific applications such as particle-based simulations.
 
 ## Prerequisites
 * Proficiency in C/C++ programming
@@ -23,13 +23,13 @@ This undergraduate-level course covers the practical and theoretical aspects of 
 * Some basic knowledge in Linux
 
 ## Topics
-* Computer architecture and networks
-* Parallel algorithms
-* Performance modeling
+* Overview of single processor computing
+* Introduction to git and PACE
+* Parallel programming and theory
 * Distributed memory (MPI) programming
 * Multithreaded (OpenMP) programming
 * GPU (CUDA) programming
-* Parallel scientific applications	
+* Practical tools and scientific applications (debugger, Kokkos, PETSc, Cabanna, etc)	
 
 ## Grading
 The weights for the course grade are as follows.
@@ -37,7 +37,7 @@ The weights for the course grade are as follows.
 Category      | %
 --------------|----
 Mini-Projects (during the semester) | 60% 
-Final Project (due during exam week) | 20% 
+Final Project (due during exam week) | 30% 
 Class participation         | 10% 
 
 The final course grade will be assigned based on the following scale.
