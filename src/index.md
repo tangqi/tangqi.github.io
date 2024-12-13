@@ -39,7 +39,6 @@ My research was also supported by several LANL Laboratory Directed Research and 
 
 <span style="color:#003057"><b>I have multiple Ph.D. student openings in the School of CSE at Georgia Tech starting in Fall 2025. The Ph.D. projects can involve one or multiple areas from the research interests listed below. If there is sufficient interest, students can undertake a summer internship at one of the DOE national labs. I also strongly support my students in pursuing diverse career paths that align with their interests. If you are interested in joining my team, please email me. Please note that Ph.D. students in the CSE program can have a home unit in a different school. Therefore, I am also interested in accepting students in mathematics or physics.</b></span>
 
-*Due to the nature of the physics and math problems I work on, algorithm development typically requires a year or more of effort. As a result, I do not offer short-term internship positions.*
 
 ## Research interests
 * **High-performance computing:** high-order schemes, scalable iterative solvers, preconditioning, adaptive mesh refinement, GPU accelerations
@@ -55,4 +54,6 @@ My research was also supported by several LANL Laboratory Directed Research and 
 </div>
 
 
-<!-- **Address:** School of Computational Science and Engineering, Georgia Institute of Technology, Atlanta, GA 30332. <br> -->
+<!-- **Address:** School of Computational Science and Engineering, Georgia Institute of Technology, Atlanta, GA 30332.
+*Due to the nature of the physics and math problems I work on, algorithm development typically requires a year or more of effort. As a result, I do not offer short-term internship positions.*
+<br> -->

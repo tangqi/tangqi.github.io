@@ -1,7 +1,7 @@
 ## Publications
 
 ### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate) or can be found on [arXiv](https://arxiv.org/search/?searchtype=author&query=Tang%2C+Q))
-1. Y. Lu, X. Li, C. Liu, Q. Tang, and Y. Wang. Learning generalized diffusions using an energetic variational approach, _submitted_, 15 pages, 2024.
+1. Y. Lu, X. Li, C. Liu, Q. Tang, and Y. Wang. Learning generalized diffusions using an energetic variational approach, _submitted_, 19 pages, 2024.
 1. G. Wimmer, B. Southworth, and Q. Tang. A structure-preserving discontinuous Galerkin scheme for the Cahn-Hilliard equation including time adaptivity, _submitted_, 24 pages, 2024.
 1. Q. Zhang, Y. Zhang, Q. Tang, and X.-Z. Tang. Self-mediation of runaway electrons via self-excited wave-wave and wave-particle interactions, _submitted_, 7 pages, 2024.
 1. D. Serino, Q. Tang, X.-Z. Tang, T. V. Kolev, and K. Lipnikov. An adaptive Newton-based free-boundary Grad–Shafranov solver, _submitted_, 23 pages, 2024.

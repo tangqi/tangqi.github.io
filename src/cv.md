@@ -19,12 +19,13 @@ Rensselaer Polytechnic Institute 2015–2018.
 
 ## Selected Grants
 
+* Fundamental understandings of multi-color/multi-modal radiography and methods for data assimilation and design optimization, DOE Inter-lab LDRD Program, Role: Institutional PI (sub-contract through SNL), FY25-FY27.
 * A stable partitioned multiscale solver for ocean surface and floating structure interaction, LANL LDRD CSES Program, Role: PI\*, FY25-FY27.<br>
 \*The PI role has been transfered to Dan Serino. 
 * Towards the understanding of polarization mystery of astrophysical X-ray sources with MHD-PIC simulations powered by machine learning, LANL LDRD CSES Program, Role: Co-I, FY24-FY27.
+* Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)), DOE-SC ASCR, Role: Co-I at LANL and Institutional PI at GT, FY23-FY27
 * DeepFusion accelerator for fusion energy sciences in disruption mitigation, DOE-SC FES, Role: Co-I (unfunded starting from FY25), FY24-FY26.
 * Accurate discretizations and compatible linear solvers for extreme anisotropies in fusion, LANL LDRD, Role: Co-I (unfunded starting from FY25), FY24-FY26.
-* Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)), DOE-SC ASCR, Role: Co-I, FY23-FY27
 * Inertial neural surrogates for stable dynamical prediction, DOE-SC ASCR, Role: Lead PI, FY22-FY25.
 * Preventing beam degradation in the LANSCE linear accelerator, LANL LDRD, Role: Co-I, FY23.
 * Data compression techniques for particle-based simulations, LANL LDRD ISTI Program, Role: PI, FY22.

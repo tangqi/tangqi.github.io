@@ -17,12 +17,16 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
 ### Ph.D. students
 * <ins>Alejo Ballester</ins>, School of CSE and School of Physics, Georgia Institute of Technology, 2025–present
     * Alejo earned his B.S. in Biomedical Engineering from University of Florida.
+    * My role: advisor
+* [<ins>Rushan Zhang</ins>](https://rzhangbq.github.io/), School of CSE, Georgia Institute of Technology, 2025–present
+    * Rushan earned his B.Eng. in Aerospace Engineering and B.S. in Computer Science from HKUST.
+    * My role: advisor
 * <ins>Manolis G. Drimalas</ins>, Department of Physics, University of Arizona, 2024–present
     * Manolis has been supported by LANL LDRD CSES prgoram.
-    * Co-advised with Federico Fraschetti (Harvard) and Chengkun Huang (LANL).
+    * My role: co-advisor with Federico Fraschetti (Harvard, lead) and Chengkun Huang (LANL).
 * <ins>Mandela B. Quashie</ins>, Department of CMSE, Michigan State University, 2023–present
     * Mandela has been supported by ASCR and LANL Center for Nonlinear Studies (CNLS).
-    * Co-advised with Andrew Christlieb (MSU) and Josh Burby (UT-Austin).
+    * My role: co-advisor with Andrew Christlieb (MSU, lead) and Josh Burby (UT-Austin).
 
 ----
 
@@ -50,10 +54,10 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
 ## Postdoc collaborators at LANL
 * [<ins>Xuping Xie</ins>](https://www.lions.odu.edu/~xxie/), Los Alamos National Laboratory, 2022-2024
     * Current: Assistant Professor, Old Dominion University
-    * I was his informal co-mentor.
+    * My role: informal co-mentor
 * <ins>Zakariae Jorti</ins>, Los Alamos National Laboratory, 2020-2023
     * Current: Senior R&D Engineer, Ansys
-    * I was his informal co-mentor.
+    * My role: informal co-mentor
 * [<ins>Shuang Liu</ins>](https://sites.math.unt.edu/~shuangliu/), Los Alamos National Laboratory, 2020
     * Current: Assistant Professor, University of North Texas
-    * I was her informal co-mentor.
+    * My role: informal co-mentor
