@@ -28,6 +28,9 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
     * Mandela has been supported by ASCR and LANL Center for Nonlinear Studies (CNLS).
     * My role: co-advisor with Andrew Christlieb (MSU, lead) and Josh Burby (UT-Austin).
 
+### Undergraduate students
+* <ins>Jiya Varma</ins>, Computer Science, Georgia Institute of Technology, 2025–present
+
 ----
 
 ## Former members
@@ -38,6 +41,8 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
     * My role: lead mentor
 
 ### Student interns mentored at LANL
+* <ins>Manolis G. Drimalas</ins>, Graduate student from University of Arizona, 2024
+* <ins>Mandela B. Quashie</ins>, Graduate student from Michigan State University (CNLS student fellow), summer 2024
 * <ins>Shih-Hsin Wang</ins>, Graduate student from University of Utah, summer 2024
 * <ins>Jack Coughlin</ins>, Graduate student from University of Washington, summer 2022
 * <ins>Valentin Duruisseaux</ins>, Graduate student from University of California San Diego, summer 2022
@@ -46,7 +51,7 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
 * <ins>Kyle Schwiebert</ins>, Graduate student from Michigan Tech University (NSF MSGI), 2022
 * <ins>Boqian Shen</ins>, Graduate student from Rice University, summer 2021
 * <ins>Mingchang Ding</ins>, Graduate student from University of Delaware, summer 2019
-* <ins>Zhichao Peng</ins>, Graduate student from Rensselear Polytechnic Institute, summer 2019
+* [<ins>Zhichao Peng</ins>](https://zhichaopengmath.github.io/), Graduate student from Rensselear Polytechnic Institute, summer 2019
 * <ins>Kai Huang</ins>, Graduate student from Michigan State University, summer 2019
 
 ---- 

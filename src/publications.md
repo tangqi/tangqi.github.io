@@ -9,7 +9,7 @@
 1. Z. Jorti, Q. Tang, K. Lipnikov, and X.-Z. Tang. A mimetic finite difference based quasi-static magnetohydrodynamic solver for force-free plasmas in tokamak disruptions, _submitted_, 43 pages, 2023.
 
 ### Journal Publications
-7. X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, **Machine Learning: Science and Technology**, _to appear_, 27 pages, 2024.
+7. X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, **Machine Learning: Science and Technology**, 5:045070, 2024.
 1. J. Rudi, M. Heldman, E. M. Constantinescu, Q. Tang, and X.-Z. Tang. Scalable implicit solvers with dynamic mesh adaptation for a relativistic drift-kinetic Fokker–Planck–Boltzmann model, **Journal of Computational Physics**, 507:112954, 2024.
 1. M. J. Picklo, Q. Tang, Y. Zhang, J. K. Ryan, and X.-Z. Tang. Denoising Particle-In-Cell Data via Smoothness-Increasing Accuracy-Conserving Filters with Application to Bohm Speed Computation, **Journal of Computational Physics**, 502:112790, 2024.
 1. H. Ji, L. Li and Q. Tang. Numerical methods for fourth-order PDEs on overlapping grids with application to Kirchhoff-Love plates, **Journal of Scientifc Computing**, 98(2):41, 2024.
