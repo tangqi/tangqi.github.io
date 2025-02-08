@@ -20,8 +20,8 @@ Rensselaer Polytechnic Institute 2015–2018.
 ## Selected Grants
 
 #### At GT
-* Open-source Newton-based free-boundary Grad-Shafranov solver, GT OSPO, Role: PI, Spring 25.
-* Fundamental understandings of multi-color/multi-modal radiography and methods for data assimilation and design optimization, DOE Inter-lab LDRD Program, Role: Institutional PI (sub-contract through SNL), FY25-FY27.
+* An open-source Newton-based free-boundary Grad-Shafranov solver, GT OSPO, Role: PI, Spring 25.
+* Fundamental understandings of multi-color/multi-modal radiography and methods for data assimilation and design optimization, DOE Inter-lab LDRD Program, Role: Institutional PI (sub-contract is being processed), FY25-FY27.
 * Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)), DOE-SC ASCR, Role: Co-I at LANL and Institutional PI at GT, FY23-FY27
 
 #### At LANL
@@ -33,10 +33,17 @@ Rensselaer Polytechnic Institute 2015–2018.
 * Inertial neural surrogates for stable dynamical prediction, DOE-SC ASCR, Role: Lead PI, FY22-FY25.
 * Preventing beam degradation in the LANSCE linear accelerator, LANL LDRD, Role: Co-I, FY23.
 * Data compression techniques for particle-based simulations, LANL LDRD ISTI Program, Role: PI, FY22.
+* Advancing the mission: sparse view dynamic tomographic reconstruction for 3D code validation, LANL LDRD DR, Role: Senior Personnel, FY22-FY24.
+* DeepFusion accelerator for fusion energy sciences in disruption mitigation, DOE-SC SciDAC, Role: Senior Personnel, FY22-FY23.
+* Theory and modeling of magnetic fusion plasma, DOE-SC FES, Role: Senior Personnel, FY20-FY24.
+* Tokamak Disruption Simulation, DOE-SC SciDAC, Role: Senior Personnel, FY19-FY23.
 
 
 ## Computing Allocations
-* ERCAP at the DOE NERSC center, Role: PI, 6M machine hours/year, 2022-2024.
+* ERCAP at the DOE NERSC center (ASCR MMICC), Role: PI proxy, 17K CPU and GPU node hours/year, 2024-present.
+* ERCAP at the DOE NERSC center (FES AI/ML), Role: PI proxy, 29K CPU and GPU node hours/year, 2024-presnet.
+* ERCAP at the DOE NERSC center (FES theory), Role: PI proxy, 20K CPU and GPU node hours/year, 2022-presnet.
+* ERCAP at the DOE NERSC center (ASCR SciML), Role: PI, 6M machine hours/year, 2022-2024.
 * LANL Insitutional Computing, Role: PI, 7.5M machine hours/year, 2021-2024.
 
 ----
@@ -50,5 +57,5 @@ Rensselaer Polytechnic Institute 2015–2018.
 Journal of Computational Physics, SIAM Journal on Scientific Computing, SIAM Journal on Numerical Analysis, Computer Methods in Applied Mechanics and Engineering, Journal of Scientific Computing, Chaos: An Interdisciplinary Journal of Nonlinear Science, MathSciNet, Communications in Nonlinear Science and Numerical Simulation, Computers & Fluids, Computers & Mathematics with Applications, Physical Review Accelerators and Beams, Physical Review E, Physical Review Fluids, Physical Review Materials, Nuclear Fusion, Applied Mathematics and Computation, Applied Mathematics and Mechanics, Electronic Transactions on Numerical Analysis, Journal of Computational and Applied Mathematics, Journal of Physics D: Applied Physics, Machine Learning: Science and Technology, Communications in Computational Physics, Mediterranean Journal of Mathematics, NeurIPS workshops, and more.
 
 ## Workshop Organization
-* Algorithms for Multiphysics Models in the Post-Moore’s Law Era, Role: member of the scientific organizing committee, LANL, June 2nd-13th 2025 (proposed dates).
-* Scale Bridging in Numerical Simulations, Role: member of the scientific organizing committee, LANL, April 22nd-26th 2025.
+* [Algorithms for Multiphysics Models in the Post-Moore’s Law Era](https://sites.google.com/msu.edu/modeling-beyond-moore/home), Role: member of the scientific organizing committee, LANL, June 2nd-13th 2025 (proposed dates).
+* [Scale Bridging in Numerical Simulations](https://sites.google.com/view/scalebridge/meeting?authuser=0), Role: member of the scientific organizing committee, LANL, April 22nd-26th 2024.

@@ -1,6 +1,6 @@
 # Team
 
-Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LDRD, and NSF. 
+Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LDRD, NSF, and Georgia Tech. 
 
 ----
 
@@ -23,10 +23,15 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
     * My role: advisor
 * <ins>Manolis G. Drimalas</ins>, Department of Physics, University of Arizona, 2024–present
     * Manolis has been supported by LANL LDRD CSES prgoram.
-    * My role: co-advisor with Federico Fraschetti (Harvard, lead) and Chengkun Huang (LANL).
+    * My role: co-advisor with Federico Fraschetti (Harvard, primary) and Chengkun Huang (LANL).
 * <ins>Mandela B. Quashie</ins>, Department of CMSE, Michigan State University, 2023–present
     * Mandela has been supported by ASCR and LANL Center for Nonlinear Studies (CNLS).
-    * My role: co-advisor with Andrew Christlieb (MSU, lead) and Josh Burby (UT-Austin).
+    * My role: co-advisor with Andrew Christlieb (MSU, primary) and Josh Burby (UT-Austin).
+
+### Master's students
+* <ins>Alexander de Magalhaes</ins>, School of CSE, Georgia Institute of Technology, 2025–present
+    * Alex earned his B.A. in Physics from Wesleyan University.
+    * Alex has been supported by Georgia Tech OSPO.
 
 ### Undergraduate students
 * <ins>Jiya Varma</ins>, Computer Science, Georgia Institute of Technology, 2025–present
@@ -38,9 +43,10 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
 ### Postdocs
 * [<ins>Daniel Serino</ins>](https://scholar.google.com/citations?user=TUTN7asAAAAJ&hl=en), T-5, Los Alamos National Laboratory, 2022–2024
     * Current: Staff Scientist, T-5, Los Alamos National Laboratory
-    * My role: lead mentor
+    * My role: primary mentor
 
 ### Student interns mentored at LANL
+* <ins>Leonardo Molinari</ins>, Graduate student from Emory University, summer 2025
 * <ins>Manolis G. Drimalas</ins>, Graduate student from University of Arizona, 2024
 * <ins>Mandela B. Quashie</ins>, Graduate student from Michigan State University (CNLS student fellow), summer 2024
 * <ins>Shih-Hsin Wang</ins>, Graduate student from University of Utah, summer 2024
