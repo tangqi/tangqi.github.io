@@ -35,7 +35,7 @@
 1. A. J. Christlieb, J. A. Rossmanith and Q. Tang. Finite difference weighted essentially non-oscillatory schemes with constrained transport for ideal magnetohydrodynamics, **Journal of Computational Physics**, 268:302–325, 2014.
 
 ### Conference Publications (competitive)
-31. S.-H. Wang, Y. Huang, J. M. Baker, Y.-E. Sun, Q. Tang, and B. Wang. A theoretically-principled sparse, connected, and rigid graph representation of molecules, **International Conference on Learning Representations (ICLR)**, 2025.
+31. S.-H. Wang, Y. Huang, J. M. Baker, Y.-E. Sun, Q. Tang, and B. Wang. A theoretically-principled sparse, connected, and rigid graph representation of molecules, **International Conference on Learning Representations (ICLR)**, 2025. [Oral, top 1.8%](https://openreview.net/forum?id=OIvg3MqWX2)
 
 ### Workshop Proceedings (less competitive, peer-reviewed)
 32. C.-K. Huang, ..., Q. Tang, et al. Modeling of nonlinear beam dynamics via a novel particle-mesh method and surrogate models with symplectic neural networks, **Proceedings of North American Particle Accelerator Conference**, 3 pages, 2022.
