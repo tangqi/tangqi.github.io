@@ -47,6 +47,8 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), LANL LD
 
 ### Student interns mentored at LANL
 * <ins>Leonardo Molinari</ins>, Graduate student from Emory University, summer 2025
+* <ins>Jamar Sullivan</ins>, Postbac, summer 2025
+* <ins>Christian Engman</ins>, Undergraduate student from Georgia Institute of Technology, summer 2025
 * <ins>Manolis G. Drimalas</ins>, Graduate student from University of Arizona, 2024
 * <ins>Mandela B. Quashie</ins>, Graduate student from Michigan State University (CNLS student fellow), summer 2024
 * <ins>Shih-Hsin Wang</ins>, Graduate student from University of Utah, summer 2024

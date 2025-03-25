@@ -1,6 +1,7 @@
 ## Publications
 
 ### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate) or can be found on [arXiv](https://arxiv.org/search/?searchtype=author&query=Tang%2C+Q))
+1. A. Alvarez Loya, D. Serino, and Q. Tang. Structure-preserving neural ordinary differential equations for stiff systems, _submitted_, 17 pages, 2025.
 1. Y. Lu, X. Li, C. Liu, Q. Tang, and Y. Wang. Learning generalized diffusions using an energetic variational approach, _submitted_, 19 pages, 2024.
 1. G. Wimmer, B. Southworth, and Q. Tang. A structure-preserving discontinuous Galerkin scheme for the Cahn-Hilliard equation including time adaptivity, JCP, _in revision_, 24 pages, 2024.
 1. Q. Zhang, Y. Zhang, Q. Tang, and X.-Z. Tang. Self-mediation of runaway electrons via self-excited wave-wave and wave-particle interactions, _submitted_, 7 pages, 2024.
@@ -9,7 +10,7 @@
 1. Z. Jorti, Q. Tang, K. Lipnikov, and X.-Z. Tang. A mimetic finite difference based quasi-static magnetohydrodynamic solver for force-free plasmas in tokamak disruptions, _submitted_, 43 pages, 2023.
 
 ### Journal Publications
-7. X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, **Machine Learning: Science and Technology**, 5:045070, 2024.
+8. X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, **Machine Learning: Science and Technology**, 5:045070, 2024.
 1. J. Rudi, M. Heldman, E. M. Constantinescu, Q. Tang, and X.-Z. Tang. Scalable implicit solvers with dynamic mesh adaptation for a relativistic drift-kinetic Fokker–Planck–Boltzmann model, **Journal of Computational Physics**, 507:112954, 2024.
 1. M. J. Picklo, Q. Tang, Y. Zhang, J. K. Ryan, and X.-Z. Tang. Denoising Particle-In-Cell Data via Smoothness-Increasing Accuracy-Conserving Filters with Application to Bohm Speed Computation, **Journal of Computational Physics**, 502:112790, 2024.
 1. H. Ji, L. Li and Q. Tang. Numerical methods for fourth-order PDEs on overlapping grids with application to Kirchhoff-Love plates, **Journal of Scientific Computing**, 98(2):41, 2024.
@@ -35,10 +36,10 @@
 1. A. J. Christlieb, J. A. Rossmanith and Q. Tang. Finite difference weighted essentially non-oscillatory schemes with constrained transport for ideal magnetohydrodynamics, **Journal of Computational Physics**, 268:302–325, 2014.
 
 ### Conference Publications (competitive)
-31. S.-H. Wang, Y. Huang, J. M. Baker, Y.-E. Sun, Q. Tang, and B. Wang. A theoretically-principled sparse, connected, and rigid graph representation of molecules, **International Conference on Learning Representations (ICLR)**, 2025. [Oral, top 1.8%](https://openreview.net/forum?id=OIvg3MqWX2)
+32. S.-H. Wang, Y. Huang, J. M. Baker, Y.-E. Sun, Q. Tang, and B. Wang. A theoretically-principled sparse, connected, and rigid graph representation of molecules, **International Conference on Learning Representations (ICLR)**, 2025. [Oral, top 1.8%](https://openreview.net/forum?id=OIvg3MqWX2)
 
 ### Workshop Proceedings (less competitive, peer-reviewed)
-32. C.-K. Huang, ..., Q. Tang, et al. Modeling of nonlinear beam dynamics via a novel particle-mesh method and surrogate models with symplectic neural networks, **Proceedings of North American Particle Accelerator Conference**, 3 pages, 2022.
+33. C.-K. Huang, ..., Q. Tang, et al. Modeling of nonlinear beam dynamics via a novel particle-mesh method and surrogate models with symplectic neural networks, **Proceedings of North American Particle Accelerator Conference**, 3 pages, 2022.
 1. N. A. Garland, R. Maulik, Q. Tang, X.-Z. Tang and P. Balaprakash. Progress towards high fidelity collisional-radiative model surrogates for rapid in-situ evaluation, **Machine learning for Physical Sciences workshop**, **NeurIPS**, 7 pages, 2020.
 
 ### Techinical Reports 

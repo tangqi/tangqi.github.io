@@ -43,7 +43,7 @@ My research was also supported by several LANL Laboratory Directed Research and 
 ## Research interests
 * **High-performance computing:** high-order schemes, scalable iterative solvers, preconditioning, adaptive mesh refinement, GPU accelerations
 * **Scientific computing and simulations:** multiscale and multiphysics problems, fusion whole device modeling, computational plasma physics, fluid-structure interaction
-* **AI/ML:** structure-preserving machine learning, dynamical system learning, ML-based surrogates
+* **AI/ML:** structure-preserving machine learning, dynamical system learning, scale bridging, ML-based surrogates
 
 ## Partnership 
 * I am part of the DOE ASCR MMICC Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)).
