@@ -2,6 +2,7 @@
 
 <img width=280px, style="margin:-10px"> | |
 ------------ | -----------------------------------------------------------------
+Mar 26, 2025 | Our NSF Postdoctoral Fellow, Allen Alvarez Loya, has been selected as the next Information Science & Technology (ISTI) Postdoctoral Fellow at LANL. He will formally join LANL soon (although he has already been at LANL for two and half years). His lead mentor will be Dan Serino. Congratulations, Allen! 
 Mar 17, 2025 | Qi Tang will serve the organizing committee for the next MFEM community workshop. The workshop is scheduled to be held in Portland in Sep 2025. To learn more about past workshops, click [here](https://mfem.org/workshop/). 
 Mar 12, 2025 | Qi Tang is selected to be an invited speaker in the upcoming NAPAC 25, the largest domestic conference for accelerator science and technology. He will talk about "Symplectic Neural Network Surrogate Models for Applications to Beam Dynamics." See [here](https://events.slac.stanford.edu/napac25/scientific-program/invited-program) for more details. 
 Mar 3, 2025 | A new paper has been submitted on learning stiff dynamics. We build several structures strongly into neural ODE and leverage the advanced time stepping techinque of exponential integrators. The lead author is Allen Alvarez Loya, who is an NSF postdoc in our team. See [arXiv](https://arxiv.org/abs/2503.01775).
