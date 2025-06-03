@@ -20,8 +20,8 @@ Rensselaer Polytechnic Institute 2015–2018.
 ## Selected Grants
 
 #### At GT
-* An open-source Newton-based free-boundary Grad-Shafranov solver, GT OSPO, Role: PI, Spring 25.
-* Fundamental understandings of multi-color/multi-modal radiography and methods for data assimilation and design optimization, DOE Inter-lab LDRD Program, Role: Institutional PI (sub-contract is being processed), FY25-FY27.
+* An open-source Newton-based free-boundary Grad-Shafranov solver, GT OSPO, Role: PI, FY25.
+* Fundamental understandings of multi-color/multi-modal radiography and methods for data assimilation and design optimization, DOE Inter-lab LDRD Program, Role: Institutional PI, FY25-FY27.
 * Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)), DOE-SC ASCR, Role: Co-I at LANL and Institutional PI at GT, FY23-FY27
 
 #### At LANL
@@ -49,6 +49,7 @@ Rensselaer Polytechnic Institute 2015–2018.
 ----
 
 ## Proposal Review
+* DOE FES
 * DOE SBIR/STTR Program (ASCR)
 * DOE SBIR/STTR Program (FES)
 * LANL Instituional Computing

@@ -2,6 +2,11 @@
 
 <img width=280px, style="margin:-10px"> | |
 ------------ | -----------------------------------------------------------------
+May 31, 2025  | A new paper titled "Symplectic neural network and its applications to charged particle dynamics in electromagnetic fields" has been submitted. We develop several symplectic neural networks for charged particle dynamics and compare against the classical Boris pusher. This work is led by the PhD student Manolis Drimalas (Arizona).
+May 15, 2025  | Rushan has been selected to attend the 13th Argonne Training Program on Extreme-Scale Computing ([ATPESC](https://extremecomputingtraining.anl.gov/)), hosted by Argonne National Laboratory. He was chosen from over 200 applicants to receive full travel support.
+May 8, 2025  | Mandela has won the best poster award in the MSU graduate research symposium.
+Apr 25, 2025 | GT CSE PhD students, Alejo Ballester and Rushan Zhang, have been selected to attend the NSF sponsored [structure-preserving scientific computing and machine learning summer school and hackathon](https://sites.google.com/view/crg-spd/events/seattle-2025). We thank the workshop organizers for their generous travel support. One of the hackathon projects will be led by Jack Coughlin, a scientist at Zap Energy and a former student intern with our team.
+Apr 15, 2025 | Our postdoc, Oleksii Beznosov, has accepted an offer to become a Staff Scientist at T-5. Congratulations, Oleksii!
 Mar 26, 2025 | Our NSF Postdoctoral Fellow, Allen Alvarez Loya, has been selected as the next Information Science & Technology (ISTI) Postdoctoral Fellow at LANL. He will formally join LANL soon (although he has already been at LANL for two and half years). His lead mentor will be Dan Serino. Congratulations, Allen! 
 Mar 17, 2025 | Qi Tang will serve the organizing committee for the next MFEM community workshop. The workshop is scheduled to be held in Portland in Sep 2025. To learn more about past workshops, click [here](https://mfem.org/workshop/). 
 Mar 12, 2025 | Qi Tang is selected to be an invited speaker in the upcoming NAPAC 25, the largest domestic conference for accelerator science and technology. He will talk about "Symplectic Neural Network Surrogate Models for Applications to Beam Dynamics." See [here](https://events.slac.stanford.edu/napac25/scientific-program/invited-program) for more details. 
