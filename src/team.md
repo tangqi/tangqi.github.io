@@ -13,11 +13,11 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), DOE LDR
     * My role: mentor
 
 ### PhD students
-* <ins>Alejo Ballester</ins>, School of CSE and School of Physics, Georgia Institute of Technology, 2025–present
+* <ins>Alejo Ballester</ins>, School of CSE and School of Physics, Georgia Tech, 2025–present
     * Alejo earned his B.S. in Biomedical Engineering from University of Florida.
     * Alejo has been supported by Georgia Tech and ASCR.
     * My role: advisor
-* [<ins>Rushan Zhang</ins>](https://rzhangbq.github.io/), School of CSE, Georgia Institute of Technology, 2025–present
+* [<ins>Rushan Zhang</ins>](https://rzhangbq.github.io/), School of CSE, Georgia Tech, 2025–present
     * Rushan earned his B.Eng. in Aerospace Engineering and B.S. in Computer Science from HKUST.
     * Rushan has been supported by Georgia Tech.
     * My role: advisor
@@ -29,20 +29,29 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), DOE LDR
     * My role: co-advisor with Andrew Christlieb (MSU, primary) and Josh Burby (UT-Austin).
 
 ### Master's students
-* <ins>Alexander de Magalhaes</ins>, School of CSE, Georgia Institute of Technology, 2025–present
+* <ins>Alexander de Magalhaes</ins>, School of CSE, Georgia Tech, 2025–present
     * Alex earned his B.A. in Physics from Wesleyan University.
     * Alex has been supported by Georgia Tech OSPO and ASCR.
 
 ### Undergraduate students
-* <ins>Jiya Varma</ins>, Computer Science, Georgia Institute of Technology, 2025–present
-* <ins>Miles Hauck</ins>, Electrical Engineering, Georgia Institute of Technology, 2025–present
+* <ins>Jiya Varma</ins>, Computer Science, Georgia Tech, 2025–present
+* <ins>Miles Hauck</ins>, Electrical Engineering, Georgia Tech, 2025–present
+* <ins>Connor Kelly</ins>, Nuclear Engineering, Georgia Tech, 2025–present
+* <ins>Julian Siegmund</ins>, Physics,  Oglethorpe University, 2025–present
+
+### Student interns at GT 
+* <ins>Saisruthi Bandla</ins>, Graduate student in AE, summer 2025
+    * Saisruthi is supported by Georgia Tech OSPO.
+* <ins>Janani Murugan</ins>, Undergraduate student in Biochemistry and CS, summer 2025
+    * Janani is supported by Georgia Tech OSPO.
+
 
 ### Student interns at LANL
-* <ins>Leonardo Molinari</ins>, Graduate student from Emory University, summer 2025
+* <ins>Leonardo (Leo) Molinari</ins>, Graduate student from Emory University, summer 2025
     * Leo is supported by LANL LDRD CSES program.
 * <ins>Jamar Sullivan</ins>, Postbac, summer 2025
     * Jamar is supported by LANL LDRD through the inter-lab program.
-* <ins>Christian Engman</ins>, Undergraduate student from Georgia Institute of Technology, summer 2025
+* <ins>Christian Engman</ins>, Undergraduate student from Georgia Tech, summer 2025
     * Christian is supported by LANL LDRD through the inter-lab program.
 
 ----
@@ -61,12 +70,12 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), DOE LDR
 ### Student interns mentored at LANL
 * <ins>Emmanouil G. Drimalas</ins>, Graduate student from University of Arizona, 2024
 * <ins>Mandela B. Quashie</ins>, Graduate student from Michigan State University (CNLS student fellow), summer 2024
-* <ins>Shih-Hsin Wang</ins>, Graduate student from University of Utah, summer 2024
+* [<ins>Shih-Hsin Wang</ins>](https://shihhsinwang0214.github.io/persnoal_website/), Graduate student from University of Utah, summer 2024
 * <ins>Jack Coughlin</ins>, Graduate student from University of Washington, summer 2022
-* <ins>Valentin Duruisseaux</ins>, Graduate student from University of California San Diego, summer 2022
+* [<ins>Valentin Duruisseaux</ins>](https://sites.google.com/view/valduruisseaux), Graduate student from University of California San Diego, summer 2022
 * <ins>George Kevrekidis</ins>, Graduate student from Johns Hopkins University, summer 2022
 * <ins>Matt Picklo</ins>, Graduate student from Colorado School of Mines (ISTI fellow), summer 2022
-* <ins>Kyle Schwiebert</ins>, Graduate student from Michigan Tech University (NSF MSGI), 2022
+* [<ins>Kyle Schwiebert</ins>](https://www.ornl.gov/staff-profile/kyle-schwiebert), Graduate student from Michigan Tech University (NSF MSGI), 2022
 * <ins>Boqian Shen</ins>, Graduate student from Rice University, summer 2021
 * <ins>Mingchang Ding</ins>, Graduate student from University of Delaware, summer 2019
 * [<ins>Zhichao Peng</ins>](https://zhichaopengmath.github.io/), Graduate student from Rensselear Polytechnic Institute, summer 2019
