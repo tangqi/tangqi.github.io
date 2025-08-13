@@ -150,9 +150,9 @@
     
         <li class="main active"><a href="#scientific-machine-learning">Scientific machine learning</a></li>
         
-            <li><a href="#fast-neural-poincare-maps-for-toroidal-magnetic-fields">Fast neural Poincaré maps for toroidal magnetic fields</a></li>
+            <li><a href="#structure-preserving-sciml-work">Structure-preserving SciML work</a></li>
         
-            <li><a href="#other-structure-preserving-sciml-work">Other structure-preserving SciML work</a></li>
+            <li><a href="#fast-ml-based-surrogates-for-fusion-modeling">Fast ML-based surrogates for fusion modeling</a></li>
         
     
     </ul>
@@ -166,11 +166,18 @@
 
 <h1 id="scientific-machine-learning">Scientific machine learning</h1>
 <p>I have been increasingly interested in ML/AI, particularly in integrating mathematical and physical structures into neural networks. Therefore, I mainly focus on structure-preserving ML. Scientific machine learning (SciML) offers a promising approach to tackling problems where traditional numerical algorithms fall short. For instance, when designed properly, SciML can provide an alternative method for studying dynamical systems.</p>
-<h2 id="fast-neural-poincare-maps-for-toroidal-magnetic-fields">Fast neural Poincaré maps for toroidal magnetic fields</h2>
-<p><img alt="" src="../img/gallery/rmp.png" />
-Poincaré maps for toroidal magnetic fields are routinely employed to study gross confinement properties in devices built to contain hot plasmas. In most practical applications, evaluating a Poincaré map requires numerical integration of a magnetic field line, a process that can be slow and that cannot be easily accelerated using parallel computations. We propose a novel neural network architecture, the HénonNet,<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> and show that it is capable of accurately learning realistic Poincaré maps from observations of a conventional field-line-following algorithm. After training, such learned Poincaré maps evaluate much faster than the field-line integration method. Moreover, the HénonNet architecture exactly reproduces the primary physics constraint imposed on field-line Poincaré maps: flux preservation. This structure-preserving property is the consequence of each layer in a HénonNet being a symplectic map. We demonstrate empirically that a HénonNet can learn to mock the confinement properties of a large magnetic island by using coiled hyperbolic invariant manifolds to produce a sticky chaotic region at the desired island location. This suggests a novel approach to designing magnetic fields with good confinement properties that may be more flexible than ensuring confinement using KAM tori.</p>
-<h2 id="other-structure-preserving-sciml-work">Other structure-preserving SciML work</h2>
-<p>The recent representative papers include: physics-assisted learning,<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> dynamics learning for multiscale and/or stiff ODEs<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup> <sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup> and large-scale PDEs,<sup id="fnref:5"><a class="footnote-ref" href="#fn:5">5</a></sup> learning flow maps for multiscale Hamiltonians <sup id="fnref:6"><a class="footnote-ref" href="#fn:6">6</a></sup> and their applications.<sup id="fnref:7"><a class="footnote-ref" href="#fn:7">7</a></sup> Please refer to the following references for more details. I plan to write more on this topic when I have time. </p>
+<hr />
+<p><b><span style="color:#003057">The following structure-preserving SciML work has been primarily supported by DOE ASCR data-intensive scientific machine learning. </span></b></p>
+<h2 id="structure-preserving-sciml-work">Structure-preserving SciML work</h2>
+<p>The recent representative papers include: dynamics learning for multiscale and/or stiff ODEs<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> <sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> <sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup> and large-scale PDEs,<sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup> learning flow maps for Hamiltonians <sup id="fnref:5"><a class="footnote-ref" href="#fn:5">5</a></sup> <sup id="fnref:6"><a class="footnote-ref" href="#fn:6">6</a></sup>, their applications,<sup id="fnref:7"><a class="footnote-ref" href="#fn:7">7</a></sup> <sup id="fnref:8"><a class="footnote-ref" href="#fn:8">8</a></sup> and molecular dynamics<sup id="fnref:9"><a class="footnote-ref" href="#fn:9">9</a></sup> <sup id="fnref:10"><a class="footnote-ref" href="#fn:10">10</a></sup> 
+Please refer to the corresponding references for more details. </p>
+<hr />
+<p><img alt="" src="../img/gallery/rmp.png" /></p>
+<p><b><span style="color:#003057">The following fusion ML work has been primarily supported by DOE FES SciDAC and FES AI/ML programs. </span></b></p>
+<h2 id="fast-ml-based-surrogates-for-fusion-modeling">Fast ML-based surrogates for fusion modeling</h2>
+<p>We have developed novel symplectic neural network (HenonNet) and applied it as a fast surrogate to generate Poincaré plot for tokamaks.<sup id="fnref:11"><a class="footnote-ref" href="#fn:11">11</a></sup>
+We also developed physics-assisted latent dynamics learning for collisional radiative models.<sup id="fnref:12"><a class="footnote-ref" href="#fn:12">12</a></sup> <sup id="fnref:13"><a class="footnote-ref" href="#fn:13">13</a></sup>
+Please refer to the corresponding references for more details. </p>
 <script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: {equationNumbers: {autoNumber: "all"}}, tex2jax: {inlineMath: [['$','$']]}});</script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_HTML"></script>
 
@@ -178,25 +185,43 @@ Poincaré maps for toroidal magnetic fields are routinely employed to study gros
 <hr />
 <ol>
 <li id="fn:1">
-<p>J. W. Burby, Q. Tang and R. Maulik. Fast neural Poincare maps for toroidal magnetic fields, <strong>Plasma Physics and Controlled Fusion</strong>, 63:024001, 2020.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+<p>D. Serino, A. Alvarez Loya, J. W. Burby, I. G. Kevrekidis, and Q. Tang. Fast-slow neural networks for learning singularly perturbed dynamical systems, <strong>Journal of Computational Physics</strong>, 537:114090, 2025.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 <li id="fn:2">
-<p>X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, <strong>Machine Learning: Science and Technology</strong>, 5:045070, 2024.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+<p>A. Alvarez Loya, D. Serino, J. Burby, and Q. Tang. Structure-preserving neural ordinary differential equations for stiff systems, <em>submitted</em>, 16 pages, 2025.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
 </li>
 <li id="fn:3">
-<p>D. Serino, A. Alvarez Loya, J. W. Burby, I. G. Kevrekidis, and Q. Tang. Fast-slow neural networks for learning singularly perturbed dynamical systems, <strong>Journal of Computational Physics</strong>, 537:114090, 2025.&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+<p>Y. Lu, X. Li, C. Liu, Q. Tang, and Y. Wang. Learning generalized diffusions using an energetic variational approach, <em>submitted</em>, 23 pages, CiCP, 2024.&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
 </li>
 <li id="fn:4">
-<p>A. Alvarez Loya, D. Serino, J. Burby, and Q. Tang. Structure-preserving neural ordinary differential equations for stiff systems, <em>submitted</em>, 16 pages, 2025.&#160;<a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+<p>A. J. Linot, J. W. Burby, Q. Tang, P. Balaprakash, M. D. Graham, and R. Maulik. Stabilized Neural Ordinary Differential Equations for Long-Time Forecasting of Dynamical Systems, <strong>Journal of Computational Physics</strong>, 474:111838, 2023.&#160;<a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
 </li>
 <li id="fn:5">
-<p>A. J. Linot, J. W. Burby, Q. Tang, P. Balaprakash, M. D. Graham, and R. Maulik. Stabilized Neural Ordinary Differential Equations for Long-Time Forecasting of Dynamical Systems, <strong>Journal of Computational Physics</strong>, 474:111838, 2023.&#160;<a class="footnote-backref" href="#fnref:5" title="Jump back to footnote 5 in the text">&#8617;</a></p>
+<p>V. Duruisseaux, J. W. Burby, and Q. Tang. Approximation of Nearly-Periodic Symplectic Maps via Structure-Preserving Neural Networks, <strong>Scientific Reports</strong>, 13.1:8351, 2023.&#160;<a class="footnote-backref" href="#fnref:5" title="Jump back to footnote 5 in the text">&#8617;</a></p>
 </li>
 <li id="fn:6">
-<p>V. Duruisseaux, J. W. Burby, and Q. Tang. Approximation of Nearly-Periodic Symplectic Maps via Structure-Preserving Neural Networks, <strong>Scientific Reports</strong>, 13.1:8351, 2023.&#160;<a class="footnote-backref" href="#fnref:6" title="Jump back to footnote 6 in the text">&#8617;</a></p>
+<p>Y. Chen, W. Guo, Q. Tang, X. Zhong. Reduced-order modeling of Hamiltonian dynamics based on symplectic neural networks, <em>submitted</em>, 25 pages, 2025.&#160;<a class="footnote-backref" href="#fnref:6" title="Jump back to footnote 6 in the text">&#8617;</a></p>
 </li>
 <li id="fn:7">
-<p>E. G. Drimalas, F. Fraschetti, C.-K. Huang, and Q. Tang. Symplectic neural network and its applications to charged particle dynamics in electromagnetic fields, <em>submitted</em>, 15 pages, 2025.&#160;<a class="footnote-backref" href="#fnref:7" title="Jump back to footnote 7 in the text">&#8617;</a></p>
+<p>E. G. Drimalas, F. Fraschetti, C.-K. Huang, and Q. Tang. Symplectic neural network and its applications to charged particle dynamics in electromagnetic fields, <em>in revision</em>, PoP, 16 pages, 2025.&#160;<a class="footnote-backref" href="#fnref:7" title="Jump back to footnote 7 in the text">&#8617;</a></p>
+</li>
+<li id="fn:8">
+<p>C.-K. Huang, Q. Tang, et al. Symplectic neural surrogate models for beam dynamics. <strong>Journal of Physics: Conference Series</strong>, 2687(6):062026, 2024.&#160;<a class="footnote-backref" href="#fnref:8" title="Jump back to footnote 8 in the text">&#8617;</a></p>
+</li>
+<li id="fn:9">
+<p>H. Tischler, W. Li, Q. Tang, D. Perez, and T. Vogel. Predicting atomistic transitions with transformers, <em>submitted</em>, 10 pages, 2025.&#160;<a class="footnote-backref" href="#fnref:9" title="Jump back to footnote 9 in the text">&#8617;</a></p>
+</li>
+<li id="fn:10">
+<p>S.-H. Wang, Y. Huang, J. M. Baker, Y.-E. Sun, Q. Tang, and B. Wang. A theoretically-principled sparse, connected, and rigid graph representation of molecules, <strong>International Conference on Learning Representations (ICLR)</strong>, 2025.&#160;<a class="footnote-backref" href="#fnref:10" title="Jump back to footnote 10 in the text">&#8617;</a></p>
+</li>
+<li id="fn:11">
+<p>J. W. Burby, Q. Tang and R. Maulik. Fast neural Poincare maps for toroidal magnetic fields, <strong>Plasma Physics and Controlled Fusion</strong>, 63:024001, 2020.&#160;<a class="footnote-backref" href="#fnref:11" title="Jump back to footnote 11 in the text">&#8617;</a></p>
+</li>
+<li id="fn:12">
+<p>N. A. Garland, R. Maulik, Q. Tang, X.-Z. Tang and P. Balaprakash. Efficient data acquisition and training of collisional-radiative model artificial neural network surrogates through adaptive parameter space sampling, <strong>Machine Learning: Science and Technology</strong>, 3:045003, 2022.&#160;<a class="footnote-backref" href="#fnref:12" title="Jump back to footnote 12 in the text">&#8617;</a></p>
+</li>
+<li id="fn:13">
+<p>X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, <strong>Machine Learning: Science and Technology</strong>, 5:045070, 2024.&#160;<a class="footnote-backref" href="#fnref:13" title="Jump back to footnote 13 in the text">&#8617;</a></p>
 </li>
 </ol>
 </div></div>
@@ -205,9 +230,9 @@ Poincaré maps for toroidal magnetic fields are routinely employed to study gros
     
         <li class="main active"><a href="#scientific-machine-learning">Scientific machine learning</a></li>
         
-            <li><a href="#fast-neural-poincare-maps-for-toroidal-magnetic-fields">Fast neural Poincaré maps for toroidal magnetic fields</a></li>
+            <li><a href="#structure-preserving-sciml-work">Structure-preserving SciML work</a></li>
         
-            <li><a href="#other-structure-preserving-sciml-work">Other structure-preserving SciML work</a></li>
+            <li><a href="#fast-ml-based-surrogates-for-fusion-modeling">Fast ML-based surrogates for fusion modeling</a></li>
         
     
     </ul>
