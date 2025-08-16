@@ -1,15 +1,16 @@
 ## Publications
 
 ### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate) or can be found on [arXiv](https://arxiv.org/search/?searchtype=author&query=Tang%2C+Q))
+1. Y. Chen, W. Guo, Q. Tang, X. Zhong. Reduced-order modeling of Hamiltonian dynamics based on symplectic neural networks, _submitted_, 25 pages, 2025.
 1. H. Tischler, W. Li, Q. Tang, D. Perez, and T. Vogel. Predicting atomistic transitions with transformers, _submitted_, 10 pages, 2025.
-1. E. G. Drimalas, F. Fraschetti, C.-K. Huang, and Q. Tang. Symplectic neural network and its applications to charged particle dynamics in electromagnetic fields, _submitted_, PoP, 16 pages, 2025.
-1. A. Alvarez Loya, D. Serino, J. Burby, and Q. Tang. Structure-preserving neural ordinary differential equations for stiff systems, _submitted_, 16 pages, 2025.
+1. E. G. Drimalas, F. Fraschetti, C.-K. Huang, and Q. Tang. Symplectic neural network and its applications to charged particle dynamics in electromagnetic fields, _in revision_, PoP, 16 pages, 2025.
+1. A. Alvarez Loya, D. Serino, J. Burby, and Q. Tang. Structure-preserving neural ordinary differential equations for stiff systems, _submitted_, 16 pages, NNs, 2025.
 1. Y. Lu, X. Li, C. Liu, Q. Tang, and Y. Wang. Learning generalized diffusions using an energetic variational approach, _submitted_, 23 pages, CiCP, 2024.
 1. Q. Zhang, Y. Zhang, Q. Tang, and X.-Z. Tang. Self-mediation of runaway electrons via self-excited wave-wave and wave-particle interactions, _submitted_, 7 pages, 2024.
 1. Z. Jorti, Q. Tang, K. Lipnikov, and X.-Z. Tang. A mimetic finite difference based quasi-static magnetohydrodynamic solver for force-free plasmas in tokamak disruptions, _submitted_, 43 pages, 2023.
 
 ### Journal Publications
-7. D. Serino, Q. Tang, X.-Z. Tang, T. V. Kolev, and K. Lipnikov. An adaptive Newton-based free-boundary Grad–Shafranov solver, **SIAM Journal on Scientific Computing**, _to appear_, 24 pages, 2025.
+8. D. Serino, Q. Tang, X.-Z. Tang, T. V. Kolev, and K. Lipnikov. An adaptive Newton-based free-boundary Grad–Shafranov solver, **SIAM Journal on Scientific Computing**, _to appear_, 24 pages, 2025.
 1. G. Wimmer, B. Southworth, and Q. Tang. A structure-preserving discontinuous Galerkin scheme for the Cahn-Hilliard equation including time adaptivity, **Journal of Computational Physics**, 537:114097, 2025.
 1. D. Serino, A. Alvarez Loya, J. W. Burby, I. G. Kevrekidis, and Q. Tang. Fast-slow neural networks for learning singularly perturbed dynamical systems, **Journal of Computational Physics**, 537:114090,  2025.
 1. X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, **Machine Learning: Science and Technology**, 5:045070, 2024.
@@ -38,10 +39,10 @@
 1. A. J. Christlieb, J. A. Rossmanith and Q. Tang. Finite difference weighted essentially non-oscillatory schemes with constrained transport for ideal magnetohydrodynamics, **Journal of Computational Physics**, 268:302–325, 2014.
 
 ### Conference Publications (competitive)
-34. S.-H. Wang, Y. Huang, J. M. Baker, Y.-E. Sun, Q. Tang, and B. Wang. A theoretically-principled sparse, connected, and rigid graph representation of molecules, **International Conference on Learning Representations (ICLR)**, 2025. [Oral, top 1.8%](https://openreview.net/forum?id=OIvg3MqWX2)
+35. S.-H. Wang, Y. Huang, J. M. Baker, Y.-E. Sun, Q. Tang, and B. Wang. A theoretically-principled sparse, connected, and rigid graph representation of molecules, **International Conference on Learning Representations (ICLR)**, 2025. [Oral, top 1.8%](https://openreview.net/forum?id=OIvg3MqWX2)
 
 ### Workshop Proceedings (less competitive, peer-reviewed)
-35. C.-K. Huang, ..., Q. Tang, et al. Modeling of nonlinear beam dynamics via a novel particle-mesh method and surrogate models with symplectic neural networks, **Proceedings of North American Particle Accelerator Conference**, 3 pages, 2022.
+36. C.-K. Huang, ..., Q. Tang, et al. Modeling of nonlinear beam dynamics via a novel particle-mesh method and surrogate models with symplectic neural networks, **Proceedings of North American Particle Accelerator Conference**, 3 pages, 2022.
 1. N. A. Garland, R. Maulik, Q. Tang, X.-Z. Tang and P. Balaprakash. Progress towards high fidelity collisional-radiative model surrogates for rapid in-situ evaluation, **Machine learning for Physical Sciences workshop**, **NeurIPS**, 7 pages, 2020.
 
 ### Techinical Reports 

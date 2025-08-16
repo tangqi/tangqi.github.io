@@ -2,8 +2,11 @@
 
 <img width=280px, style="margin:-10px"> | |
 ------------ | -----------------------------------------------------------------
-May 31, 2025  | A new paper titled "Symplectic neural network and its applications to charged particle dynamics in electromagnetic fields" has been submitted. We develop several symplectic neural networks for charged particle dynamics and compare against the classical Boris pusher. This work is led by the PhD student Manolis Drimalas (Arizona).
-May 15, 2025  | Rushan has been selected to attend the 13th Argonne Training Program on Extreme-Scale Computing ([ATPESC](https://extremecomputingtraining.anl.gov/)), hosted by Argonne National Laboratory. He was chosen from over 200 applicants to receive full travel support.
+Aug 15, 2025 | A new paper titled "Reduced-order modeling of Hamiltonian dynamics based on symplectic neural networks" has been submitted. We develop a novel symplectic model reduction technique for general Hamiltonians. This work is an extension of our recent effort in symplectic neural networks.
+Aug 13, 2025 | Qi Tang gave an invited talk at [NAPAC 25](https://events.slac.stanford.edu/napac25/scientific-program/invited-program). He talked about "Symplectic Neural Network Surrogate Models for Applications to Beam Dynamics".
+Jul 11, 2025 | GT CS UG student Jiya Varma has won President’s Undergraduate Research Award (PURA). She will work on structure-preserving ML for particle dynamics.
+May 31, 2025 | A new paper titled "Symplectic neural network and its applications to charged particle dynamics in electromagnetic fields" has been submitted. We develop several symplectic neural networks for charged particle dynamics and compare against the classical Boris pusher. This work is led by the PhD student Manolis Drimalas (Arizona).
+May 15, 2025 | Rushan has been selected to attend the 13th Argonne Training Program on Extreme-Scale Computing ([ATPESC](https://extremecomputingtraining.anl.gov/)), hosted by Argonne National Laboratory. He was chosen from over 200 applicants to receive full travel support.
 May 8, 2025  | Mandela has won the best poster award in the MSU graduate research symposium.
 Apr 25, 2025 | GT CSE PhD students, Alejo Ballester and Rushan Zhang, have been selected to attend the NSF sponsored [structure-preserving scientific computing and machine learning summer school and hackathon](https://sites.google.com/view/crg-spd/events/seattle-2025). We thank the workshop organizers for their generous travel support. One of the hackathon projects will be led by Jack Coughlin, a scientist at Zap Energy and a former student intern with our team.
 Apr 15, 2025 | Our postdoc, Oleksii Beznosov, has accepted an offer to become a Staff Scientist at T-5. Congratulations, Oleksii!

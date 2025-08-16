@@ -1,6 +1,6 @@
 # Team
 
-Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), DOE LDRDs, NSF, and Georgia Tech. 
+Our team has been supported by DOE Office of Science (ASCR, FES, SciDAC), DOE LDRDs, NSF, NASA, and Georgia Tech. 
 
 ----
 
@@ -12,53 +12,54 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), DOE LDR
     * Allen has been supported by NSF MPS-Ascend postdoc fellowship ([DMS-2213261](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213261)).
     * My role: mentor
 
-### PhD students
+### PhD students at GT
 * <ins>Alejo Ballester</ins>, School of CSE and School of Physics, Georgia Tech, 2025–present
     * Alejo earned his B.S. in Biomedical Engineering from University of Florida.
     * Alejo has been supported by Georgia Tech and ASCR.
+    * My role: advisor
+* <ins>Tage Burnett</ins>, School of CSE, Georgia Tech, 2025–present
+    * Tage earned his B.S. in Mechanical Engineering from Brigham Young University.
+    * My role: advisor (co-advised with Spencer Bryngelson)
+* <ins>Harshavardhan Harish</ins>, School of CSE, Georgia Tech, 2025–present
+    * Harsha earned his B.S. in Math and Certificate in CSE from University of Texas at Austin.
     * My role: advisor
 * [<ins>Rushan Zhang</ins>](https://rzhangbq.github.io/), School of CSE, Georgia Tech, 2025–present
     * Rushan earned his B.Eng. in Aerospace Engineering and B.S. in Computer Science from HKUST.
     * Rushan has been supported by Georgia Tech.
     * My role: advisor
-* <ins>Emmanouil G. Drimalas</ins>, Department of Physics, University of Arizona, 2024–present
-    * Emmanouil has been supported by LANL LDRD CSES prgoram.
-    * My role: co-advisor with Federico Fraschetti (Harvard, primary) and Chengkun Huang (LANL).
+
+### PhD students at other universities
+* <ins>Emmanouil (Manolis) G. Drimalas</ins>, Department of Physics, University of Arizona, 2024–present
+    * Manolis has been supported by LANL LDRD and NASA.
+    * My role: co-advisor with Federico Fraschetti (CfA at Harvard, primary) and Chengkun Huang (LANL).
 * <ins>Mandela B. Quashie</ins>, Department of CMSE, Michigan State University, 2023–present
     * Mandela has been supported by ASCR and LANL Center for Nonlinear Studies (CNLS).
     * My role: co-advisor with Andrew Christlieb (MSU, primary) and Josh Burby (UT-Austin).
 
-### Master's students
-* <ins>Alexander de Magalhaes</ins>, School of CSE, Georgia Tech, 2025–present
+### Master's students at GT
+* <ins>Alexander de Magalhaes</ins>, School of CSE, 2025–present
     * Alex earned his B.A. in Physics from Wesleyan University.
     * Alex has been supported by Georgia Tech OSPO and ASCR.
 
-### Undergraduate students
-* <ins>Jiya Varma</ins>, Computer Science, Georgia Tech, 2025–present
-* <ins>Miles Hauck</ins>, Electrical Engineering, Georgia Tech, 2025–present
-* <ins>Connor Kelly</ins>, Nuclear Engineering, Georgia Tech, 2025–present
-* <ins>Julian Siegmund</ins>, Physics,  Oglethorpe University, 2025–present
-
-### Student interns at GT 
-* <ins>Saisruthi Bandla</ins>, Graduate student in AE, summer 2025
-    * Saisruthi is supported by Georgia Tech OSPO.
-* <ins>Janani Murugan</ins>, Undergraduate student in Biochemistry and CS, summer 2025
-    * Janani is supported by Georgia Tech OSPO.
-
+### Undergraduate students at GT
+* <ins>Jiya Varma</ins>, Computer Science, 2025–present
+* <ins>Miles Hauck</ins>, Electrical Engineering, 2025–present
+* <ins>Connor Kelly</ins>, Nuclear Engineering, 2025–present
+<!--* <ins>Julian Siegmund</ins>, Physics,  Oglethorpe University, 2025–present -->
 
 ### Student interns at LANL
 * <ins>Leonardo (Leo) Molinari</ins>, Graduate student from Emory University, summer 2025
     * Leo is supported by LANL LDRD CSES program.
 * <ins>Jamar Sullivan</ins>, Postbac, summer 2025
     * Jamar is supported by LANL LDRD through the inter-lab program.
-* <ins>Christian Engman</ins>, Undergraduate student from Georgia Tech, summer 2025
+* <ins>Christian Engman</ins>, UG student from Georgia Tech, 2025-present
     * Christian is supported by LANL LDRD through the inter-lab program.
 
 ----
 
 ## Former members
 
-### Postdocs
+### Postdocs at LANL
 * [<ins>Daniel Serino</ins>](https://scholar.google.com/citations?user=TUTN7asAAAAJ&hl=en), T-5, Los Alamos National Laboratory, 2022–2024
     * Current: Staff Scientist, T-5, Los Alamos National Laboratory
     * My role: primary mentor
@@ -66,8 +67,11 @@ Our team has been supported by DOE Office of Science (ASCR, FES, ARDAP), DOE LDR
     * Current: Staff Scientist, T-5, Los Alamos National Laboratory
     * My role: co-mentor
 
+### Student interns at GT 
+* <ins>Saisruthi Bandla</ins>, MS student in AE, summer 2025
+* <ins>Janani Murugan</ins>, UG student in Biochemistry and CS, summer 2025
 
-### Student interns mentored at LANL
+### Student interns at LANL
 * <ins>Emmanouil G. Drimalas</ins>, Graduate student from University of Arizona, 2024
 * <ins>Mandela B. Quashie</ins>, Graduate student from Michigan State University (CNLS student fellow), summer 2024
 * [<ins>Shih-Hsin Wang</ins>](https://shihhsinwang0214.github.io/persnoal_website/), Graduate student from University of Utah, summer 2024
