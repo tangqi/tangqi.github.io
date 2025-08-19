@@ -38,14 +38,6 @@ Rensselaer Polytechnic Institute 2015–2018.
 * Theory and modeling of magnetic fusion plasma, DOE-SC FES, Role: Senior Personnel, FY20-FY24.
 * Tokamak Disruption Simulation, DOE-SC SciDAC, Role: Senior Personnel, FY19-FY23.
 
-
-## Computing Allocations
-* ERCAP at the DOE NERSC center (ASCR MMICC), Role: PI proxy, 17K CPU and GPU node hours/year, 2024-present.
-* ERCAP at the DOE NERSC center (FES AI/ML), Role: PI proxy, 29K CPU and GPU node hours/year, 2024-presnet.
-* ERCAP at the DOE NERSC center (FES theory), Role: PI proxy, 20K CPU and GPU node hours/year, 2022-presnet.
-* ERCAP at the DOE NERSC center (ASCR SciML), Role: PI, 6M machine hours/year, 2022-2024.
-* LANL Insitutional Computing, Role: PI, 7.5M machine hours/year, 2021-2024.
-
 ----
 
 ## Proposal Review

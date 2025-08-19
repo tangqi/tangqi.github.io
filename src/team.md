@@ -1,6 +1,6 @@
 # Team
 
-Our team has been supported by DOE Office of Science (ASCR, FES, SciDAC), DOE LDRDs, NSF, NASA, and Georgia Tech. 
+Our team has been supported by DOE Office of Science ASCR, FES and SciDAC programs, LANL and SNL LDRDs, NSF, NASA, and Georgia Tech. 
 
 ----
 
@@ -45,13 +45,10 @@ Our team has been supported by DOE Office of Science (ASCR, FES, SciDAC), DOE LD
 * <ins>Jiya Varma</ins>, Computer Science, 2025–present
 * <ins>Miles Hauck</ins>, Electrical Engineering, 2025–present
 * <ins>Connor Kelly</ins>, Nuclear Engineering, 2025–present
-<!--* <ins>Julian Siegmund</ins>, Physics,  Oglethorpe University, 2025–present -->
 
 ### Student interns at LANL
 * <ins>Leonardo (Leo) Molinari</ins>, Graduate student from Emory University, summer 2025
     * Leo is supported by LANL LDRD CSES program.
-* <ins>Jamar Sullivan</ins>, Postbac, summer 2025
-    * Jamar is supported by LANL LDRD through the inter-lab program.
 * <ins>Christian Engman</ins>, UG student from Georgia Tech, 2025-present
     * Christian is supported by LANL LDRD through the inter-lab program.
 
@@ -72,6 +69,7 @@ Our team has been supported by DOE Office of Science (ASCR, FES, SciDAC), DOE LD
 * <ins>Janani Murugan</ins>, UG student in Biochemistry and CS, summer 2025
 
 ### Student interns at LANL
+* <ins>Jamar Sullivan</ins>, Postbac, summer 2025
 * <ins>Emmanouil G. Drimalas</ins>, Graduate student from University of Arizona, 2024
 * <ins>Mandela B. Quashie</ins>, Graduate student from Michigan State University (CNLS student fellow), summer 2024
 * [<ins>Shih-Hsin Wang</ins>](https://shihhsinwang0214.github.io/persnoal_website/), Graduate student from University of Utah, summer 2024

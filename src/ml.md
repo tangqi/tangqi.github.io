@@ -4,7 +4,7 @@ I have been increasingly interested in ML/AI, particularly in integrating mathem
 
 ----
 
-<b><span style="color:#003057">The following structure-preserving SciML work has been primarily supported by DOE ASCR data-intensive scientific machine learning. </span></b>
+<b><span style="color:#003057">The following structure-preserving SciML work has been primarily supported by DOE ASCR data-intensive scientific machine learning program. </span></b>
 
 ## Structure-preserving SciML work
 
