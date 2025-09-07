@@ -1,16 +1,13 @@
 # Team
 
-Our team has been supported by DOE Office of Science ASCR, FES and SciDAC programs, LANL and SNL LDRDs, NSF, NASA, and Georgia Tech. 
+Our team has been supported by DOE Office of Science ASCR, FES and SciDAC programs, NNSA, LANL and SNL LDRDs, NSF, NASA, and Georgia Tech. 
 
 ----
 
 ## Current members
 
-### Postdocs
-* [<ins>Allen Alvarez-Loya</ins>](https://scholar.google.com/citations?user=SU--HvcAAAAJ&hl=en), T-5, Los Alamos National Laboratory, 2022–present
-    * Allen earned his PhD in Applied Math from CU Boulder.
-    * Allen has been supported by NSF MPS-Ascend postdoc fellowship ([DMS-2213261](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2213261)).
-    * My role: mentor
+<!-- ### Postdocs -->
+
 
 ### PhD students at GT
 * <ins>Alejo Ballester</ins>, School of CSE and School of Physics, Georgia Tech, 2025–present
@@ -19,14 +16,21 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * My role: advisor
 * <ins>Tage Burnett</ins>, School of CSE, Georgia Tech, 2025–present
     * Tage earned his B.S. in Mechanical Engineering from Brigham Young University.
+    * Tage has been supported by Georgia Tech and NNSA.
     * My role: advisor (co-advised with Spencer Bryngelson)
 * <ins>Harshavardhan Harish</ins>, School of CSE, Georgia Tech, 2025–present
     * Harsha earned his B.S. in Math and Certificate in CSE from University of Texas at Austin.
+    * Harsha has been supported by Georgia Tech and ASCR.
     * My role: advisor
 * [<ins>Rushan Zhang</ins>](https://rzhangbq.github.io/), School of CSE, Georgia Tech, 2025–present
     * Rushan earned his B.Eng. in Aerospace Engineering and B.S. in Computer Science from HKUST.
     * Rushan has been supported by Georgia Tech.
     * My role: advisor
+<!--
+* <ins>Mark Zhang</ins>, School of CSE, Georgia Tech, 2025–present
+    * Mark earned his B.S. in Astrophysics and B.S. in Math of Computation from UCLA.
+    * My role: co-advisor (primary advisor: Spencer Bryngelson)
+ -->
 
 ### PhD students at other universities
 * <ins>Emmanouil (Manolis) G. Drimalas</ins>, Department of Physics, University of Arizona, 2024–present
@@ -37,9 +41,10 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * My role: co-advisor with Andrew Christlieb (MSU, primary) and Josh Burby (UT-Austin).
 
 ### Master's students at GT
-* <ins>Alexander de Magalhaes</ins>, School of CSE, 2025–present
+* <ins>Alexander (Alex) de Magalhaes</ins>, School of CSE, 2025–present
     * Alex earned his B.A. in Physics from Wesleyan University.
     * Alex has been supported by Georgia Tech OSPO and ASCR.
+    * My role: thesis advisor
 
 ### Undergraduate students at GT
 * <ins>Jiya Varma</ins>, Computer Science, 2025–present
@@ -60,6 +65,9 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 * [<ins>Daniel Serino</ins>](https://scholar.google.com/citations?user=TUTN7asAAAAJ&hl=en), T-5, Los Alamos National Laboratory, 2022–2024
     * Current: Staff Scientist, T-5, Los Alamos National Laboratory
     * My role: primary mentor
+* [<ins>Allen Alvarez-Loya</ins>](https://scholar.google.com/citations?user=SU--HvcAAAAJ&hl=en), NSF MPS-Ascend postdoc fellowship, T-5, Los Alamos National Laboratory, 2022–2025
+    * Current: ISTI postdoc fellow, T-5, Los Alamos National Laboratory
+    * My role: mentor
 * [<ins>Oleksii Beznosov</ins>](https://scholar.google.com/citations?user=GRvnZ4cAAAAJ&hl=en), T-5, Los Alamos National Laboratory, 2022–2025
     * Current: Staff Scientist, T-5, Los Alamos National Laboratory
     * My role: co-mentor

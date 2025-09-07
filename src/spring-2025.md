@@ -103,4 +103,5 @@ The Georgia Tech community believes that it is important to continually strive f
 ----
 ## Acknowledgements
 
-I would like to thank Prof. Sean Couch for offering many useful suggestions and generously sharing course materials with me. 
+* I'd like to thank [Prof. Sean Couch](https://directory.natsci.msu.edu/Directory/Profiles/Person/101031) for offering many useful suggestions and generously sharing course materials with me. 
+* We are grateful to Dr. Junchao Zhang (Argonne National Laboratory) for his excellent lecture on PETSc and GPU porting.
