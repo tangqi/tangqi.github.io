@@ -152,7 +152,7 @@
         
             <li><a href="#full-cold-vertical-displacement-event-vde-simulation-of-a-major-disruption-in-an-iter-like-tokamak-reactor">Full cold vertical displacement event (VDE) simulation of a major disruption in an ITER-like tokamak reactor</a></li>
         
-            <li><a href="#result">Result</a></li>
+            <li><a href="#stable-multi-physics-coupling-algorithms-for-fluid-structure-interaction-fsi">Stable multi-physics coupling algorithms for fluid-structure interaction (FSI)</a></li>
         
     
     </ul>
@@ -165,15 +165,14 @@
             <div class="col-md-9" role="main">
 
 <h1 id="scientific-computing-and-simulations">Scientific computing and simulations</h1>
-<p>My interest in scientific computing centers around multiscale and multiphysics problems. In fusion modeling, both temporal and spatial scales span many orders of magnitude, presenting a rich class of multiscale and multiphysics challenges for numerical algorithms. As a result, a significant portion of my research has focused on developing scalable physics codes for whole-device modeling in magnetic confinement fusion. Additionally, I am interested in computational plasma physics for other applications, such as astrophysics, accelerators, and inertial confinement fusion (ICF).</p>
+<p>My interest in scientific computing centers around multiscale and multiphysics problems. In fusion modeling, both temporal and spatial scales span many orders of magnitude, presenting a rich class of multiscale and multiphysics challenges for numerical algorithms. As a result, a significant portion of my research has focused on developing scalable physics codes for whole-device modeling in magnetic confinement fusion. Additionally, I am interested in computational plasma physics for other applications, such as astrophysics, accelerators, and inertial confinement fusion (ICF). Another research interest of mine is developing stable coupling algorithms for multi-physics problems, such as fluid–structure interaction.</p>
 <h2 id="full-cold-vertical-displacement-event-vde-simulation-of-a-major-disruption-in-an-iter-like-tokamak-reactor">Full cold vertical displacement event (VDE) simulation of a major disruption in an ITER-like tokamak reactor</h2>
 <p><strong>LA-UR-23-21442. Approved for public release; distribution is unlimited.</strong> </p>
 <p>We consider a multi-domain quasi-static MHD model for force-free plasmas, addressing the coupling between instability in hot plasmas and the magnetic diffusion in the wall region in ITER.
 We develop a solver for the quasi-static force-free plasma model above. This solver is based on Mimetic Finite Difference (MFD) method and <a href="https://petsc.org">PETSc</a>’s  DMStag data structure for staggered grid representations, fully implicit, solved with the Jacobian-free Newton-Krylov and inexact Newton methods with a field-split nested preconditioning strategy.</p>
 <p>The MFD solver<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> is used for simulating the cold vertical displacement events (VDE) of a major disruption in an ITER-like tokamak reactor over the actual plasma current diffusion time.
 The first movie shows the evolution of the toroidal current and magnetic field lines over time for isotropic resistivities inside the tokamak subdomains. On the other hand, the remaining movies correspond to a setting where the blanket module has an anisotropic resistivity (different values in toroidal and poloidal directions). This setting was employed to simulate the halo and eddy currents inside the tokamak. All the movies are shown on one selected poloidal plane. </p>
-<hr />
-<h2 id="result">Result</h2>
+<h3 id="result">Result</h3>
 <video controls preload="metadata" width="100%">
     <source src="../img/gallery/RJ_phi_10fps.mp4" type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -194,6 +193,21 @@ The first movie shows the evolution of the toroidal current and magnetic field l
     Sorry, your browser doesn't support embedded videos.
 </video>
 <p><em>Toroidal Lorentz force component $ \left((\nabla\times{\mathbf{B}})\times{\mathbf{B}}\right)_{\phi} $ over time for the halo current simulation ($T_e = 15{\text eV}$)</em></p>
+<hr />
+<h2 id="stable-multi-physics-coupling-algorithms-for-fluid-structure-interaction-fsi">Stable multi-physics coupling algorithms for fluid-structure interaction (FSI)</h2>
+<p>Fluid–structure interaction (FSI) is a classic multiphysics coupling problem that is both computationally challenging and scientifically interesting. Over the years, I have been particularly interested in developing stable algorithms for coupling fluids with lightweight structures. Designing such algorithms is demanding because it requires a blend of computational mathematics, numerical analysis, mesh generation, software engineering, and careful verification and validation (V&amp;V).</p>
+<h3 id="result_1">Result</h3>
+<video controls preload="metadata" width="100%">
+    <source src="../img/gallery/heartValve_fixed.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+<p><em>An incompressible fluid interacting with a light mechanical heart valve. This FSI solver is based on <a href="https://www.overtureframework.org/"><code>Overture</code></a>.</em></p>
+<p>&emsp;</p>
+<video controls preload="metadata" width="100%">
+    <source src="../img/gallery/FSI2-Turek.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+<p><em>Turek benchmark (FSI2). This FSI solver is <a href="https://mfem.org/"><code>MFEM</code></a> and developed by our student intern, Leo Molinari from Emory.</em></p>
 <script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: {equationNumbers: {autoNumber: "all"}}, tex2jax: {inlineMath: [['$','$']]}});</script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_HTML"></script>
 
@@ -212,7 +226,7 @@ The first movie shows the evolution of the toroidal current and magnetic field l
         
             <li><a href="#full-cold-vertical-displacement-event-vde-simulation-of-a-major-disruption-in-an-iter-like-tokamak-reactor">Full cold vertical displacement event (VDE) simulation of a major disruption in an ITER-like tokamak reactor</a></li>
         
-            <li><a href="#result">Result</a></li>
+            <li><a href="#stable-multi-physics-coupling-algorithms-for-fluid-structure-interaction-fsi">Stable multi-physics coupling algorithms for fluid-structure interaction (FSI)</a></li>
         
     
     </ul>
