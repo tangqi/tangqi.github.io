@@ -1,5 +1,5 @@
 # Scientific computing and simulations
-My interest in scientific computing centers around multiscale and multiphysics problems. In fusion modeling, both temporal and spatial scales span many orders of magnitude, presenting a rich class of multiscale and multiphysics challenges for numerical algorithms. As a result, a significant portion of my research has focused on developing scalable physics codes for whole-device modeling in magnetic confinement fusion. Additionally, I am interested in computational plasma physics for other applications, such as astrophysics, accelerators, and inertial confinement fusion (ICF).
+My interest in scientific computing centers around multiscale and multiphysics problems. In fusion modeling, both temporal and spatial scales span many orders of magnitude, presenting a rich class of multiscale and multiphysics challenges for numerical algorithms. As a result, a significant portion of my research has focused on developing scalable physics codes for whole-device modeling in magnetic confinement fusion. Additionally, I am interested in computational plasma physics for other applications, such as astrophysics, accelerators, and inertial confinement fusion (ICF). Another research interest of mine is developing stable coupling algorithms for multi-physics problems, such as fluid–structure interaction.
 
 ## Full cold vertical displacement event (VDE) simulation of a major disruption in an ITER-like tokamak reactor
 
@@ -12,9 +12,7 @@ The MFD solver[^1] is used for simulating the cold vertical displacement events 
 The first movie shows the evolution of the toroidal current and magnetic field lines over time for isotropic resistivities inside the tokamak subdomains. On the other hand, the remaining movies correspond to a setting where the blanket module has an anisotropic resistivity (different values in toroidal and poloidal directions). This setting was employed to simulate the halo and eddy currents inside the tokamak. All the movies are shown on one selected poloidal plane. 
 
 
-----
-
-## Result
+### Result
 
 
 <video controls preload="metadata" width="100%">
@@ -40,6 +38,29 @@ The first movie shows the evolution of the toroidal current and magnetic field l
     Sorry, your browser doesn't support embedded videos.
 </video>
 *Toroidal Lorentz force component $ \left((\nabla\times{\mathbf{B}})\times{\mathbf{B}}\right)_{\phi} $ over time for the halo current simulation ($T_e = 15{\text eV}$)*
+
+----
+
+
+## Stable multi-physics coupling algorithms for fluid-structure interaction (FSI)
+
+Fluid–structure interaction (FSI) is a classic multiphysics coupling problem that is both computationally challenging and scientifically interesting. Over the years, I have been particularly interested in developing stable algorithms for coupling fluids with lightweight structures. Designing such algorithms is demanding because it requires a blend of computational mathematics, numerical analysis, mesh generation, software engineering, and careful verification and validation (V&V).
+
+### Result
+
+<video controls preload="metadata" width="100%">
+    <source src="../img/gallery/heartValve_fixed.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+*An incompressible fluid interacting with a light mechanical heart valve. This FSI solver is based on [`Overture`](https://www.overtureframework.org/).*
+
+&emsp;
+
+<video controls preload="metadata" width="100%">
+    <source src="../img/gallery/FSI2-Turek.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+*Turek benchmark (FSI2). This FSI solver is based on [`MFEM`](https://mfem.org/) and developed by our student intern, Leo Molinari from Emory.*
 
 [^1]: Z. Jorti, Q. Tang, K. Lipnikov and X.-Z. Tang. A mimetic finite difference based quasi-static magnetohydrodynamic solver for force-free plasmas in tokamak disruptions, [arXiv:2303.08337](https://arxiv.org/abs/2303.08337), submitted, 2023.
 
