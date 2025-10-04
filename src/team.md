@@ -16,11 +16,11 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * My role: advisor
 * <ins>Tage Burnett</ins>, School of CSE, Georgia Tech, 2025–present
     * Tage earned his B.S. in Mechanical Engineering from Brigham Young University.
-    * Tage has been supported by Georgia Tech and NNSA.
+    * Tage has been supported by Georgia Tech and NNSA. He has taken multiple interns at SNL. 
     * My role: advisor (co-advised with Spencer Bryngelson)
 * <ins>Harshavardhan Harish</ins>, School of CSE, Georgia Tech, 2025–present
     * Harsha earned his B.S. in Math and Certificate in CSE from University of Texas at Austin.
-    * Harsha has been supported by Georgia Tech and ASCR.
+    * Harsha has been supported by Georgia Tech and ASCR. He is a visiting student at LANL. 
     * My role: advisor
 * [<ins>Rushan Zhang</ins>](https://rzhangbq.github.io/), School of CSE, Georgia Tech, 2025–present
     * Rushan earned his B.Eng. in Aerospace Engineering and B.S. in Computer Science from HKUST.
@@ -34,11 +34,11 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 
 ### PhD students at other universities
 * <ins>Emmanouil (Manolis) G. Drimalas</ins>, Department of Physics, University of Arizona, 2024–present
-    * Manolis has been supported by LANL LDRD and NASA.
-    * My role: co-advisor with Federico Fraschetti (CfA at Harvard, primary) and Chengkun Huang (LANL).
+    * Manolis has been supported by LANL LDRD and NASA. He has taken multiple interns at LANL.
+    * My role: co-advisor with Federico Fraschetti (CfA at Harvard, primary) and Chengkun Huang.
 * <ins>Mandela B. Quashie</ins>, Department of CMSE, Michigan State University, 2023–present
-    * Mandela has been supported by ASCR and LANL Center for Nonlinear Studies (CNLS).
-    * My role: co-advisor with Andrew Christlieb (MSU, primary) and Josh Burby (UT-Austin).
+    * Mandela has been supported by ASCR and Center for Nonlinear Studies. He has taken multiple interns at LANL.
+    * My role: co-advisor with Andrew Christlieb (MSU, primary) and Josh Burby.
 
 ### Master's students at GT
 * <ins>Alexander (Alex) de Magalhaes</ins>, School of CSE, 2025–present
