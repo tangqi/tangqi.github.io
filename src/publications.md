@@ -10,7 +10,7 @@
 
 ### Journal Publications
 7. E. G. Drimalas, F. Fraschetti, C.-K. Huang, and Q. Tang. Symplectic neural network and its applications to charged particle dynamics in electromagnetic fields, **Physics of Plasmas**, 32(10):103901, 2025.
-1. D. Serino, Q. Tang, X.-Z. Tang, T. V. Kolev, and K. Lipnikov. An adaptive Newton-based free-boundary Grad–Shafranov solver, **SIAM Journal on Scientific Computing**, _to appear_, 24 pages, 2025.
+1. D. Serino, Q. Tang, X.-Z. Tang, T. V. Kolev, and K. Lipnikov. An adaptive Newton-based free-boundary Grad–Shafranov solver, **SIAM Journal on Scientific Computing**, S364-S385, 2025. click [here](https://epubs.siam.org/doi/10.1137/24M1674108)
 1. G. Wimmer, B. Southworth, and Q. Tang. A structure-preserving discontinuous Galerkin scheme for the Cahn-Hilliard equation including time adaptivity, **Journal of Computational Physics**, 537:114097, 2025.
 1. D. Serino, A. Alvarez Loya, J. W. Burby, I. G. Kevrekidis, and Q. Tang. Fast-slow neural networks for learning singularly perturbed dynamical systems, **Journal of Computational Physics**, 537:114090,  2025.
 1. X. Xie, Q. Tang, and X.-Z. Tang. Latent space dynamics learning for stiff collisional-radiative models, **Machine Learning: Science and Technology**, 5:045070, 2024.
