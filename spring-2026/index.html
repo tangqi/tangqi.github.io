@@ -122,8 +122,8 @@
                     <ul class="dropdown-menu">
                     
                         
-                            <li class="active">
-                                 <a href="./">Spring 2025</a>
+                            <li >
+                                 <a href="../spring-2025/">Spring 2025</a>
                             </li>
                         
                     
@@ -134,8 +134,8 @@
                         
                     
                         
-                            <li >
-                                 <a href="../spring-2026/">Spring 2026</a>
+                            <li class="active">
+                                 <a href="./">Spring 2026</a>
                             </li>
                         
                     
@@ -154,7 +154,7 @@
             <div class="col-md-3 visible-xs visible-sm"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#cx-4803-gpu-cse-6230-b-parallel-computing-programming-and-applications">CX-4803-GPU / CSE-6230-B - Parallel Computing Programming and Applications</a></li>
+        <li class="main active"><a href="#csemath-6643-numerical-linear-algebra">CSE/MATH-6643 Numerical Linear Algebra</a></li>
         
             <li><a href="#instructor-information">Instructor information</a></li>
         
@@ -168,17 +168,11 @@
         
             <li><a href="#textbooks">Textbooks</a></li>
         
-            <li><a href="#pre-class-assignments">Pre-class assignments</a></li>
-        
-            <li><a href="#class-meetings">Class meetings</a></li>
+            <li><a href="#homework-policy">Homework Policy</a></li>
         
             <li><a href="#class-management">Class management</a></li>
         
-            <li><a href="#graduate-vs-undergraduate-sections">Graduate vs undergraduate sections</a></li>
-        
             <li><a href="#course-policies-expectations-guidelines">Course policies, expectations &amp; guidelines</a></li>
-        
-            <li><a href="#acknowledgements">Acknowledgements</a></li>
         
     
     </ul>
@@ -190,37 +184,48 @@
 --></div> <!-- toc on top on mobile -->
             <div class="col-md-9" role="main">
 
-<h1 id="cx-4803-gpu-cse-6230-b-parallel-computing-programming-and-applications">CX-4803-GPU / CSE-6230-B - Parallel Computing Programming and Applications</h1>
+<h1 id="csemath-6643-numerical-linear-algebra">CSE/MATH-6643 <br> Numerical Linear Algebra</h1>
 <h2 id="instructor-information">Instructor information</h2>
-<p><strong>Lectures:</strong> M W 6:30-7:45pm <br>
-<strong>Location:</strong> Boggs B9</p>
+<p><strong>Lectures:</strong> T Th 2:00-3:15pm <br>
+<strong>Location:</strong> TBD</p>
 <p><strong>Instructor:</strong> <a href="https://tangqi.github.io/">Qi Tang</a> <br>
 <strong>Email:</strong> <a href="mailto:qtang@gatech.edu">qtang@gatech.edu</a> <br>
-<strong>Office Hours:</strong> Tuesdays 2-4 PM on <a href="http://gatech.zoom.us/my/qtang">zoom</a></p>
-<p><strong>TA:</strong> Amrutha Praveen <br>
-<strong>Email:</strong> <a href="mailto:aothayoth3@gatech.edu">aothayoth3@gatech.edu</a> <br>
-<strong>Office Hours:</strong> Wednesday 3-4 PM on zoom</p>
+<strong>Office Hours:</strong> Tuesdays 4-5 PM on <a href="http://gatech.zoom.us/my/qtang">zoom</a></p>
+<p><strong>TA1:</strong> TBD <br>
+<strong>Email:</strong> <br>
+<strong>Office Hours:</strong> </p>
+<p><strong>TA2:</strong> TBD <br>
+<strong>Email:</strong> <br>
+<strong>Office Hours:</strong> </p>
+<p><strong>TA3:</strong> TBD <br>
+<strong>Email:</strong> <br>
+<strong>Office Hours:</strong> </p>
+<p><strong>TA4:</strong> TBD <br>
+<strong>Email:</strong> <br>
+<strong>Office Hours:</strong> </p>
 <hr />
 <h2 id="course-description">Course description</h2>
-<p>This course covers the practical and theoretical aspects of parallel computing and their applications. It will focus on OpenMP, MPI, GPU programming (CUDA), practical tools, and scientific applications such as particle-based simulations.</p>
+<p>This course introduces fundamental algorithms in numerical linear algebra, including methods for solving linear systems, constructing orthogonal bases, and computing eigenvalue and singular value decompositions (SVD). A key objective is to prepare Ph.D. students for the qualifying exam; therefore, the course emphasizes theorems, proofs, and the mathematical principles underlying these algorithms.</p>
 <h2 id="prerequisites">Prerequisites</h2>
 <ul>
-<li>Proficiency in C/C++ programming</li>
-<li>CS 1332, 1372, 2110 or CX 4010</li>
-<li>Some basic knowledge in Linux</li>
+<li>MATH 2406 or MATH 4305 </li>
+<li>MATH 4640 is not required but strongly recommended</li>
 </ul>
 <h2 id="topics">Topics</h2>
 <ul>
-<li>Overview of single processor computing</li>
-<li>Introduction to Git and PACE</li>
-<li>Parallel programming and theory</li>
-<li>Distributed memory (MPI) programming</li>
-<li>Multithreaded (OpenMP) programming</li>
-<li>GPU (CUDA) programming</li>
-<li>Practical tools and scientific applications (Kokkos, PETSc, OpenACC, etc) </li>
+<li>Problem conditioning, perturbation theory</li>
+<li>Stability, error analysis</li>
+<li>Floating point computation, parallel computation</li>
+<li>Computational complexity of algorithms</li>
+<li>SVD, QR, and other orthogonal factorizations</li>
+<li>Solving linear least squares problems, including rank deficient problems</li>
+<li>Gaussian elimination</li>
+<li>Iterative methods and their convergence for solving linear systems (Jacobi, Gauss-Seidel, etc.)</li>
+<li>Eigenvalue problems and their solution (symmetric and nonsymmetric)</li>
+<li>Krylov subspace methods for eigenvalues and linear systems (Lanczos, Arnoldi, CG, GMRES)</li>
 </ul>
 <h2 id="grading">Grading</h2>
-<p>The weights for the course grade are as follows.</p>
+<p>The weights for the course grade are as follows. Students must pass the final exam to pass the course.</p>
 <table>
 <thead>
 <tr>
@@ -230,20 +235,16 @@
 </thead>
 <tbody>
 <tr>
-<td>Mini group projects (during the semester)</td>
-<td>60%</td>
+<td>Homework</td>
+<td>30%</td>
 </tr>
 <tr>
-<td>Group project participation</td>
-<td>10%</td>
+<td>Midterms</td>
+<td>30%</td>
 </tr>
 <tr>
-<td>Class participation</td>
-<td>10%</td>
-</tr>
-<tr>
-<td>Final project (due during exam week)</td>
-<td>20%</td>
+<td>Final</td>
+<td>40%</td>
 </tr>
 </tbody>
 </table>
@@ -278,46 +279,48 @@
 </tr>
 </tbody>
 </table>
+<h3 id="passfail-and-audit">Pass/Fail and Audit</h3>
+<p>For pass/fail, the passing grade is 50% and you are strongly encouraged to attend class regularly. If you wish to take the course for audit credit, the audit credit is given for a grade of at least 20% and you are strongly encouraged to attend class regularly.</p>
 <h2 id="textbooks">Textbooks</h2>
-<p>The following three textbooks are either available freely <a href="https://theartofhpc.com">online</a>
-or accessible electronically through GT's library. 
-The first two books have been uploaded to Canvas.
-We would like to express our special thanks to <a href="https://github.com/VictorEijkhout">Victor Eijkhout</a> for his generosity in making his books freely available to the entire community. </p>
 <ul>
-<li>The Science of Computing, Victor Eijkhout</li>
-<li>Parallel Programming in Science and Engineering, Victor Eijkhout</li>
-<li>CUDA by Example: An Introduction to General-Purpose GPU Programming, Jason Sanders and Edward Kandrot </li>
+<li>Numerical Linear Algebra, Trefethen and Bau. <br>
+<em>This is a very clearly written textbook, and we will cover the entire book. You can order this book from SIAM. You can get a 30 percent discount if you are a SIAM member. As a student, you can join SIAM for free, since Georgia Tech is an Academic Member.</em></li>
+</ul>
+<h3 id="additional-references">Additional references:</h3>
+<ul>
+<li>Matrix Computations, Golub and Van Loan. <em>This is the bible of numerical linear algebra. Advanced material will be taken from this book.</em></li>
+<li>Applied Numerical Linear Algebra, Demmel. <em>This is another classic textbook.</em></li>
+<li><a href="https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf">The Matrix Cookbook</a>, Petersen and Pedersen. <em>This online book contains many important identities and is incredibly useful.</em></li>
 </ul>
 <hr />
-<h2 id="pre-class-assignments">Pre-class assignments</h2>
-<p>For most class meetings, there will be a pre-class assignment that you should complete beforehand. These assignments will form the basis for in-class discussions, so it is important that you complete them.</p>
-<h2 id="class-meetings">Class meetings</h2>
-<p>Class meetings are meant to be highly interactive and you are expected to attend if possible. You must be able to bring a laptop computer to class and are expected to complete short programming assignments in class.</p>
+<h2 id="homework-policy">Homework Policy</h2>
+<p>All homework is due by the EOD (11:59pm). Homework is penalized by 20% for each day it is late (this
+applies additively, meaning that no credit is gained after five late days). We strongly encourage the use
+of LaTeX for your submission. Unreadable handwriting is subject to zero credit.</p>
 <h2 id="class-management">Class management</h2>
-<p>We will use Canvas and Github Classroom to deliver course materials, announcements, and manage the discussion board. All course materials will be hosted on Github Classroom.</p>
-<h2 id="graduate-vs-undergraduate-sections">Graduate vs undergraduate sections</h2>
-<p>Both the graduate and undergraduate sections will meet together for lectures. Students in the graduate and undergraduate sections will be graded on separate, independent grade scales. Graduate students will be assigned an additional independent mini project. In addition, for the final project, graduate student projects should have a stronger research component, aiming for results comparable to a conference or journal publication. </p>
+<p>We will use Canvas to deliver course materials and announcements.</p>
 <hr />
 <h2 id="course-policies-expectations-guidelines">Course policies, expectations &amp; guidelines</h2>
 <h3 id="plagiarism-academic-integrity">Plagiarism &amp; academic integrity</h3>
 <p>Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards. For more information on the Honor Code, please visit the <a href="https://osi.gatech.edu/">OSI</a> website.</p>
+<p>We encourage you to discuss course content and homework problems with your classmates. However,
+all answers and codes should be prepared independently. If you refer to any material, it should be
+properly cited. Needless to say: you are not allowed to use solutions to homework problems that you
+may find online. If you discussed homework problems with your classmates, indicate which problems
+you discussed with whom. </p>
 <p>Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will be reported to the Office of Student Integrity, which will investigate the incident and identify the appropriate penalty for violations. </p>
 <h3 id="role-of-ai-assistants">Role of AI assistants</h3>
-<p>Georgia Tech provides specific <a href="https://www.cc.gatech.edu/news/new-policies-navigate-role-ai-assistants-cs-courses">guidelines</a> for using AI in CS courses, and we will adhere to these guidelines as outlined.</p>
+<p>The use of LLMs like ChatGPT and Gemini will be treated like a human collaborator: You have to indicate their use,
+what you used them for, and you may only use them to get ideas in trying to figure out the solution of a
+problem or resolve places where you might have gotten stuck. Like a human collaborator, you should not use the LLMs when preparing your solutions or code. For instance, directly copying the output of a chatbot is strictly forbidden</p>
 <h3 id="accommodations-for-individuals-with-disabilities">Accommodations for individuals with disabilities</h3>
 <p>If you are a student with learning needs that require special accommodation, contact the Office of Disability Services at (404) 894-2563 or <a href="http://disabilityservices.gatech.edu/">website</a>, as soon as possible, to make an appointment to discuss your special needs and to obtain an accommodations letter.  Please also email me as soon as possible in order to set up a time to discuss your learning needs.</p>
 <h3 id="student-faculty-expectations">Student-faculty expectations</h3>
-<p>The Georgia Tech community believes that it is important to continually strive for an atmosphere of mutual respect, acknowledgement, and responsibility between faculty members and the student body. Therefore, we herein endeavors to enumerate the specific expectations of each side. See <a href="https://catalog.gatech.edu/rules/21/">here</a> for more details.</p>
-<hr />
-<h2 id="acknowledgements">Acknowledgements</h2>
-<ul>
-<li>I'd like to thank <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/101031">Prof. Sean Couch</a> for offering many useful suggestions and generously sharing course materials with me. </li>
-<li>We are grateful to Dr. Junchao Zhang (Argonne National Laboratory) for his excellent lecture on PETSc and GPU porting.</li>
-</ul></div>
+<p>The Georgia Tech community believes that it is important to continually strive for an atmosphere of mutual respect, acknowledgement, and responsibility between faculty members and the student body. Therefore, we herein endeavors to enumerate the specific expectations of each side. See <a href="https://catalog.gatech.edu/rules/21/">here</a> for more details.</p></div>
             <div class="col-md-3 hidden-xs hidden-sm"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#cx-4803-gpu-cse-6230-b-parallel-computing-programming-and-applications">CX-4803-GPU / CSE-6230-B - Parallel Computing Programming and Applications</a></li>
+        <li class="main active"><a href="#csemath-6643-numerical-linear-algebra">CSE/MATH-6643 Numerical Linear Algebra</a></li>
         
             <li><a href="#instructor-information">Instructor information</a></li>
         
@@ -331,17 +334,11 @@ We would like to express our special thanks to <a href="https://github.com/Victo
         
             <li><a href="#textbooks">Textbooks</a></li>
         
-            <li><a href="#pre-class-assignments">Pre-class assignments</a></li>
-        
-            <li><a href="#class-meetings">Class meetings</a></li>
+            <li><a href="#homework-policy">Homework Policy</a></li>
         
             <li><a href="#class-management">Class management</a></li>
         
-            <li><a href="#graduate-vs-undergraduate-sections">Graduate vs undergraduate sections</a></li>
-        
             <li><a href="#course-policies-expectations-guidelines">Course policies, expectations &amp; guidelines</a></li>
-        
-            <li><a href="#acknowledgements">Acknowledgements</a></li>
         
     
     </ul>
