@@ -3,30 +3,27 @@
 ## Instructor information
 
 **Lectures:** T Th 2:00-3:15pm <br>
-**Location:** TBD
+**Location:** Clough UG Learning Commons 152
 
 **Instructor:** [Qi Tang](https://tangqi.github.io/) <br>
 **Email:** [qtang@gatech.edu](mailto:qtang@gatech.edu) <br>
-**Office Hours:** Tuesdays 4-5 PM on [zoom](http://gatech.zoom.us/my/qtang)
+**Office Hours:** 3:15-5 PM on Thursdays at KACB 3121 or [zoom](http://gatech.zoom.us/my/qtang)
 
-**TA1:** TBD <br>
-**Email:** <br>
-**Office Hours:** 
+**TA1:** Youjie Zhang <br>
+**Email:** [yzhang3988@gatech.edu](mailto:yzhang3988@gatech.edu) <br>
+**Office Hours:** 2-3pm on Mondays and 1-2pm on Wednesdays at Guggenheim Aerospace Building, Room 212 
 
+**TA2:** Qi Luo <br>
+**Email:** [qluo48@gatech.edu](mailto:qluo48@gatech.edu) <br>
+**Office Hours:** 11:15am-12:45pm on Tuesdays through [zoom](https://gatech.zoom.us/j/93468816161?pwd=rwWVjGakRnDMgWp3ExdgJzpzN0j29b.1)
 
-**TA2:** TBD <br>
-**Email:** <br>
-**Office Hours:** 
+**TA3:** Alex de Magalhaes <br>
+**Email:** [amagalhaes7@gatech.edu](mailto:amagalhaes7@gatech.edu) <br>
+**Office Hours:** 4-5:30pm on Mondays at KACB 3121 
 
-
-**TA3:** TBD <br>
-**Email:** <br>
-**Office Hours:** 
-
-
-**TA4:** TBD <br>
-**Email:** <br>
-**Office Hours:** 
+**TA4:** Sudarshan Anand <br>
+**Email:** [sanand315@gatech.edu](mailto:sanand315@gatech.edu) <br>
+**Office Hours:**  TBD
 
 ----
 

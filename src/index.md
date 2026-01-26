@@ -31,32 +31,30 @@ Guest Scientist<br>
 
 <div class="col-md-8 bottom"  markdown="1">
 <br>
-I am an Assistant Professor in [CSE](https://cse.gatech.edu/) at Georgia Institute of Technology. Prior to joining Georgia Tech, I was a Scientist in the Applied Mathematics and Plasma Physics Group ([T-5](https://www.lanl.gov/org/ddste/aldsc/theoretical/applied-mathematics-plasma-physics/index.php)) within the Theoretical Division at Los Alamos National Laboratory (LANL). 
-
-<!-- Prior to that, from 2015 to 2018, I was an Eliza Ricketts Foundation Postdoctoral Fellow at Rensselaer Polytechnic Institute. I received my Ph.D. in Applied Math from Michigan State University in 2015 and B.S. in Math & Applied Math from Zhejiang University in 2010. -->
-
-
-I am a computational scientist and applied mathematician by training, with a strong interest in physics. My research focuses on applying modern computational tools to advance physics applications, particularly in fusion energy and plasma physics. I rely on open-source libraries such as  [`MFEM`](https://mfem.org/), [`PETSc`](https://petsc.org/), [`p4est`](https://www.p4est.org/), [`Overture`](https://www.overtureframework.org/), and [`hypre`](https://hypre.readthedocs.io/) to develop scalable, high-performance simulation codes. I am also exploring scientific machine learning (SciML) to enhance traditional numerical methods. My group’s work has been supported by the DOE Office of Science (ASCR, FES, and their joint SciDAC program), NNSA, LANL and SNL LDRD programs, NSF, NASA, and Georgia Tech.
+I am an Assistant Professor in [CSE](https://cse.gatech.edu/) at Georgia Institute of Technology. Prior to joining Georgia Tech, I was a Scientist in the Theoretical Division at Los Alamos National Laboratory (LANL). I am a computational scientist and applied mathematician by training, with a strong interest in physics, particularly **fusion energy** and **plasma physics**. I rely on open-source libraries such as  [`MFEM`](https://mfem.org/), [`PETSc`](https://petsc.org/), [`p4est`](https://www.p4est.org/), [`Overture`](https://www.overtureframework.org/), and [`hypre`](https://hypre.readthedocs.io/) to develop scalable, high-performance numerical solvers. I also work on scientific machine learning (SciML) to enhance traditional  solvers.
 
 <b>
-<span style="color:#003057">I have several PhD student positions in Fall 2026. The Ph.D. projects can involve one or multiple areas from the research interests listed below. Some of the positions will be co-advised with Brown Unversity, Courant Institute, and Michigan State. If there is sufficient interest, students can undertake a summer internship at one of the DOE national labs. If you are interested in joining my group, please email me with your CV. </span>
+I have several PhD student positions in Fall 2026. The projects can involve one or multiple areas from the research interests listed below. If there is sufficient interest, students can undertake a summer internship at one of the DOE national labs. If you are interested in joining my group, please email me with your CV.
 
-<span style="color:#003057">
-Please note that Ph.D. students in the CSE program can have a home unit in a different school. Therefore, I am also interested in accepting students in mathematics, physics, and engineering. However, students must first be admitted by their respective home units. Therefore, if you are strongly interested in working with me, I encourage you to select CSE as your home unit.</span>
+Please note that Ph.D. students in the CSE and ML programs can have a home unit in a different school. Therefore, I also accept students in mathematics, physics, and engineering (AE/ME/ECE). However, students must first be admitted by their respective home units. Therefore, if you are strongly interested in working with me, I encourage you to select College of Computing as your home unit.
 </b>
 
 
 ## Research interests
 * **High-performance computing:** high-order schemes, particle-in-cell, scalable iterative solvers, preconditioning, adaptive mesh refinement, GPU accelerations
-* **Scientific computing and simulations:** multiscale and multiphysics problems, fusion whole device modeling, computational plasma physics
+* **Scientific computing and simulations:** multiscale and multiphysics problems, fusion modeling, computational plasma physics
 * **AI/ML and data science:** structure-preserving ML, dynamical system learning, scale bridging, ML-based surrogates, denoising, Bayesian inference
 
 ## Partnership 
-* **[Update‼️]** 📢 I am part of a new NNSA PSAAP VI FIC - Center for High Order Plasma Turbulence Modeling for Z-Pinch ([HighZ](https://highz-fic.github.io/))
-* **[Update‼️]** 📢 I am part of a new NNSA PSAAP VI FIC - Center for Information Geometric Mechanics and Optimization ([CIGMO](https://cigmo.github.io/))
+* I am part of an NNSA PSAAP FIC: Center for High Order Plasma Turbulence Modeling for Z-Pinch ([HighZ](https://highz-fic.github.io/))
+* I am part of an NNSA PSAAP FIC: Center for Information Geometric Mechanics and Optimization ([CIGMO](https://cigmo.github.io/))
 * I am part of the DOE ASCR MMICC Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)).
-* I was the lead PI for a DOE ASCR SciML team involving LANL, ANL, IIT, John Hopkins, and Penn State.
-* I was part of the DOE FES Tokamak Disruption Simulation SciDAC center ([TDS](https://tds-scidac.github.io/)).
+* 2021–2025, I was the lead PI for a DOE ASCR SciML team involving LANL, ANL, IIT, JHU, and PSU.
+* 2018–2023, I was part of the DOE FES Tokamak Disruption Simulation SciDAC center ([TDS](https://tds-scidac.github.io/)).
+
+## Awards
+* Summer Early Career Scholar, KTH Royal Institute of Technology, 2026
+* DOE Early Career Award (ECRP), 2025
 
 <br>
 </div>
