@@ -2,7 +2,9 @@
 
 <img width=300px, style="margin:-10px"> | |
 ------------ | -----------------------------------------------------------------
-Jan 14, 2026 | 🎉 Qi Tang received the **2025 DOE Early Career Award (ECPR)** through ASCR’s Applied Mathematics program. For more details, see [here](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=a756f612-3409-44b8-89ea-7421bf0840e5&rtc=24&PRoleId=10).
+Mar 5, 2026  | 🎉 Our LANL intern, Leonardo Molinari, has accepted an offer from the MFEM team to be a postdoc at LLNL. Congratulations, Leo!
+Feb 11, 2026 | See the official news release for the two PSAAP Focused Investigatory Centers (FICs) that our group is part of: [HighZ](https://msutoday.msu.edu/news/2026/02/new-fusion-energy-research-center-engages-students-and-doe) led by Michigan State University and [CIGMO](https://www.brown.edu/news/2025-10-01/computer-simulation-grant) led by Brown Uniersity.
+Jan 14, 2026 | 🎉 Qi Tang received the **2025 DOE Early Career Award (ECPR)** through ASCR’s Applied Mathematics program. For more details, see [here](https://science.osti.gov/-/media/early-career/pdf/1ECRP-PubAbstracts-FY2025.pdf).
 Dec 17, 2025 | 🎉 Qi Tang has been selected as a Summer Early Career Scholar to participate in the [Digital Futures 2026 Summer Early Career programme](https://www.digitalfutures.kth.se/call/digital-futures-2026-summer-early-career-programme-sec-programme/) at KTH Royal Institute of Technology. He will spend part of the next summer at Stockholm, collaborating with KTH faculty in data science and machine learning.
 Nov 12, 2025 | 🎉 Undergraduate student intern, Christian Engman from GT has been accepted into DOE Science Undergraduate Laboratory Internships (SULI) program. He will continuously with our team through the collaboration with LANL scientists along the inter-lab LDRD project.
 Nov 11, 2025 | 🚀 A new paper titled "Structure-preserving transfer of Grad–Shafranov equilibria to magnetohydrodynamic solvers" has been submitted. PhD student Rushan Zhang leads this work and its development based on MFEM. See [arXiv](https://arxiv.org/abs/2511.07763).

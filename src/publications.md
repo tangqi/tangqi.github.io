@@ -1,15 +1,15 @@
 ## Publications
 
 ### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate) or can be found on [arXiv](https://arxiv.org/search/?searchtype=author&query=Tang%2C+Q))
-1. R. Zhang, G. Wimmer, Q. Tang. Structure-preserving transfer of Grad–Shafranov equilibria to magnetohydrodynamic solvers, _submitted_, 22 pages, 2025.
-1. Y. Chen, W. Guo, Q. Tang, X. Zhong. Reduced-order modeling of Hamiltonian dynamics based on symplectic neural networks, _submitted_, 25 pages, 2025.
-1. H. Tischler, W. Li, Q. Tang, D. Perez, and T. Vogel. Predicting atomistic transitions with transformers, _in revision_, Data Science in Science, 10 pages, 2025.
-1. A. Alvarez Loya, D. Serino, J. Burby, and Q. Tang. Structure-preserving neural ordinary differential equations for stiff systems, _in revision_, 19 pages, NNs, 2025.
-1. Q. Zhang, Y. Zhang, Q. Tang, and X.-Z. Tang. Self-mediation of runaway electrons via self-excited wave-wave and wave-particle interactions, _submitted_, 7 pages, 2024.
+1. R. Zhang, G. Wimmer, Q. Tang. Structure-preserving transfer of Grad–Shafranov equilibria to magnetohydrodynamic solvers, JCP, _in revision_, 22 pages, 2025.
+1. Y. Chen, W. Guo, Q. Tang, X. Zhong. Reduced-order modeling of Hamiltonian dynamics based on symplectic neural networks, SISC, _in revision_, 25 pages, 2025.
+1. H. Tischler, W. Li, Q. Tang, D. Perez, and T. Vogel. Predicting atomistic transitions with transformers, Data Science in Science, _in revision_, 10 pages, 2025.
+1. A. Alvarez Loya, D. Serino, J. Burby, and Q. Tang. Structure-preserving neural ordinary differential equations for stiff systems, NNs, _in revision_, 19 pages, 2025.
 1. Z. Jorti, Q. Tang, K. Lipnikov, and X.-Z. Tang. A mimetic finite difference based quasi-static magnetohydrodynamic solver for force-free plasmas in tokamak disruptions, _submitted_, 43 pages, 2023.
 
 ### Journal Publications
-7. Y. Lu, X. Li, C. Liu, Q. Tang, and Y. Wang. Learning generalized diffusions using an energetic variational approach, **Communications in Computational Physics**,  _accepted_, 2025.
+6. Q. Zhang, Y. Zhang, X.-Z. Tang, and Q. Tang. Self-mediation of runaway electrons via self-excited wave-wave and wave-particle interactions, **Physical Review E**, _accepted_, 2026.
+1. Y. Lu, X. Li, C. Liu, Q. Tang, and Y. Wang. Learning generalized diffusions using an energetic variational approach, **Communications in Computational Physics**,  _accepted_, 2025.
 1. E. G. Drimalas, F. Fraschetti, C.-K. Huang, and Q. Tang. Symplectic neural network and its applications to charged particle dynamics in electromagnetic fields, **Physics of Plasmas**, 32(10):103901, 2025.
 1. D. Serino, Q. Tang, X.-Z. Tang, T. V. Kolev, and K. Lipnikov. An adaptive Newton-based free-boundary Grad–Shafranov solver, **SIAM Journal on Scientific Computing**, S364-S385, 2025. 
 1. G. Wimmer, B. Southworth, and Q. Tang. A structure-preserving discontinuous Galerkin scheme for the Cahn-Hilliard equation including time adaptivity, **Journal of Computational Physics**, 537:114097, 2025.
