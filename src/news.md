@@ -2,6 +2,8 @@
 
 <img width=300px, style="margin:-10px"> | |
 ------------ | -----------------------------------------------------------------
+May 11, 2026 | Qi Tang has begun a two-month visit to KTH Royal Institute of Technology and its Digital Futures Center, where he is hosted as an early-career scholar. See [here](https://www.digitalfutures.kth.se/mobility-projects/qi-tang/) for more details.
+Mar 31, 2026 | Qi Tang has become affiliated with [ML@GT](https://ml.gatech.edu/) as a member of the PhD program faculty.
 Mar 5, 2026  | 🎉 Our LANL intern, Leonardo Molinari, has accepted an offer from the MFEM team to be a postdoc at LLNL. Congratulations, Leo!
 Feb 11, 2026 | See the official news release for the two PSAAP Focused Investigatory Centers (FICs) that our group is part of: [HighZ](https://msutoday.msu.edu/news/2026/02/new-fusion-energy-research-center-engages-students-and-doe) led by Michigan State University and [CIGMO](https://www.brown.edu/news/2025-10-01/computer-simulation-grant) led by Brown Uniersity.
 Jan 14, 2026 | 🎉 Qi Tang received the **2025 DOE Early Career Award (ECPR)** through ASCR’s Applied Mathematics program. For more details, see [here](https://science.osti.gov/-/media/early-career/pdf/1ECRP-PubAbstracts-FY2025.pdf).
