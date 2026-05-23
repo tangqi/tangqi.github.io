@@ -11,14 +11,14 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 
 ### PhD students at GT
 * <ins>Alejo Ballester</ins>, Physics and CSE, 2025–present
-    * Alejo earned his BS in Biomedical Engineering from University of Florida. Alejo will be a summer intern at LANL.
+    * Alejo earned his BS in Biomedical Engineering from University of Florida. Alejo is a summer intern at LANL.
     * My role: advisor
 * <ins>Tage Burnett</ins>, CSE, 2025–present
-    * Tage earned his BS in ME from BYU. He has taken multiple interns at SNL and will be a summer intern at ORNL.
+    * Tage earned his BS in ME from BYU. He has taken multiple interns at SNL and is a summer intern at ORNL.
     * Awards: GT President's Fellowship
     * My role: advisor
 * <ins>Harshavardhan Harish</ins>, CSE, 2025–present
-    * Harsha earned his BS in Math and Certificate in CSE from UT-Austin. He will be a summer intern at LANL.
+    * Harsha earned his BS in Math and Certificate in CSE from UT-Austin. He is a summer intern at LANL.
     * My role: advisor
 * [<ins>Alex Most</ins>](https://scholar.google.com/citations?user=vjtrcL8AAAAJ&hl=en), ML, 2026–present
     * Alex earned his BS from Santa Clara and MS in Data Science from Montana State. He is a Post-Master at LANL.
@@ -28,12 +28,12 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * Awards: GT President's Fellowship
     * My role: advisor
 * [<ins>Rushan Zhang</ins>](https://rzhangbq.github.io/), CSE, 2025–present
-    * Rushan earned his BEng in AE and BS in CS from HKUST.  He will be a visiting student at LBNL during the summer.
+    * Rushan earned his BEng in AE and BS in CS from HKUST.  He is a visiting student at LBNL.
     * My role: advisor
 
 ### PhD students at other universities
 * <ins>Emmanouil (Manolis) G. Drimalas</ins>, Physics, University of Arizona, 2024–present
-    * Manolis has taken multiple internships at LANL.
+    * Manolis has taken multiple internships and is a long-term student at LANL.
     * My role: co-advisor with Federico Fraschetti (CfA at Harvard, primary)
 * <ins>Mandela B. Quashie</ins>, Computational Math, Michigan State University, 2023–present
     * Mandela has taken multiple internships at LANL.
@@ -41,8 +41,10 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 
 ### Master's students at GT
 * <ins>Alexander de Magalhaes</ins>, CSE, 2025–present
-    * Alex earned his B.A. in Physics from Wesleyan University. He will be a summer intern at LANL.
+    * Alex earned his B.A. in Physics from Wesleyan University. He is a summer intern at LANL.
     * Awards: GT Spark Award 
+* <ins>Anna Ernst</ins>, CSE, 2026–present
+    * Anna earned her BS in CS and Math from UT Dallas. She is a summer intern at LANL.
 * <ins>Jiya Varma</ins>, CS, 2025–present
     * Jiya earned her BS in CS at GT.
     * Awards: President’s Undergraduate Research Award (PURA)
