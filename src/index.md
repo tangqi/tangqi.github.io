@@ -1,5 +1,5 @@
 <div class="col-md-4" markdown="1">
-![](img/profile.jpg)
+![Qi Tang](img/profile.jpg)
 ## Qi Tang 
 Assistant Professor<br>
 [School of Computational Science and Engineering](https://cse.gatech.edu)<br>
