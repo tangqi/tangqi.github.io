@@ -29,12 +29,6 @@
         <link href="../css/highlight.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
 
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-        <![endif]-->
-
         <!-- Structured data for academic/search indexing -->
         <script type="application/ld+json">
         {
@@ -77,9 +71,6 @@
             <!-- Main title -->
             <a class="navbar-brand" href="https://tangqi.github.io/">Qi Tang</a>
         </div>
-
-        <script>var base_url = '..';</script>
-        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
 
         <!-- Expanded navigation -->
         <div class="navbar-collapse collapse">
@@ -189,6 +180,13 @@
             
             
             </ul>
+
+            <!-- Search -->
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal" title="Search"><i class="fa fa-search"></i> Search</a>
+                </li>
+            </ul>
         </div>
     </div>
 </div>
@@ -275,13 +273,33 @@ Rensselaer Polytechnic Institute 2015–2018.<ul>
                   <a href="https://mfem.org/">MFEM</a> webpage template.</p>
            </div>
         </footer>
-        
+
+        <!-- Search modal (results powered by MkDocs' built-in lunr search) -->
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                    </div>
+                    <div class="modal-body">
+                        <form role="form">
+                            <div class="form-group">
+                                <input type="search" class="form-control" placeholder="Type to search..." id="mkdocs-search-query" title="Type search term here" autocomplete="off">
+                            </div>
+                        </form>
+                        <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <script src="../js/jquery-1.10.2.min.js"></script>
         <script src="../js/bootstrap-3.0.3.min.js"></script>
         <script src="../js/highlight.pack.js"></script>
         <script src="../js/base.js"></script>
-        <script src="../js/retina.min.js"></script>
-        <!-- <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script> --> <!-- file missing in repo -->
+        <!-- base_url is required by MkDocs' search/main.js (auto-added to extra_javascript below) -->
+        <script>var base_url = "..";</script>
         <script src="../search/main.js"></script>
     </body>
 </html>

@@ -290,3 +290,42 @@ img.institution {
         max-width: 100%;
     }
 }
+
+/* Social / profile links row (homepage) */
+.social-icons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+    margin-top: 12px;
+}
+.social-icons a {
+    display: inline-flex;
+    align-items: center;
+}
+.social-icons img {
+    display: inline-block;
+    height: 26px;
+    width: auto;
+    margin: 0;
+    opacity: 0.75;
+    transition: opacity 0.15s ease-in-out;
+}
+.social-icons a:hover img {
+    opacity: 1;
+}
+
+/* Search results inside the search modal */
+#mkdocs-search-results article {
+    padding: 6px 0;
+    border-bottom: 1px solid #eee;
+}
+#mkdocs-search-results article h3 {
+    font-size: 16px;
+    margin: 0 0 4px;
+}
+#mkdocs-search-results article p {
+    font-size: 13px;
+    color: #666;
+    margin: 0;
+}
