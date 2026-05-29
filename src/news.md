@@ -2,6 +2,7 @@
 
 <img width=300px, style="margin:-10px"> | |
 ------------ | -----------------------------------------------------------------
+May 27, 2026 | Qi Tang gave a TDB seminar in Department of Information Technology at Uppsala University. He talked about stability and accuracy of neural operators. See [here](https://uppsala.instructure.com/courses/89337/pages/past-seminars-2026?module_item_id=1593924).
 May 21, 2026 | 🚀 A new paper has been submitted on a structure-preserving decorated particle method for the Vlasov–Poisson system. The work develops a Hamiltonian-preserving particle-based approach with a novel particle representation, enabling kinetic modeling with significantly fewer particles in plasma simulations. See [arXiv](https://arxiv.org/abs/2605.21794).
 May 11, 2026 | Qi Tang has begun a two-month visit to KTH Royal Institute of Technology and its Digital Futures Center, where he is hosted as an early-career scholar. See [here](https://www.digitalfutures.kth.se/mobility-projects/qi-tang/) for more details.
 Mar 31, 2026 | Qi Tang has become affiliated with [ML@GT](https://ml.gatech.edu/) as a member of the PhD program faculty.

@@ -53,6 +53,7 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 * <ins>Elliot Day</ins>, Computer Science, 2026–present
 * <ins>Miles Hauck</ins>, Electrical Engineering, 2025–present
 * <ins>Connor Kelly</ins>, Nuclear Engineering, 2025–present
+* <ins>Hao Wang</ins>, Applied Math, 2025–present
 
 ### Student interns at LANL and GT
 * <ins>Yicong (Eddy) Luo</ins>, PhD student from GT, summer 2026
@@ -75,7 +76,6 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * My role: co-mentor
 
 ### Student interns at GT 
-* <ins>Hao Wang</ins>, UG in Applied Math, 2025–2026
 * <ins>Janani Murugan</ins>, UG in Biochemistry and CS, 2025–2026
 * <ins>Saisruthi Bandla</ins>, MS in AE, summer 2025
 
