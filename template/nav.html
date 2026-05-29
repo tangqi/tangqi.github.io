@@ -15,9 +15,6 @@
             <a class="navbar-brand" href="{{ config.site_url }}">{{ config.site_name }}</a>
         </div>
 
-        <script>var base_url = '{{ base_url }}';</script>
-        <script data-main="{{ base_url }}/mkdocs/js/search.js" src="{{ base_url }}/mkdocs/js/require.js"></script>
-
         <!-- Expanded navigation -->
         <div class="navbar-collapse collapse">
             <!-- Main navigation -->
@@ -45,6 +42,13 @@
             {% endif %}
             {% endif %}
             {% endfor %}
+            </ul>
+
+            <!-- Search -->
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal" title="Search"><i class="fa fa-search"></i> Search</a>
+                </li>
             </ul>
         </div>
     </div>

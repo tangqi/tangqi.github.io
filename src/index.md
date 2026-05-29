@@ -16,18 +16,12 @@ Guest Scientist<br>
 **Office:** Coda at Tech Square, S1373B
 <br/><br/>
 
-<div class="row">
-<div class="col-xs-6 col-md-6" style="width:5%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:14.3%;padding:0"><a href="https://github.com/tangqi"><img src="img/github-mark.png" alt="Github" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:15%;padding:0"><a href="https://scholar.google.com/citations?user=EtoOcLMAAAAJ&hl=en"><img src="img/GS.png" alt="Google Scholar" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:15%;padding:0"><a href="https://www.researchgate.net/profile/Qi-Tang-16"><img src="img/RG.png" alt="ResearchGate" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:15%;padding:0"><a href="https://orcid.org/0000-0001-9614-1075"><img src="img/orcid.svg" alt="ORCiD" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
-<div class="col-xs-6 col-md-6" style="width:15%;padding:0"><a href="https://www.linkedin.com/in/qi-tang-28a64123"><img src="img/linkedin.png" alt="Linkedin" class="desaturate" style="display:inline;padding:0;margin:0"></a></div>
-<div class="col-xs-6 col-md-6" style="width:3%;padding:0"></div>
+<div class="social-icons">
+<a href="https://github.com/tangqi" title="GitHub"><img src="img/github-mark.png" alt="GitHub" class="desaturate"></a>
+<a href="https://scholar.google.com/citations?user=EtoOcLMAAAAJ&hl=en" title="Google Scholar"><img src="img/GS.png" alt="Google Scholar" class="desaturate"></a>
+<a href="https://www.researchgate.net/profile/Qi-Tang-16" title="ResearchGate"><img src="img/RG.png" alt="ResearchGate" class="desaturate"></a>
+<a href="https://orcid.org/0000-0001-9614-1075" title="ORCiD"><img src="img/orcid.svg" alt="ORCiD" class="desaturate"></a>
+<a href="https://www.linkedin.com/in/qi-tang-28a64123" title="LinkedIn"><img src="img/linkedin.png" alt="LinkedIn" class="desaturate"></a>
 </div>
 </div>
 
