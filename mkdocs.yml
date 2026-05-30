@@ -14,9 +14,9 @@ nav:
 - News: news.md
 - Team: team.md
 - Research:
-  - 'High-performance computing': hpc.md
-  - 'Scientific computing and simulation': computing.md
-  - 'Scientific machine learning': ml.md
+  - 'High-Performance Computing': hpc.md
+  - 'Scientific Computing and Simulation': computing.md
+  - 'Scientific Machine Learning': ml.md
 - Publications: publications.md
 - CV: cv.md
 - Teaching: 

@@ -13,6 +13,45 @@ h4 {
     font-size: 18px;
 }
 
+/* Highlight the active navbar item in dark gold (instead of the default dark gray) */
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav .dropdown-menu > .active > a,
+.navbar-default .navbar-nav .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .dropdown-menu > .active > a:focus {
+    color: #8a6d1f;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+/* Navbar hover/open: gold text with no dark box (overrides the template's #272727 box) */
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #8a6d1f;
+    background-color: transparent;
+}
+
+/* Dropdown panels (Research / Teaching): light panel, gray text, gold hover/active */
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #777;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #8a6d1f;
+    background-color: #f5f5f5;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #8a6d1f;
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+
 /* hack to increase height of headers to make #anchors work with the top nav-bar,
    (note: we only want this on pages with TOC, otherwise there are other problems) */
 div.col-md-9 h1[id]::before,

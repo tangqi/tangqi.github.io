@@ -9,7 +9,7 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 <!-- ### Postdocs -->
 
 
-### PhD students at GT
+### PhD Students at GT
 * <ins>Alejo Ballester</ins>, Physics and CSE, 2025–present
     * Alejo earned his BS in Biomedical Engineering from University of Florida. Alejo is a summer intern at LANL.
     * My role: advisor
@@ -31,7 +31,7 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * Rushan earned his BEng in AE and BS in CS from HKUST.  He is a visiting student at LBNL.
     * My role: advisor
 
-### PhD students at other universities
+### PhD Students at Other Universities
 * <ins>Emmanouil (Manolis) G. Drimalas</ins>, Physics, University of Arizona, 2024–present
     * Manolis has taken multiple internships and is a long-term student at LANL.
     * My role: co-advisor with Federico Fraschetti (CfA at Harvard, primary)
@@ -39,7 +39,7 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * Mandela has taken multiple internships at LANL.
     * My role: co-advisor with Andrew Christlieb (MSU, primary)
 
-### Master's students at GT
+### Master's Students at GT
 * <ins>Alexander de Magalhaes</ins>, CSE, 2025–present
     * Alex earned his B.A. in Physics from Wesleyan University. He is a summer intern at LANL.
     * Awards: GT Spark Award 
@@ -49,13 +49,13 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * Jiya earned her BS in CS at GT.
     * Awards: President’s Undergraduate Research Award (PURA)
 
-### Undergraduate students at GT
+### Undergraduate Students at GT
 * <ins>Elliot Day</ins>, Computer Science, 2026–present
 * <ins>Miles Hauck</ins>, Electrical Engineering, 2025–present
 * <ins>Connor Kelly</ins>, Nuclear Engineering, 2025–present
 * <ins>Hao Wang</ins>, Applied Math, 2025–present
 
-### Student interns at LANL and GT
+### Student Interns at LANL and GT
 * <ins>Yicong (Eddy) Luo</ins>, PhD student from GT, summer 2026
 * <ins>Christian Engman</ins>, UG student from GT, 2025–present
     * Awards: DOE SULI fellowship
@@ -75,11 +75,11 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * Current: Staff Scientist, T-5, Los Alamos National Laboratory
     * My role: co-mentor
 
-### Student interns at GT 
+### Student Interns at GT
 * <ins>Janani Murugan</ins>, UG in Biochemistry and CS, 2025–2026
 * <ins>Saisruthi Bandla</ins>, MS in AE, summer 2025
 
-### Student interns at LANL
+### Student Interns at LANL
 * <ins>Leonardo Molinari</ins>, Graduate student from Emory University, 2025–2026
 * <ins>Jamar Sullivan</ins>, Postbac, summer 2025
 * <ins>Emmanouil G. Drimalas</ins>, Graduate student from University of Arizona, 2024

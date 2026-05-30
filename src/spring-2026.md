@@ -2,7 +2,7 @@
 
 ## CSE/MATH-6643 <br> Numerical Linear Algebra
 
-### Instructor information
+### Instructor Information
 
 **Lectures:** T Th 2:00-3:15pm <br>
 **Location:** Clough UG Learning Commons 152
@@ -29,7 +29,7 @@
 
 ----
 
-### Course description
+### Course Description
 This course introduces fundamental algorithms in numerical linear algebra, including methods for solving linear systems, constructing orthogonal bases, and computing eigenvalue and singular value decompositions (SVD). A key objective is to prepare Ph.D. students for the qualifying exam; therefore, the course emphasizes theorems, proofs, and the mathematical principles underlying these algorithms.
 ### Prerequisites
 * MATH 2406 or MATH 4305 
@@ -76,7 +76,7 @@ _This is a very clearly written textbook, and we will cover the entire book. You
 
 
 
-#### Additional references:
+#### Additional References:
 * Matrix Computations, Golub and Van Loan. _This is the bible of numerical linear algebra. Advanced material will be taken from this book._
 * Applied Numerical Linear Algebra, Demmel. _This is another classic textbook._
 * [The Matrix Cookbook](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf), Petersen and Pedersen. _This online book contains many important identities and is incredibly useful._
@@ -88,14 +88,14 @@ applies additively, meaning that no credit is gained after five late days). We s
 of LaTeX for your submission. Unreadable handwriting is subject to zero credit.
 
 
-### Class management
+### Class Management
 We will use Canvas to deliver course materials and announcements.
 
 ----
 
-### Course policies, expectations & guidelines
+### Course Policies, Expectations & Guidelines
 
-#### Plagiarism & academic integrity
+#### Plagiarism & Academic Integrity
 
 Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards. For more information on the Honor Code, please visit the [OSI](https://osi.gatech.edu/) website.
 
@@ -107,16 +107,16 @@ you discussed with whom.
 
 Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will be reported to the Office of Student Integrity, which will investigate the incident and identify the appropriate penalty for violations. 
 
-#### Role of AI assistants
+#### Role of AI Assistants
 The use of LLMs like ChatGPT and Gemini will be treated like a human collaborator: You have to indicate their use,
 what you used them for, and you may only use them to get ideas in trying to figure out the solution of a
 problem or resolve places where you might have gotten stuck. Like a human collaborator, you should not use the LLMs when preparing your solutions or code. For instance, directly copying the output of a chatbot is strictly forbidden
 
-#### Accommodations for individuals with disabilities
+#### Accommodations for Individuals with Disabilities
 
 If you are a student with learning needs that require special accommodation, contact the Office of Disability Services at (404) 894-2563 or [website](http://disabilityservices.gatech.edu/), as soon as possible, to make an appointment to discuss your special needs and to obtain an accommodations letter.  Please also email me as soon as possible in order to set up a time to discuss your learning needs.
 
-#### Student-faculty expectations
+#### Student-Faculty Expectations
 
 The Georgia Tech community believes that it is important to continually strive for an atmosphere of mutual respect, acknowledgement, and responsibility between faculty members and the student body. Therefore, we herein endeavors to enumerate the specific expectations of each side. See [here](https://catalog.gatech.edu/rules/21/) for more details.
 

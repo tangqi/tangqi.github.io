@@ -16,7 +16,7 @@
 <div class="entry-date">2021–2024</div>
 </div>
 <div class="entry">
-<div class="entry-body"><span class="entry-title">Postdoc</span><span class="entry-meta">Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory</span><span class="entry-meta">Mentors: <a href="https://scholar.google.com/citations?user=TzXmYdwAAAAJ&amp;hl=en">Xianzhu Tang</a> and <a href="https://scholar.google.com/citations?user=sDebqYwAAAAJ&amp;hl=en">Luis Chacon</a></span></div>
+<div class="entry-body"><span class="entry-title">Postdoctoral Research Associate</span><span class="entry-meta">Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory</span><span class="entry-meta">Mentors: <a href="https://scholar.google.com/citations?user=TzXmYdwAAAAJ&amp;hl=en">Xianzhu Tang</a> and <a href="https://scholar.google.com/citations?user=sDebqYwAAAAJ&amp;hl=en">Luis Chacon</a></span></div>
 <div class="entry-date">2018–2021</div>
 </div>
 <div class="entry">

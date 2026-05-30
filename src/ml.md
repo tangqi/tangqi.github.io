@@ -8,7 +8,7 @@ I have been increasingly interested in ML/AI, particularly in integrating mathem
 
 <b><span style="color:#003057">The following structure-preserving SciML work has been primarily supported by DOE ASCR data-intensive scientific machine learning program. </span></b>
 
-### Structure-preserving SciML
+### Structure-Preserving SciML
 
 The recent representative papers include: dynamics learning for multiscale and/or stiff ODEs[^1] [^2] [^3] and large-scale PDEs,[^4] learning flow maps for Hamiltonians [^5] [^6], their applications,[^7] [^8] and molecular dynamics.[^9] [^10] 
 Please refer to the corresponding references for more details. 
@@ -31,7 +31,7 @@ Please refer to the corresponding references for more details.
 
 <b><span style="color:#003057">The following fusion ML work has been primarily supported by DOE FES SciDAC and FES AI/ML programs. </span></b>
 
-### Fast ML-based Surrogates for Fusion Modeling
+### Fast ML-Based Surrogates for Fusion Modeling
 
 We have developed novel symplectic neural network (HenonNet) and applied it as a fast surrogate to generate Poincaré plot for tokamaks.[^11]
 We also developed physics-assisted latent dynamics learning for collisional radiative models.[^12] [^13]

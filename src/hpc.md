@@ -1,13 +1,13 @@
 <div class="cv" markdown="1">
 
-## High-performance computing
+## High-Performance Computing
 
 I am interested in developing scalable, adaptive, high-order numerical algorithms on exascale computers. I build upon computational techiniques 
 such as implicit time stepping, iterative methods, adavanced preconditioning, adaptive mesh refinement, domain decompositions, and GPU accelerations. Here two recent works are presented. 
 
 ----
 
-### Scalable MFEM-based resistive MHD solver
+### Scalable MFEM-Based Resistive MHD Solver
 
 **LA-UR-22-22440. Approved for public release; distribution is unlimited.** 
 
@@ -48,7 +48,7 @@ We recently developed a high-order stabilized finite-element algorithm[^1] for t
 
 ----
 
-### Adaptive, scalable relativistic Fokker-Planck-Boltzmann solver based on PETSc-p4est
+### Adaptive, Scalable Relativistic Fokker-Planck-Boltzmann Solver Based on PETSc-p4est
 
 **LA-UR-22-22439. Approved for public release; distribution is unlimited.** 
 
@@ -76,9 +76,9 @@ We develop a scalable fully implicit solver with dynamic adaptivity. We develope
 </video>
 *MPI Ranks are presented to demonstrate dynamic load balancing. Here 64 CPUs are used in this AMR run. Unlike the MFEM MHD work which uses a Hilbert curve, here a "zig-zag" space filling curve is used which results into discontinuity in domain decompositions.*
 
-[^1]: Q. Tang\*, L. Chacon, T. V. Kolev, J. N. Shadid and X.-Z. Tang. An adaptive scalable fully implicit algorithm based on stabilized finite element for reduced visco-resistive MHD, **Journal of Computational Physics**, 454:110967, 2022
+[^1]: Q. Tang, L. Chacon, T. V. Kolev, J. N. Shadid and X.-Z. Tang. An adaptive scalable fully implicit algorithm based on stabilized finite element for reduced visco-resistive MHD, **Journal of Computational Physics**, 454:110967, 2022
 
-[^2]: J. Rudi\*, M. Heldman, E. M. Constantinescu, Q. Tang\*, and X.-Z. Tang. Scalable implicit solvers with dynamic mesh adaptation for a relativistic drift-kinetic Fokker–Planck–Boltzmann model, **Journal of Computational Physics**, 507:112954, 2024.
+[^2]: J. Rudi, M. Heldman, E. M. Constantinescu, Q. Tang, and X.-Z. Tang. Scalable implicit solvers with dynamic mesh adaptation for a relativistic drift-kinetic Fokker–Planck–Boltzmann model, **Journal of Computational Physics**, 507:112954, 2024.
 
 
 </div>

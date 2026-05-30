@@ -5,7 +5,7 @@ My interest in scientific computing centers around multiscale and multiphysics p
 
 ----
 
-### Full cold vertical displacement event (VDE) simulation of a major disruption in an ITER-like tokamak reactor
+### Full Cold Vertical Displacement Event (VDE) Simulation of a Major Disruption in an ITER-like Tokamak Reactor
 
 **LA-UR-23-21442. Approved for public release; distribution is unlimited.** 
 
@@ -46,7 +46,7 @@ The first movie shows the evolution of the toroidal current and magnetic field l
 ----
 
 
-### Stable multi-physics coupling algorithms for fluid-structure interaction (FSI)
+### Stable Multi-Physics Coupling Algorithms for Fluid-Structure Interaction (FSI)
 
 Fluid–structure interaction (FSI) is a classic multiphysics coupling problem that is both computationally challenging and scientifically interesting. Over the years, I have been particularly interested in developing stable algorithms for coupling fluids with lightweight structures. Designing such algorithms is demanding because it requires a blend of computational mathematics, numerical analysis, mesh generation, software engineering, and careful verification and validation (V&V).
 
