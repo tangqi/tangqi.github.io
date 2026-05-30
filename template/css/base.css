@@ -4,7 +4,7 @@ body {
 
 /* Site-wide heading sizes */
 h2 {
-    font-size: 23px;
+    font-size: 26px;
 }
 h3 {
     font-size: 20px;
@@ -398,9 +398,6 @@ img.institution {
 }
 .cv ul ul li::before {
     content: none;
-}
-.cv hr {
-    display: none; /* section underlines replace divider rules */
 }
 /* Journal & conference review list, flowed into responsive columns */
 .cv .journal-list ul {

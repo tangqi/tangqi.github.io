@@ -1,7 +1,11 @@
-# Scientific computing and simulations
+<div class="cv" markdown="1">
+
+## Scientific Computing and Simulation
 My interest in scientific computing centers around multiscale and multiphysics problems. In fusion modeling, both temporal and spatial scales span many orders of magnitude, presenting a rich class of multiscale and multiphysics challenges for numerical algorithms. As a result, a significant portion of my research has focused on developing scalable physics codes for whole-device modeling in magnetic confinement fusion. Additionally, I am interested in computational plasma physics for other applications, such as astrophysics, accelerators, and inertial confinement fusion (ICF). Another research interest of mine is developing stable coupling algorithms for multi-physics problems, such as fluid–structure interaction.
 
-## Full cold vertical displacement event (VDE) simulation of a major disruption in an ITER-like tokamak reactor
+----
+
+### Full cold vertical displacement event (VDE) simulation of a major disruption in an ITER-like tokamak reactor
 
 **LA-UR-23-21442. Approved for public release; distribution is unlimited.** 
 
@@ -12,7 +16,7 @@ The MFD solver[^1] is used for simulating the cold vertical displacement events 
 The first movie shows the evolution of the toroidal current and magnetic field lines over time for isotropic resistivities inside the tokamak subdomains. On the other hand, the remaining movies correspond to a setting where the blanket module has an anisotropic resistivity (different values in toroidal and poloidal directions). This setting was employed to simulate the halo and eddy currents inside the tokamak. All the movies are shown on one selected poloidal plane. 
 
 
-### Result
+#### Result
 
 
 <video controls preload="metadata" width="100%">
@@ -42,11 +46,11 @@ The first movie shows the evolution of the toroidal current and magnetic field l
 ----
 
 
-## Stable multi-physics coupling algorithms for fluid-structure interaction (FSI)
+### Stable multi-physics coupling algorithms for fluid-structure interaction (FSI)
 
 Fluid–structure interaction (FSI) is a classic multiphysics coupling problem that is both computationally challenging and scientifically interesting. Over the years, I have been particularly interested in developing stable algorithms for coupling fluids with lightweight structures. Designing such algorithms is demanding because it requires a blend of computational mathematics, numerical analysis, mesh generation, software engineering, and careful verification and validation (V&V).
 
-### Result
+#### Result
 
 <video controls preload="metadata" width="100%">
     <source src="../img/gallery/heartValve_fixed.mp4" type="video/mp4">
@@ -64,6 +68,8 @@ Fluid–structure interaction (FSI) is a classic multiphysics coupling problem t
 
 [^1]: Z. Jorti, Q. Tang, K. Lipnikov and X.-Z. Tang. A mimetic finite difference based quasi-static magnetohydrodynamic solver for force-free plasmas in tokamak disruptions, [arXiv:2303.08337](https://arxiv.org/abs/2303.08337), submitted, 2023.
 
+
+</div>
 
 <script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: {equationNumbers: {autoNumber: "all"}}, tex2jax: {inlineMath: [['$','$']]}});</script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_HTML"></script>

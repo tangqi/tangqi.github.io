@@ -26,6 +26,16 @@
 </div>
 
 
+### Long-Term Visits
+
+<div class="entry-list">
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Early Career Visiting Scholar</span><span class="entry-meta">Digital Futures and Department of Mathematics, KTH Royal Institute of Technology</span></div>
+<div class="entry-date">May–July 2026</div>
+</div>
+</div>
+
+
 ### Education
 
 <div class="entry-list">

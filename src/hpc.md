@@ -1,9 +1,13 @@
-# High-performance computing
+<div class="cv" markdown="1">
+
+## High-performance computing
 
 I am interested in developing scalable, adaptive, high-order numerical algorithms on exascale computers. I build upon computational techiniques 
 such as implicit time stepping, iterative methods, adavanced preconditioning, adaptive mesh refinement, domain decompositions, and GPU accelerations. Here two recent works are presented. 
 
-## Scalable MFEM-based resistive MHD solver
+----
+
+### Scalable MFEM-based resistive MHD solver
 
 **LA-UR-22-22440. Approved for public release; distribution is unlimited.** 
 
@@ -13,7 +17,7 @@ We recently developed a high-order stabilized finite-element algorithm[^1] for t
 
 ----
 
-## Result
+#### Result
 
 <video controls preload="metadata" width="100%">
     <source src="../img/gallery/res1e-6.mp4" type="video/mp4">
@@ -44,7 +48,7 @@ We recently developed a high-order stabilized finite-element algorithm[^1] for t
 
 ----
 
-## Adaptive, scalable relativistic Fokker-Planck-Boltzmann solver based on PETSc-p4est 
+### Adaptive, scalable relativistic Fokker-Planck-Boltzmann solver based on PETSc-p4est
 
 **LA-UR-22-22439. Approved for public release; distribution is unlimited.** 
 
@@ -58,7 +62,7 @@ We develop a scalable fully implicit solver with dynamic adaptivity. We develope
 
 ----
 
-## Result
+#### Result
 
 <video controls preload="metadata" width="100%">
     <source src="../img/gallery/E_1.69chiu.mp4" type="video/mp4">
@@ -76,6 +80,8 @@ We develop a scalable fully implicit solver with dynamic adaptivity. We develope
 
 [^2]: J. Rudi\*, M. Heldman, E. M. Constantinescu, Q. Tang\*, and X.-Z. Tang. Scalable implicit solvers with dynamic mesh adaptation for a relativistic drift-kinetic Fokker–Planck–Boltzmann model, **Journal of Computational Physics**, 507:112954, 2024.
 
+
+</div>
 
 <script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: {equationNumbers: {autoNumber: "all"}}, tex2jax: {inlineMath: [['$','$']]}});</script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_HTML"></script>

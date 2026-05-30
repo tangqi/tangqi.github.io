@@ -1,6 +1,6 @@
 <div class="cv" markdown="1">
 
-### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate) or can be found on [arXiv](https://arxiv.org/search/?searchtype=author&query=Tang%2C+Q))
+### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate))
 1. M. B. Quashie, J. W. Burby, A. J. Christlieb, and Q. Tang. A structure-preserving decorated particle method for the Vlasov–Poisson System, _submitted_,  2026.
 1. Y. Lu, X. Li, C. Liu, Q. Tang, and Y. Wang. Structure-aware variational learning of a class of generalized diffusions, Physica D, _submitted_,  2026.
 1. R. Zhang, G. Wimmer, Q. Tang. Structure-preserving transfer of Grad–Shafranov equilibria to magnetohydrodynamic solvers, JCP, _in revision_, 22 pages, 2025.
