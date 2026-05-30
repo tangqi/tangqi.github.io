@@ -1,59 +1,202 @@
-## Appointments
-* Assistant Professor, School of Computational Science and Engineering, Georgia Institute of Technology, 2024–present.
-* Guest Scientist, Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory, 2024–present.
-* Staff Scientist (2 and 3), Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory 2021–2024.
-* Postdoc, Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory 2018–2021.
-    * Mentors: [Xianzhu Tang](https://scholar.google.com/citations?user=TzXmYdwAAAAJ&hl=en) and [Luis Chacon](https://scholar.google.com/citations?user=sDebqYwAAAAJ&hl=en)
-* Eliza Ricketts Postdoctoral Fellow, Department of Mathematical Sciences,
-Rensselaer Polytechnic Institute 2015–2018.
-    * Mentor: [Jeff Banks](https://faculty.rpi.edu/jeffrey-banks)
+<div class="cv" markdown="1">
+
+### Appointments
+
+<div class="entry-list">
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Assistant Professor</span><span class="entry-meta">School of Computational Science and Engineering, Georgia Institute of Technology</span></div>
+<div class="entry-date">2024–present</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Guest Scientist</span><span class="entry-meta">Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory</span></div>
+<div class="entry-date">2024–present</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Staff Scientist</span><span class="entry-meta">Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory</span></div>
+<div class="entry-date">2021–2024</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Postdoc</span><span class="entry-meta">Applied Math and Plasma Physics Group (T-5), Los Alamos National Laboratory</span><span class="entry-meta">Mentors: <a href="https://scholar.google.com/citations?user=TzXmYdwAAAAJ&amp;hl=en">Xianzhu Tang</a> and <a href="https://scholar.google.com/citations?user=sDebqYwAAAAJ&amp;hl=en">Luis Chacon</a></span></div>
+<div class="entry-date">2018–2021</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Eliza Ricketts Postdoctoral Fellow</span><span class="entry-meta">Department of Mathematical Sciences, Rensselaer Polytechnic Institute</span><span class="entry-meta">Mentor: <a href="https://faculty.rpi.edu/jeffrey-banks">Jeff Banks</a></span></div>
+<div class="entry-date">2015–2018</div>
+</div>
+</div>
 
 
-## Education
-* Ph.D. in Applied Mathematics, Michigan State University, 2015.
-    * Advisor: [Andrew Christlieb](https://directory.natsci.msu.edu/Directory/Profiles/Person/101537)
-* B.S. in Mathematics & Applied Mathematics, Zhejiang University 2010.
+### Education
 
-----
+<div class="entry-list">
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Ph.D. in Applied Mathematics</span><span class="entry-meta">Michigan State University</span><span class="entry-meta">Advisor: <a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/101537">Andrew Christlieb</a></span></div>
+<div class="entry-date">2015</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">B.S. in Mathematics &amp; Applied Mathematics</span><span class="entry-meta">Zhejiang University</span></div>
+<div class="entry-date">2010</div>
+</div>
+</div>
 
-## Selected Grants
+
+### Selected Grants
 
 #### At GT
-* Structure-Preserving Data Reduction and Processing for Particle Representations, DOE-SC ECRP, Role: PI, FY26–FY30.
-* Center for High Order Plasma Turbulence Modeling for Z-Pinch ([HighZ](https://highz-fic.github.io/)), NNSA PSAAP, Role: Institutional PI, FY26–FY30.
-* Center for Information Geometric Mechanics and Optimization ([CIGMO](https://cigmo.github.io/)), NNSA PSAAP, Role: Co-PI, FY26–FY30.
-* Digital Futures 2026 Summer Early Career programme, KTH Royal Institute of Technology, Role: PI, FY26.
-* An open-source Newton-based free-boundary Grad-Shafranov solver, GT OSPO, Role: PI, FY25.
-* Fundamental understandings of multi-color/multi-modal radiography and methods for data assimilation and design optimization, DOE Inter-lab LDRD, Role: Institutional PI, FY25–FY27.
-* Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)), DOE-SC ASCR, Role: Co-I at LANL and Institutional PI at GT, FY23–FY27
+
+<div class="entry-list">
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Structure-Preserving Data Reduction and Processing for Particle Representations</span><span class="entry-meta">DOE-SC ECRP · PI</span></div>
+<div class="entry-date">FY26–FY30</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Center for High Order Plasma Turbulence Modeling for Z-Pinch (<a href="https://highz-fic.github.io/">HighZ</a>)</span><span class="entry-meta">NNSA PSAAP · Institutional PI</span></div>
+<div class="entry-date">FY26–FY30</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Center for Information Geometric Mechanics and Optimization (<a href="https://cigmo.github.io/">CIGMO</a>)</span><span class="entry-meta">NNSA PSAAP · Co-PI</span></div>
+<div class="entry-date">FY26–FY30</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Digital Futures 2026 Summer Early Career programme</span><span class="entry-meta">KTH Royal Institute of Technology · PI</span></div>
+<div class="entry-date">FY26</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">An open-source Newton-based free-boundary Grad-Shafranov solver</span><span class="entry-meta">GT OSPO · PI</span></div>
+<div class="entry-date">FY25</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Fundamental understandings of multi-color/multi-modal radiography and methods for data assimilation and design optimization</span><span class="entry-meta">DOE Inter-lab LDRD · Institutional PI</span></div>
+<div class="entry-date">FY25–FY27</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport (<a href="https://charmnet-mmicc.github.io/">CHaRMNET</a>)</span><span class="entry-meta">DOE-SC ASCR · Co-I at LANL and Institutional PI at GT</span></div>
+<div class="entry-date">FY23–FY27</div>
+</div>
+</div>
 
 #### At LANL
-* A stable partitioned multiscale solver for ocean surface and floating structure interaction, LANL LDRD CSES Program, Role: PI\*, FY25–FY27.<br>
-\*The PI role has been transfered to Dan Serino. 
-* Towards the understanding of polarization mystery of astrophysical X-ray sources with MHD-PIC simulations powered by machine learning, LANL LDRD CSES Program, Role: Co-I, FY24–FY27.
-* DeepFusion accelerator for fusion energy sciences in disruption mitigation, DOE-SC FES, Role: Co-I (unfunded starting from FY25), FY24–FY26.
-* Accurate discretizations and compatible linear solvers for extreme anisotropies in fusion, LANL LDRD, Role: Co-I (unfunded starting from FY25), FY24–FY26.
-* Inertial neural surrogates for stable dynamical prediction, DOE-SC ASCR, Role: Lead PI, FY22–FY25.
-* Preventing beam degradation in the LANSCE linear accelerator, LANL LDRD, Role: Co-I, FY23.
-* Data compression techniques for particle-based simulations, LANL LDRD ISTI Program, Role: PI, FY22.
-* Advancing the mission: sparse view dynamic tomographic reconstruction for 3D code validation, LANL LDRD DR, Role: Senior Personnel, FY22–FY24.
-* DeepFusion accelerator for fusion energy sciences in disruption mitigation, DOE-SC SciDAC, Role: Senior Personnel, FY22–FY23.
-* Theory and modeling of magnetic fusion plasma, DOE-SC FES, Role: Senior Personnel, FY20–FY24.
-* Tokamak Disruption Simulation, DOE-SC SciDAC, Role: Senior Personnel, FY19–FY23.
 
-----
+<div class="entry-list">
+<div class="entry">
+<div class="entry-body"><span class="entry-title">A stable partitioned multiscale solver for ocean surface and floating structure interaction</span><span class="entry-meta">LANL LDRD · PI*</span><span class="entry-note">*The PI role has been transferred to Dan Serino.</span></div>
+<div class="entry-date">FY25–FY27</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Towards the understanding of polarization mystery of astrophysical X-ray sources with MHD-PIC simulations powered by machine learning</span><span class="entry-meta">LANL LDRD · Co-I</span></div>
+<div class="entry-date">FY24–FY27</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">DeepFusion accelerator for fusion energy sciences in disruption mitigation</span><span class="entry-meta">DOE-SC FES · Co-I</span></div>
+<div class="entry-date">FY24–FY26</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Accurate discretizations and compatible linear solvers for extreme anisotropies in fusion</span><span class="entry-meta">LANL LDRD · Co-I</span></div>
+<div class="entry-date">FY24–FY26</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Inertial neural surrogates for stable dynamical prediction</span><span class="entry-meta">DOE-SC ASCR · Lead PI</span></div>
+<div class="entry-date">FY22–FY25</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Preventing beam degradation in the LANSCE linear accelerator</span><span class="entry-meta">LANL LDRD · Co-I</span></div>
+<div class="entry-date">FY23</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Data compression techniques for particle-based simulations</span><span class="entry-meta">LANL LDRD · PI</span></div>
+<div class="entry-date">FY22</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Advancing the mission: sparse view dynamic tomographic reconstruction for 3D code validation</span><span class="entry-meta">LANL LDRD · Senior Personnel</span></div>
+<div class="entry-date">FY22–FY24</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">DeepFusion accelerator for fusion energy sciences in disruption mitigation</span><span class="entry-meta">DOE-SC SciDAC · Senior Personnel</span></div>
+<div class="entry-date">FY22–FY23</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Theory and modeling of magnetic fusion plasma</span><span class="entry-meta">DOE-SC FES · Senior Personnel</span></div>
+<div class="entry-date">FY20–FY24</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Tokamak Disruption Simulation</span><span class="entry-meta">DOE-SC SciDAC · Senior Personnel</span></div>
+<div class="entry-date">FY19–FY23</div>
+</div>
+</div>
 
-## Proposal Review
-* DOE ASCR 
+
+### Proposal Review
+* DOE ASCR
 * DOE FES
 * DOE SBIR/STTR (ASCR and FES)
-* LANL Institutional Computing 
+* LANL Institutional Computing
 
-## Journal and Conference Review
-Journal of Computational Physics, SIAM Journal on Scientific Computing, SIAM Journal on Numerical Analysis, Computer Methods in Applied Mechanics and Engineering, International Journal for Numerical Methods in Engineering, The Bridge (National Academy of Engineering), Journal of Scientific Computing, Chaos: An Interdisciplinary Journal of Nonlinear Science, Chaos Solitons & Fractals, MathSciNet, Communications in Nonlinear Science and Numerical Simulation, Computers & Fluids, Computers & Mathematics with Applications, Physical Review Accelerators and Beams, Physical Review E, Physical Review Fluids, Physical Review Materials, Nuclear Fusion, Plasma Physics and Controlled Fusion, Classical and Quantum Gravity, Physica Scripta, IEEE Transactions on Applied Superconductivity, IEEE Transactions on Plasma Science, Applied Mathematics and Computation, Applied Mathematics and Mechanics, Electronic Transactions on Numerical Analysis, Journal of Computational and Applied Mathematics, Journal of Computational Mathematics, Journal of Computational Mathematics and Data Science, Journal of Physics D: Applied Physics, Machine Learning: Science and Technology, Communications in Computational Physics, Communications in Mathematical Research, Mediterranean Journal of Mathematics, NeurIPS workshops, SPE Journal, PLOS One, and others.
 
-## Workshop Organization
-* [6th MFEM Community Workshop](https://mfem.org/workshop/), Role: lead organizer, Atlanta, September 2026.
-* [5th MFEM Community Workshop](https://mfem.org/workshop/), Role: member of the organizing committee, Portland, September 2025.
-* [Algorithms for Multiphysics Models in the Post-Moore’s Law Era](https://sites.google.com/msu.edu/modeling-beyond-moore/home), Role: member of the scientific organizing committee, LANL, June 2025.
-* [Scale Bridging in Numerical Simulations](https://sites.google.com/view/scalebridge/meeting?authuser=0), Role: member of the scientific organizing committee, LANL, April 2024.
+### Journal and Conference Review
+
+<div class="journal-list">
+<ul>
+<li>Applied Mathematics and Computation</li>
+<li>Applied Mathematics and Mechanics</li>
+<li>The Bridge (National Academy of Engineering)</li>
+<li>Chaos, Solitons &amp; Fractals</li>
+<li>Chaos: An Interdisciplinary Journal of Nonlinear Science</li>
+<li>Classical and Quantum Gravity</li>
+<li>Communications in Computational Physics</li>
+<li>Communications in Mathematical Research</li>
+<li>Communications in Nonlinear Science and Numerical Simulation</li>
+<li>Computer Methods in Applied Mechanics and Engineering</li>
+<li>Computers &amp; Fluids</li>
+<li>Computers &amp; Mathematics with Applications</li>
+<li>Electronic Transactions on Numerical Analysis</li>
+<li>IEEE Transactions on Applied Superconductivity</li>
+<li>IEEE Transactions on Plasma Science</li>
+<li>International Journal for Numerical Methods in Engineering</li>
+<li>Journal of Computational and Applied Mathematics</li>
+<li>Journal of Computational Mathematics</li>
+<li>Journal of Computational Mathematics and Data Science</li>
+<li>Journal of Computational Physics</li>
+<li>Journal of Physics D: Applied Physics</li>
+<li>Journal of Scientific Computing</li>
+<li>Machine Learning: Science and Technology</li>
+<li>MathSciNet</li>
+<li>Mediterranean Journal of Mathematics</li>
+<li>NeurIPS workshops</li>
+<li>Nuclear Fusion</li>
+<li>Physica Scripta</li>
+<li>Physical Review Accelerators and Beams</li>
+<li>Physical Review E</li>
+<li>Physical Review Fluids</li>
+<li>Physical Review Materials</li>
+<li>Plasma Physics and Controlled Fusion</li>
+<li>PLOS One</li>
+<li>SIAM Journal on Numerical Analysis</li>
+<li>SIAM Journal on Scientific Computing</li>
+<li>SPE Journal</li>
+</ul>
+<p class="journal-note">and others.</p>
+</div>
+
+
+### Workshop Organization
+
+<div class="entry-list">
+<div class="entry">
+<div class="entry-body"><span class="entry-title"><a href="https://mfem.org/workshop/">6th MFEM Community Workshop</a></span><span class="entry-meta">Lead organizer · Atlanta</span></div>
+<div class="entry-date">Sep 2026</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title"><a href="https://mfem.org/workshop25/">5th MFEM Community Workshop</a></span><span class="entry-meta">Member of the organizing committee · Portland</span></div>
+<div class="entry-date">Sep 2025</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title"><a href="https://sites.google.com/msu.edu/modeling-beyond-moore/home">Algorithms for Multiphysics Models in the Post-Moore’s Law Era</a></span><span class="entry-meta">Member of the organizing committee · LANL</span></div>
+<div class="entry-date">Jun 2025</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title"><a href="https://sites.google.com/view/scalebridge/meeting?authuser=0">Scale Bridging in Numerical Simulations</a></span><span class="entry-meta">Member of the organizing committee · LANL</span></div>
+<div class="entry-date">Apr 2024</div>
+</div>
+</div>
+
+</div>
