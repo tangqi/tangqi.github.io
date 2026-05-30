@@ -368,9 +368,6 @@ img.institution {
 /* ------------------------------------------------------------------
    CV page (scoped to .cv wrapper in src/cv.md)
    ------------------------------------------------------------------ */
-.cv {
-    max-width: 880px;
-}
 .cv h3 {
     margin-top: 34px;
     margin-bottom: 14px;
