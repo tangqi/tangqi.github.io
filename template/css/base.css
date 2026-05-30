@@ -350,6 +350,15 @@ img.institution {
 .cv ul {
     padding-left: 20px;
 }
+/* Numbered lists (e.g. publications) */
+.cv ol {
+    padding-left: 28px;
+}
+.cv ol > li {
+    margin-bottom: 10px;
+    line-height: 1.5;
+    padding-left: 4px;
+}
 .cv > ul,
 .cv h3 + ul,
 .cv h4 + ul {

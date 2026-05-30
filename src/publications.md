@@ -1,4 +1,4 @@
-## Publications
+<div class="cv" markdown="1">
 
 ### Preprints (available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=EtoOcLMAAAAJ&view_op=list_works&sortby=pubdate) or can be found on [arXiv](https://arxiv.org/search/?searchtype=author&query=Tang%2C+Q))
 1. M. B. Quashie, J. W. Burby, A. J. Christlieb, and Q. Tang. A structure-preserving decorated particle method for the Vlasov–Poisson System, _submitted_,  2026.
@@ -48,7 +48,9 @@
 39. C.-K. Huang, ..., Q. Tang, et al. Modeling of nonlinear beam dynamics via a novel particle-mesh method and surrogate models with symplectic neural networks, **Proceedings of North American Particle Accelerator Conference**, 3 pages, 2022.
 1. N. A. Garland, R. Maulik, Q. Tang, X.-Z. Tang and P. Balaprakash. Progress towards high fidelity collisional-radiative model surrogates for rapid in-situ evaluation, **Machine learning for Physical Sciences workshop**, **NeurIPS**, 7 pages, 2020.
 
-### Techinical Reports 
+### Technical Reports
 * V. Duruisseaux, J. W. Burby, and Q. Tang. Code Demonstration: Approximation of nearly-periodic symplectic maps via structure-preserving neural networks, 2023 (DOI:10.2172/1972078).
 * K. Schwiebert, Q. Tang, and J. Andrej. A higher order, stable partitioned scheme for fluid-structure interaction problems, NSF MSGI Report, 8 pages, 2022 (DOI: 10.2172/1879331). 
 * J. W. Burby and Q. Tang. Example code: fast neural Poincare maps for toroidal magnetic fields, 2020 (DOI:10.2172/1637687).
+
+</div>
