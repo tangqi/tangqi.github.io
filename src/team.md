@@ -1,4 +1,4 @@
-# Team
+## Acknowledgement
 
 Our team has been supported by DOE Office of Science ASCR, FES and SciDAC programs, NNSA, DOE lab LDRDs, NSF, NASA, and Georgia Tech. 
 

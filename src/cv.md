@@ -161,7 +161,7 @@
 <li>Machine Learning: Science and Technology</li>
 <li>MathSciNet</li>
 <li>Mediterranean Journal of Mathematics</li>
-<li>NeurIPS workshops</li>
+<li>NeurIPS</li>
 <li>Nuclear Fusion</li>
 <li>Physica Scripta</li>
 <li>Physical Review Accelerators and Beams</li>
