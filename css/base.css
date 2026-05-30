@@ -2,6 +2,17 @@ body {
     padding-top: 70px;
 }
 
+/* Site-wide heading sizes */
+h2 {
+    font-size: 23px;
+}
+h3 {
+    font-size: 20px;
+}
+h4 {
+    font-size: 18px;
+}
+
 /* hack to increase height of headers to make #anchors work with the top nav-bar,
    (note: we only want this on pages with TOC, otherwise there are other problems) */
 div.col-md-9 h1[id]::before,
@@ -313,6 +324,147 @@ img.institution {
 }
 .social-icons a:hover img {
     opacity: 1;
+}
+
+/* ------------------------------------------------------------------
+   CV page (scoped to .cv wrapper in src/cv.md)
+   ------------------------------------------------------------------ */
+.cv {
+    max-width: 880px;
+}
+.cv h3 {
+    margin-top: 34px;
+    margin-bottom: 14px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #B3A369; /* Georgia Tech gold */
+}
+.cv h3:first-of-type {
+    margin-top: 8px;
+}
+.cv h4 {
+    margin-top: 18px;
+    margin-bottom: 8px;
+    font-weight: 700;
+    color: #6b6b6b;
+}
+.cv ul {
+    padding-left: 20px;
+}
+.cv > ul,
+.cv h3 + ul,
+.cv h4 + ul {
+    list-style: none;
+    padding-left: 0;
+}
+.cv > ul > li,
+.cv h3 + ul > li,
+.cv h4 + ul > li {
+    position: relative;
+    padding-left: 16px;
+    margin-bottom: 9px;
+    line-height: 1.5;
+}
+.cv > ul > li::before,
+.cv h3 + ul > li::before,
+.cv h4 + ul > li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.62em;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: #B3A369;
+}
+/* Nested sub-bullets (mentors, advisors) stay subtle */
+.cv ul ul {
+    list-style: disc;
+    padding-left: 22px;
+    margin-top: 5px;
+}
+.cv ul ul li {
+    color: #666;
+    margin-bottom: 3px;
+    padding-left: 0;
+}
+.cv ul ul li::before {
+    content: none;
+}
+.cv hr {
+    display: none; /* section underlines replace divider rules */
+}
+/* Journal & conference review list, flowed into responsive columns */
+.cv .journal-list ul {
+    column-width: 250px;
+    column-gap: 36px;
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 8px;
+}
+.cv .journal-list li {
+    position: relative;
+    padding-left: 14px;
+    margin-bottom: 6px;
+    line-height: 1.5;
+    break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+}
+.cv .journal-list li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.55em;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: #c9c9c9;
+}
+.cv .journal-note {
+    color: #777;
+    font-style: italic;
+}
+/* Structured entries (grants, workshops): title + sponsor·role, period right-aligned */
+.cv .entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 18px;
+    position: relative;
+    padding-left: 16px;
+    margin-bottom: 11px;
+    line-height: 1.5;
+}
+.cv .entry::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.62em;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: #B3A369;
+}
+.cv .entry-body {
+    flex: 1 1 auto;
+}
+.cv .entry-meta {
+    display: block;
+    margin-top: 2px;
+    color: #666;
+}
+.cv .entry-note {
+    display: block;
+    margin-top: 2px;
+    color: #777;
+    font-style: italic;
+}
+.cv .entry-date {
+    flex: 0 0 auto;
+    min-width: 92px;
+    text-align: right;
+    white-space: nowrap;
+    color: #555;
+    font-variant-numeric: tabular-nums;
 }
 
 /* Search results inside the search modal */
