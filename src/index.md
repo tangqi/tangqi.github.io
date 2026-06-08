@@ -38,7 +38,7 @@ I have several PhD student positions in Fall 2027. I primarily recruit through t
 ### Research Interests
 * **High-Performance Computing:** high-order schemes (finite difference/volume/element), particle-in-cell, scalable iterative solvers, preconditioning, adaptive mesh refinement, GPU accelerations
 * **Scientific Computing and Simulation:** multiscale and multiphysics problems, fusion modeling, computational plasma physics
-* **AI/ML and Data Science:** structure-preserving ML, dynamical system learning, scale bridging, ML-based surrogates, denoising, Bayesian inference
+* **AI/ML and Data Science:** structure-preserving ML, dynamical system, neural operator, scale bridging, ML-based surrogate, denoising, Bayesian inference
 
 ### Partnership 
 * I am part of a 5-year NNSA PSAAP Focused Investigatory Center: Center for High Order Plasma Turbulence Modeling for Z-Pinch ([HighZ](https://highz-fic.github.io/)).

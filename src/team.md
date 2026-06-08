@@ -67,7 +67,7 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 ### Postdocs
 * [<ins>Daniel Serino</ins>](https://scholar.google.com/citations?user=TUTN7asAAAAJ&hl=en), T-5, Los Alamos National Laboratory, 2022–2024
     * Current: Staff Scientist, T-5, Los Alamos National Laboratory
-    * My role: primary mentor
+    * My role: mentor
 * [<ins>Allen Alvarez-Loya</ins>](https://scholar.google.com/citations?user=SU--HvcAAAAJ&hl=en), NSF MPS-Ascend postdoc fellowship, T-5, Los Alamos National Laboratory, 2022–2025
     * Current: ISTI postdoc fellow, T-5, Los Alamos National Laboratory
     * My role: mentor

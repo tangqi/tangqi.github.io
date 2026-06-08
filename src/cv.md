@@ -60,11 +60,11 @@
 <div class="entry-date">FY26–FY30</div>
 </div>
 <div class="entry">
-<div class="entry-body"><span class="entry-title">Center for High Order Plasma Turbulence Modeling for Z-Pinch (<a href="https://highz-fic.github.io/">HighZ</a>)</span><span class="entry-meta">NNSA Predictive Science Academic Alliance Program (PSAAP) · Institutional PI</span></div>
+<div class="entry-body"><span class="entry-title">Center for High Order Plasma Turbulence Modeling for Z-Pinch (<a href="https://highz-fic.github.io/">HighZ</a>)</span><span class="entry-meta">NNSA Predictive Science Academic Alliance Program · Institutional PI</span></div>
 <div class="entry-date">FY26–FY30</div>
 </div>
 <div class="entry">
-<div class="entry-body"><span class="entry-title">Center for Information Geometric Mechanics and Optimization (<a href="https://cigmo.github.io/">CIGMO</a>)</span><span class="entry-meta">NNSA Predictive Science Academic Alliance Program (PSAAP) · Co-PI</span></div>
+<div class="entry-body"><span class="entry-title">Center for Information Geometric Mechanics and Optimization (<a href="https://cigmo.github.io/">CIGMO</a>)</span><span class="entry-meta">NNSA Predictive Science Academic Alliance Program · Co-PI</span></div>
 <div class="entry-date">FY26–FY30</div>
 </div>
 <div class="entry">
@@ -180,6 +180,7 @@
 <li>Physical Review Materials</li>
 <li>Plasma Physics and Controlled Fusion</li>
 <li>PLOS One</li>
+<li>Results in Applied Mathematics</li>
 <li>SIAM Journal on Numerical Analysis</li>
 <li>SIAM Journal on Scientific Computing</li>
 <li>SPE Journal</li>
@@ -200,11 +201,11 @@
 <div class="entry-date">September 2025</div>
 </div>
 <div class="entry">
-<div class="entry-body"><span class="entry-title"><a href="https://sites.google.com/msu.edu/modeling-beyond-moore/home">Los Alamos National Laboratory Workshop: Algorithms for Multiphysics Models in the Post-Moore’s Law Era</a></span><span class="entry-meta">Member of the organizing committee · Los Alamos NM</span></div>
+<div class="entry-body"><span class="entry-title"><a href="https://sites.google.com/msu.edu/modeling-beyond-moore/home">LANL Workshop: Algorithms for Multiphysics Models in the Post-Moore’s Law Era</a></span><span class="entry-meta">Member of the organizing committee · Los Alamos NM</span></div>
 <div class="entry-date">June 2025</div>
 </div>
 <div class="entry">
-<div class="entry-body"><span class="entry-title"><a href="https://sites.google.com/view/scalebridge/meeting?authuser=0">Los Alamos National Laboratory Workshop: Scale Bridging in Numerical Simulations</a></span><span class="entry-meta">Member of the organizing committee · Los Alamos NM</span></div>
+<div class="entry-body"><span class="entry-title"><a href="https://sites.google.com/view/scalebridge/meeting?authuser=0">LANL Workshop: Scale Bridging in Numerical Simulations</a></span><span class="entry-meta">Member of the organizing committee · Los Alamos NM</span></div>
 <div class="entry-date">April 2024</div>
 </div>
 </div>

@@ -437,7 +437,7 @@ img.institution {
 }
 /* Journal & conference review list, flowed into responsive columns */
 .cv .journal-list ul {
-    column-width: 250px;
+    column-count: 3;
     column-gap: 36px;
     list-style: none;
     padding-left: 0;
