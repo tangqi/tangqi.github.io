@@ -2,8 +2,8 @@
 
 ## High-Performance Computing
 
-I am interested in developing scalable, adaptive, high-order numerical algorithms on exascale computers. I build upon computational techiniques 
-such as implicit time stepping, iterative methods, adavanced preconditioning, adaptive mesh refinement, domain decompositions, and GPU accelerations. Here two recent works are presented. 
+I am interested in developing scalable, adaptive, high-order numerical algorithms on exascale computers. I build upon computational techniques 
+such as implicit time stepping, iterative methods, advanced preconditioning, adaptive mesh refinement, domain decompositions, and GPU accelerations. Here two recent works are presented. 
 
 ----
 
@@ -36,7 +36,7 @@ We recently developed a high-order stabilized finite-element algorithm[^1] for t
 ----
 
 ![](img/gallery/mfem-dd.png)
-*Domain decomposition at the intial time (left) and the final time (right) of the above run. A random number is assigned to each domain for visualization. Since a space filling curve is used for partitioning, the decompositions are mostly continuous througout the run.*
+*Domain decomposition at the initial time (left) and the final time (right) of the above run. A random number is assigned to each domain for visualization. Since a space filling curve is used for partitioning, the decompositions are mostly continuous throughout the run.*
 
 ----
 
@@ -56,7 +56,7 @@ We consider a 0D2V relativistic Fokker-Planck equation for runaway electrons[^2]
 \begin{align}
 \frac{\partial f}{\partial t}  - eE_\parallel \left(\xi\frac{\partial f}{\partial p} + \frac{1-\xi^2}{p} \frac{\partial f}{\partial\xi} \right) = C_{\rm col}(f) + C_{\rm rad}(f) + C_{\rm Chiu}(f),
 \end{align}
-where $C_{\rm col}(f)$ is a Columbo collision operator, $C_{\rm rad}(f)$ a radiation damping operator,
+where $C_{\rm col}(f)$ is a Coulomb collision operator, $C_{\rm rad}(f)$ a radiation damping operator,
 and $C_{\rm Chiu}(f)$ is a secondary knock on collision source.
 We develop a scalable fully implicit solver with dynamic adaptivity. We developed a new data management framework in [PETSc](https://petsc.org) based on the [p4est](https://p4est.org) library that enables simulations with dynamic adaptive mesh refinement (AMR), and implemented a new runaway electron solver that interfaces to the PETSc framework. 
 

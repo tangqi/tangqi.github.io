@@ -1,3 +1,5 @@
+<div class="cv team" markdown="1">
+
 ## Acknowledgement
 
 Our team has been supported by DOE Office of Science ASCR, FES and SciDAC programs, NNSA, DOE lab LDRDs, NSF, NASA, and Georgia Tech. 
@@ -24,7 +26,7 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * Alex earned his BS from Santa Clara and MS in Data Science from Montana State. He is a Post-Master at LANL.
     * My role: advisor
 * <ins>Ian Russel</ins>, CSE, 2026–present
-    * Alex earned his BS in CMDA from Virginia Tech. He is a Post-Bacc at LANL.
+    * Ian earned his BS in CMDA from Virginia Tech. He is a Post-Bacc at LANL.
     * Awards: GT President's Fellowship
     * My role: advisor
 * [<ins>Rushan Zhang</ins>](https://rzhangbq.github.io/), CSE, 2025–present
@@ -53,7 +55,7 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 * <ins>Elliot Day</ins>, Computer Science, 2026–present
 * <ins>Miles Hauck</ins>, Electrical Engineering, 2025–present
 * <ins>Connor Kelly</ins>, Nuclear Engineering, 2025–present
-* <ins>Hao Wang</ins>, Applied Math, 2025–present
+* <ins>[Hao Wang](https://haowangmath.org/)</ins>, Applied Math, 2025–present
 
 ### Student Interns at LANL and GT
 * <ins>Yicong (Eddy) Luo</ins>, PhD student from GT, summer 2026
@@ -92,6 +94,8 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 * [<ins>Kyle Schwiebert</ins>](https://www.ornl.gov/staff-profile/kyle-schwiebert), Graduate student from Michigan Tech University (NSF MSGI), 2022
 * <ins>Boqian Shen</ins>, Graduate student from Rice University, summer 2021
 * <ins>Mingchang Ding</ins>, Graduate student from University of Delaware, summer 2019
-* [<ins>Zhichao Peng</ins>](https://zhichaopengmath.github.io/), Graduate student from Rensselear Polytechnic Institute, summer 2019
+* [<ins>Zhichao Peng</ins>](https://zhichaopengmath.github.io/), Graduate student from Rensselaer Polytechnic Institute, summer 2019
 * <ins>Kai Huang</ins>, Graduate student from Michigan State University, summer 2019
+
+</div>
 

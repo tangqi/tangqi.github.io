@@ -1,5 +1,5 @@
 <div class="col-md-4" markdown="1">
-![Qi Tang](img/profile.jpg)
+![Qi Tang](img/profile.jpg){: .profile-photo }
 ## Qi Tang 
 Assistant Professor<br>
 [School of Computational Science and Engineering](https://cse.gatech.edu)<br>
@@ -29,16 +29,18 @@ Guest Scientist<br>
 <br>
 I am an Assistant Professor in [CSE](https://cse.gatech.edu/) at Georgia Institute of Technology. Prior to joining Georgia Tech, I was a Scientist in the Theoretical Division at Los Alamos National Laboratory (LANL). I am a computational scientist and applied mathematician by training, with a strong interest in physics, particularly **fusion energy** and **plasma physics**. I rely on open-source libraries such as [`MFEM`](https://mfem.org/), [`PETSc`](https://petsc.org/), [`p4est`](https://www.p4est.org/), [`Overture`](https://www.overtureframework.org/), and [`hypre`](https://hypre.readthedocs.io/) to develop scalable, high-performance numerical solvers. I also work on scientific machine learning (SciML) to enhance traditional solvers.
 
+<div class="callout" markdown="1">
 ### Open Positions
 I have several PhD student positions in Fall 2027. I primarily recruit through the College of Computing, including the CSE, ML, and CS programs. PhD students in the CSE and ML programs may have a home unit in a different school, so I also welcome students from math, physics, and engineering. Applicants must first be admitted by their respective home units. For students who are strongly interested in working with me, I encourage selecting the College of Computing as the home unit.
 
 **If you are interested in joining my group, please email me with your CV.**
+</div>
 
 
 ### Research Interests
 * **High-Performance Computing:** high-order schemes (finite difference/volume/element), particle-in-cell, scalable iterative solvers, preconditioning, adaptive mesh refinement, GPU accelerations
 * **Scientific Computing and Simulation:** multiscale and multiphysics problems, fusion modeling, computational plasma physics
-* **AI/ML and Data Science:** structure-preserving ML, dynamical system, neural operator, scale bridging, ML-based surrogate, denoising, Bayesian inference
+* **AI/ML and Data Science:** structure-preserving ML, dynamical system, neural operator, scale bridging, surrogate and model reduction, denoising, Bayesian inference
 
 ### Partnership 
 * I am part of a 5-year NNSA PSAAP Focused Investigatory Center: Center for High Order Plasma Turbulence Modeling for Z-Pinch ([HighZ](https://highz-fic.github.io/)).
