@@ -13,53 +13,46 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 
 ### PhD Students at GT
 * <ins>Alejo Ballester</ins>, Physics and CSE, 2025–present
-    * Alejo earned his BS in Biomedical Engineering from University of Florida. Alejo is a summer intern at LANL.
-    * My role: advisor
+    * BS in Biomedical Engineering from Florida. He is a summer intern at LANL.
 * <ins>Tage Burnett</ins>, CSE, 2025–present
-    * Tage earned his BS in ME from BYU. He has taken multiple interns at SNL and is a summer intern at ORNL.
-    * Awards: GT President's Fellowship
-    * My role: advisor
+    * BS in ME from BYU. He is a summer intern at SNL and ORNL.
+    * Awards: GT President's Fellowship, GEM Fellowship
 * <ins>Harshavardhan Harish</ins>, CSE, 2025–present
-    * Harsha earned his BS in Math and Certificate in CSE from UT-Austin. He is a summer intern at LANL.
-    * My role: advisor
-* [<ins>Alex Most</ins>](https://scholar.google.com/citations?user=vjtrcL8AAAAJ&hl=en), ML, 2026–present
-    * Alex earned his BS from Santa Clara and MS in Data Science from Montana State. He is a Post-Master at LANL.
-    * My role: advisor
+    * BS in Math and Certificate in CSE from UT-Austin. He is a summer intern at LANL.
+* <ins>Alexander de Magalhaes</ins>, CSE, 2026–present
+    * BA in Physics from Wesleyan. He is a summer intern at LANL.
+    * Awards: GT Spark Award 
+* [<ins>Alexander Most</ins>](https://scholar.google.com/citations?user=vjtrcL8AAAAJ&hl=en), ML, 2026–present
+    * BS from Santa Clara and MS in Data Science from Montana State. He is a Post-Master at LANL.
 * <ins>Ian Russel</ins>, CSE, 2026–present
-    * Ian earned his BS in CMDA from Virginia Tech. He is a Post-Bacc at LANL.
+    * BS in CMDA from Virginia Tech. He is a Post-Bacc at LANL.
     * Awards: GT President's Fellowship
-    * My role: advisor
 * [<ins>Rushan Zhang</ins>](https://rzhangbq.github.io/), CSE, 2025–present
-    * Rushan earned his BEng in AE and BS in CS from HKUST.  He is a visiting student at LBNL.
-    * My role: advisor
+    * BEng in AE and BS in CS from HKUST
 
 ### PhD Students at Other Universities
 * <ins>Emmanouil (Manolis) G. Drimalas</ins>, Physics, University of Arizona, 2024–present
-    * Manolis has taken multiple internships and is a long-term student at LANL.
+    * He is a summer intern and long-term student at LANL.
     * My role: co-advisor with Federico Fraschetti (CfA at Harvard, primary)
 * <ins>Mandela B. Quashie</ins>, Computational Math, Michigan State University, 2023–present
-    * Mandela has taken multiple internships at LANL.
+    * He is a summer intern at LANL.
     * My role: co-advisor with Andrew Christlieb (MSU, primary)
 
 ### Master's Students at GT
-* <ins>Alexander de Magalhaes</ins>, CSE, 2025–present
-    * Alex earned his B.A. in Physics from Wesleyan University. He is a summer intern at LANL.
-    * Awards: GT Spark Award 
 * <ins>Anna Ernst</ins>, CSE, 2026–present
-    * Anna earned her BS in CS and Math from UT Dallas. She is a summer intern at LANL.
+    * BS in CS and Math from UT Dallas. She is a summer intern at LANL.
 * <ins>Jiya Varma</ins>, CS, 2025–present
-    * Jiya earned her BS in CS at GT.
+    * BS in CS from GT
     * Awards: President’s Undergraduate Research Award (PURA)
 
 ### Undergraduate Students at GT
-* <ins>Elliot Day</ins>, Computer Science, 2026–present
-* <ins>Miles Hauck</ins>, Electrical Engineering, 2025–present
-* <ins>Connor Kelly</ins>, Nuclear Engineering, 2025–present
-* <ins>[Hao Wang](https://haowangmath.org/)</ins>, Applied Math, 2025–present
+* <ins>Elliot Day</ins>, CS, 2026–present
+* <ins>Miles Hauck</ins>, EE, 2025–present
+* <ins>Connor Kelly</ins>, NE, 2025–present
 
 ### Student Interns at LANL and GT
-* <ins>Yicong (Eddy) Luo</ins>, PhD student from GT, summer 2026
-* <ins>Christian Engman</ins>, UG student from GT, 2025–present
+* <ins>Yicong (Eddy) Luo</ins>, PhD student in CS, summer 2026
+* <ins>Christian Engman</ins>, UG student in CS, 2025–present
     * Awards: DOE SULI fellowship
 
 ----
@@ -76,6 +69,9 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 * [<ins>Oleksii Beznosov</ins>](https://scholar.google.com/citations?user=GRvnZ4cAAAAJ&hl=en), T-5, Los Alamos National Laboratory, 2022–2025
     * Current: Staff Scientist, T-5, Los Alamos National Laboratory
     * My role: co-mentor
+
+### Undergraduate Students at GT
+* <ins>[Hao Wang](https://haowangmath.org/)</ins>, Applied Math, 2025–2026
 
 ### Student Interns at GT
 * <ins>Janani Murugan</ins>, UG in Biochemistry and CS, 2025–2026

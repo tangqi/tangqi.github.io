@@ -136,9 +136,7 @@
 
 
 ### Proposal Review
-* DOE Advanced Scientific Computing Research Program
-* DOE Fusion Energy Sciences Program
-* DOE SBIR/STTR Programs
+* DOE ASCR, FES, and SBIR/STTR Programs
 * LANL Institutional Computing
 
 
@@ -171,6 +169,7 @@
 <li>Machine Learning: Science and Technology</li>
 <li>MathSciNet</li>
 <li>Mediterranean Journal of Mathematics</li>
+<li>Nature Communications</li>
 <li>NeurIPS</li>
 <li>Nuclear Fusion</li>
 <li>Physica Scripta</li>

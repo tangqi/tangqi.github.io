@@ -8,6 +8,7 @@
 
 | | |
 |------------ | -----------------------------------------------------------------|
+Jun 17 | 🚀 A new paper has been submitted on LGNO (Local-Global Neural Operator). The work introduces a neural operator architecture that combines global Fourier representations with local multiresolution features, enabling accurate prediction of both smooth solution structures and sharp shocks for general hyperbolic conservation laws. See [arXiv](https://arxiv.org/abs/2606.18221) and [code repo](https://github.com/shanxue-w/ConservationLaws).
 Jun 4  | Qi Tang gave computational math seminars at Chalmers University of Technology and KTH Royal Institute of Technology. See [here](https://www.chalmers.se/aktuellt/kalender/mv-computational-and-applied-mathematics-qi-tang/) and [here](https://www.kth.se/math/kalender/qi-tang-tba-1.1462074?date=2026-06-04&orgdate=2026-05-30&length=1&orglength=0).
 May 27 | Qi Tang gave a TDB seminar in the Department of Information Technology at Uppsala University. He talked about stability and accuracy of neural operators. See [here](https://uppsala.instructure.com/courses/89337/pages/past-seminars-2026?module_item_id=1593924).
 May 21 | 🚀 A new paper has been submitted on a structure-preserving decorated particle method for the Vlasov–Poisson system. The work develops a Hamiltonian-preserving particle-based approach with a novel particle representation, enabling kinetic modeling with significantly fewer particles in plasma simulations. See [arXiv](https://arxiv.org/abs/2605.21794).
