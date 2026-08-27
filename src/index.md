@@ -13,7 +13,7 @@ Guest Scientist<br>
 [Los Alamos National Laboratory](https://www.lanl.gov/)
 
 **Email:** [qtang@gatech.edu](mailto:qtang@gatech.edu)<br>
-**Office:** Coda at Tech Square, S1373B
+**Office:** Coda at Tech Square, E0562B
 <br/><br/>
 
 <div class="social-icons">
@@ -31,11 +31,9 @@ I am an Assistant Professor in [CSE](https://cse.gatech.edu/) at Georgia Institu
 
 <div class="callout" markdown="1">
 ### Open Positions
-I have several PhD student positions in Fall 2027. I primarily recruit through the College of Computing, including the CSE, ML, and CS programs. PhD students in the CSE and ML programs may have a home unit in a different school, so I also welcome students from math, physics, and engineering. Applicants must first be admitted by their respective home units. For students who are strongly interested in working with me, I encourage selecting the College of Computing as the home unit.
+We are hiring a **Postdoctoral Fellow** working at the interface of **machine learning, closure modeling, plasma turbulence and transport, and inertial or magnetic confinement fusion**. The position is part of [TEMPEST](https://tempest-stc.msu.edu/), a new NSF Science and Technology Center on turbulence prediction. We especially welcome candidates with a background in applied mathematics, computational science, physics, or AI for science. To apply, email me a single PDF with the subject line “Postdoc Inquiry — [Your Name]”, containing a cover letter (1–2 pages) describing your background and the research you would like to pursue, a CV, and contact information for two or three references. Applications are reviewed as they arrive, and the position remains open until filled.
 
-I also anticipate one postdoctoral opening starting in Fall 2027. The position will focus on scientific machine learning, scale bridging, and fusion modeling. Strong candidates with a background in applied mathematics, computational science, plasma physics, or AI for science are encouraged to reach out early with a CV and a brief statement of research interests.
-
-**If you are interested in joining my group, please email me with your CV.**
+I have several PhD student positions in Fall 2027. I primarily recruit through the College of Computing, including the CSE, ML, and CS programs. PhD students in the CSE and ML programs may have a home unit in a different school, so I also welcome students from math, physics, and engineering. Applicants must first be admitted by their respective home units. For students who are strongly interested in working with me, I encourage selecting the College of Computing as the home unit. **If you are interested in joining my group, please email me with your CV.**
 </div>
 
 
@@ -45,6 +43,7 @@ I also anticipate one postdoctoral opening starting in Fall 2027. The position w
 * **AI/ML and Data Science:** structure-preserving ML, dynamical system, neural operator, scale bridging, surrogate and model reduction, denoising, Bayesian inference
 
 ### Partnership 
+* I am part of a 5-year NSF Science and Technology Center: Transformative Explorations in Multi-Physics and Engineering of Scientific Turbulence ([TEMPEST](https://tempest-stc.msu.edu/)).
 * I am part of a 5-year NNSA PSAAP Focused Investigatory Center: Center for High Order Plasma Turbulence Modeling for Z-Pinch ([HighZ](https://highz-fic.github.io/)).
 * I am part of a 5-year NNSA PSAAP Focused Investigatory Center: Center for Information Geometric Mechanics and Optimization ([CIGMO](https://cigmo.github.io/)).
 * I am a thrust lead for a 5-year DOE ASCR MMICC: Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport ([CHaRMNET](https://charmnet-mmicc.github.io/)). I lead two thrusts: multiscale modeling and runaway electron application.

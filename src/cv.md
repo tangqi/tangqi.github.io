@@ -137,6 +137,7 @@
 
 ### Proposal Review
 * DOE ASCR, FES, and SBIR/STTR Programs
+* Army Research Office
 * LANL Institutional Computing
 
 
@@ -158,6 +159,7 @@
 <li>Computers &amp; Mathematics with Applications</li>
 <li>Electronic Transactions on Numerical Analysis</li>
 <li>IEEE Transactions on Applied Superconductivity</li>
+<li>IEEE Transactions on Emerging Topics in Computational Intelligence</li>
 <li>IEEE Transactions on Plasma Science</li>
 <li>International Journal for Numerical Methods in Engineering</li>
 <li>Journal of Computational and Applied Mathematics</li>
@@ -177,6 +179,7 @@
 <li>Physical Review E</li>
 <li>Physical Review Fluids</li>
 <li>Physical Review Materials</li>
+<li>Physics of Plasmas</li>
 <li>Plasma Physics and Controlled Fusion</li>
 <li>PLOS One</li>
 <li>Results in Applied Mathematics</li>
