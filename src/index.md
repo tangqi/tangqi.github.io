@@ -9,9 +9,6 @@ Assistant Professor<br>
 ML Ph.D. Program Faculty<br>
 [ML Center at Georgia Tech (ML@GT)](https://ml.gatech.edu/)<br>
 
-Guest Scientist<br>
-[Los Alamos National Laboratory](https://www.lanl.gov/)
-
 **Email:** [qtang@gatech.edu](mailto:qtang@gatech.edu)<br>
 **Office:** Coda at Tech Square, E0562B
 <br/><br/>
@@ -31,7 +28,7 @@ I am an Assistant Professor in [CSE](https://cse.gatech.edu/) at Georgia Institu
 
 <div class="callout" markdown="1">
 ### Open Positions
-We are hiring a **Postdoctoral Fellow** working at the interface of **machine learning, closure modeling, plasma turbulence and transport, and inertial or magnetic confinement fusion**. The position is part of [TEMPEST](https://tempest-stc.msu.edu/), a new NSF Science and Technology Center on turbulence prediction. We especially welcome candidates with a background in applied mathematics, computational science, physics, or AI for science. To apply, email me a single PDF with the subject line “Postdoc Inquiry — [Your Name]”, containing a cover letter (1–2 pages) describing your background and the research you would like to pursue, a CV, and contact information for two or three references. Applications are reviewed as they arrive, and the position remains open until filled.
+We are hiring a **Postdoctoral Fellow**, starting in Spring 2027, to work at the intersection of **plasma turbulence modeling, ML for multiphysics and multiscale problems, and fusion physics**. The position is part of [TEMPEST](https://tempest-stc.msu.edu/), a new NSF Science and Technology Center, and the fellow is expected to collaborate broadly across the Center's partner universities, national labs, and industry. Applicants must hold a Ph.D. in physics, applied mathematics, computational science, or a closely related field by the appointment date; expertise in SciML, scientific computing, or data science is a plus. To apply, email me a single PDF with the subject line “Postdoc Inquiry — [Your Name]”, containing a cover letter (1–2 pages) describing your background and the research you would like to pursue, a CV, and contact information for two or three references. Applications are reviewed as they arrive, and the position remains open until filled.
 
 I have several PhD student positions in Fall 2027. I primarily recruit through the College of Computing, including the CSE, ML, and CS programs. PhD students in the CSE and ML programs may have a home unit in a different school, so I also welcome students from math, physics, and engineering. Applicants must first be admitted by their respective home units. For students who are strongly interested in working with me, I encourage selecting the College of Computing as the home unit. **If you are interested in joining my group, please email me with your CV.**
 </div>

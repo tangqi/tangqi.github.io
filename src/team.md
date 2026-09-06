@@ -23,7 +23,7 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * BA in Physics from Wesleyan. He is a summer intern at LANL.
     * Awards: GT Spark Award 
 * [<ins>Alexander Most</ins>](https://scholar.google.com/citations?user=vjtrcL8AAAAJ&hl=en), ML, 2026–present
-    * BS from Santa Clara and MS in Data Science from Montana State. He is a Post-Master at LANL.
+    * BS from Santa Clara and MS in Data Science from Montana State. He is a full-time GRA at LANL.
 * <ins>Ian Russel</ins>, CSE, 2026–present
     * BS in CMDA from Virginia Tech. He is a Post-Bacc at LANL.
     * Awards: GT President's Fellowship
@@ -40,20 +40,16 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 
 ### Master's Students at GT
 * <ins>Anna Ernst</ins>, CSE, 2026–present
-    * BS in CS and Math from UT Dallas. She is a summer intern at LANL.
+    * BS in CS and Math from UT Dallas. She is a full-time GRA at LANL.
 * <ins>Jiya Varma</ins>, CS, 2025–present
     * BS in CS from GT
     * Awards: President’s Undergraduate Research Award (PURA)
 
 ### Undergraduate Students at GT
 * <ins>Elliot Day</ins>, CS, 2026–present
-* <ins>Miles Hauck</ins>, EE, 2025–present
 * <ins>Connor Kelly</ins>, NE, 2025–present
 
-### Student Interns at LANL and GT
-* <ins>Yicong (Eddy) Luo</ins>, PhD student in CS, summer 2026
-* <ins>Christian Engman</ins>, UG student in CS, 2025–present
-    * Awards: DOE SULI fellowship
+<!-- ### Student Interns at LANL and GT -->
 
 ----
 
@@ -72,12 +68,15 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 
 ### Undergraduate Students at GT
 * <ins>[Hao Wang](https://haowangmath.org/)</ins>, Applied Math, 2025–2026
+* <ins>Miles Hauck</ins>, EE, 2025
 
 ### Student Interns at GT
 * <ins>Janani Murugan</ins>, UG in Biochemistry and CS, 2025–2026
 * <ins>Saisruthi Bandla</ins>, MS in AE, summer 2025
 
-### Student Interns at LANL
+### Student Interns at LANL and GT
+* <ins>Yicong (Eddy) Luo</ins>, PhD student in CS, summer 2026
+* <ins>Christian Engman</ins>, UG student in CS (DOE SULI fellow), 2025–2026
 * <ins>Leonardo Molinari</ins>, Graduate student from Emory University, 2025–2026
 * <ins>Jamar Sullivan</ins>, Postbac, summer 2025
 * <ins>Emmanouil G. Drimalas</ins>, Graduate student from University of Arizona, 2024

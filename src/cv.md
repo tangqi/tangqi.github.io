@@ -8,10 +8,6 @@
 <div class="entry-date">2024–present</div>
 </div>
 <div class="entry">
-<div class="entry-body"><span class="entry-title">Guest Scientist</span><span class="entry-meta">Applied Math and Plasma Physics Group (T-5), Theoretical Division, Los Alamos National Laboratory</span></div>
-<div class="entry-date">2024–present</div>
-</div>
-<div class="entry">
 <div class="entry-body"><span class="entry-title">Staff Scientist</span><span class="entry-meta">Applied Math and Plasma Physics Group (T-5), Theoretical Division, Los Alamos National Laboratory</span></div>
 <div class="entry-date">2021–2024</div>
 </div>
@@ -55,6 +51,10 @@
 #### At Georgia Institute of Technology
 
 <div class="entry-list">
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Transformative Explorations in Multi-Physics and Engineering of Scientific Turbulence (<a href="https://tempest-stc.msu.edu/">TEMPEST</a>)</span><span class="entry-meta">NSF Science and Technology Center · Institutional PI</span></div>
+<div class="entry-date">FY27–FY31</div>
+</div>
 <div class="entry">
 <div class="entry-body"><span class="entry-title">Structure-Preserving Data Reduction and Processing for Particle Representations</span><span class="entry-meta">Department of Energy Office of Science, Early Career Research Program (ECRP) · PI</span></div>
 <div class="entry-date">FY26–FY30</div>
