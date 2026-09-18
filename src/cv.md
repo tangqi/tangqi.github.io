@@ -68,20 +68,24 @@
 <div class="entry-date">FY26–FY30</div>
 </div>
 <div class="entry">
+<div class="entry-body"><span class="entry-title">Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport (<a href="https://charmnet-mmicc.github.io/">CHaRMNET</a>)</span><span class="entry-meta">Department of Energy, Advanced Scientific Computing Research Program · Co-I at LANL and Institutional PI at GT</span></div>
+<div class="entry-date">FY23–FY27</div>
+</div>
+<div class="entry">
+<div class="entry-body"><span class="entry-title">Calibrated Generative AI for the Planet Nine Search</span><span class="entry-meta">Georgia Tech AI4Science Center Seed Funding · Co-PI</span></div>
+<div class="entry-date">FY27</div>
+</div>
+<div class="entry">
 <div class="entry-body"><span class="entry-title">Digital Futures 2026 Summer Early Career programme</span><span class="entry-meta">KTH Royal Institute of Technology · PI</span></div>
 <div class="entry-date">FY26</div>
 </div>
 <div class="entry">
-<div class="entry-body"><span class="entry-title">An open-source Newton-based free-boundary Grad-Shafranov solver</span><span class="entry-meta">Georgia Tech Open Source Program Office · PI</span></div>
-<div class="entry-date">FY25</div>
+<div class="entry-body"><span class="entry-title">MFEM-based Grad–Shafranov and Particle-in-Cell Solvers</span><span class="entry-meta">Georgia Tech Open Source Program Office · PI</span></div>
+<div class="entry-date">FY25–FY26</div>
 </div>
 <div class="entry">
-<div class="entry-body"><span class="entry-title">Fundamental understandings of multi-color/multi-modal radiography and methods for data assimilation and design optimization</span><span class="entry-meta">Department of Energy, Inter-lab LDRD · Institutional PI</span></div>
+<div class="entry-body"><span class="entry-title">Fundamental Understandings of Multi-Color/Multi-Modal Radiography and Methods for Data Assimilation and Design Optimization</span><span class="entry-meta">Department of Energy, Inter-lab LDRD through SNL · PI</span></div>
 <div class="entry-date">FY25</div>
-</div>
-<div class="entry">
-<div class="entry-body"><span class="entry-title">Center for Hierarchical and Robust Modeling of Non-Equilibrium Transport (<a href="https://charmnet-mmicc.github.io/">CHaRMNET</a>)</span><span class="entry-meta">Department of Energy, Advanced Scientific Computing Research Program · Co-I at LANL and Institutional PI at GT</span></div>
-<div class="entry-date">FY23–FY27</div>
 </div>
 </div>
 
