@@ -2,7 +2,7 @@
 
 ## Acknowledgement
 
-Our team has been supported by DOE Office of Science ASCR, FES and SciDAC programs, NNSA, DOE lab LDRDs, NSF, NASA, and Georgia Tech. 
+Our team has been supported by DOE Office of Science ASCR, FES and SciDAC programs, NNSA, NSF, DOE lab LDRDs, NASA, and Georgia Tech. 
 
 ----
 
@@ -18,7 +18,8 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * BS in ME from BYU. He is a summer intern at SNL and ORNL.
     * Awards: GT President's Fellowship, GEM Fellowship
 * <ins>Harshavardhan Harish</ins>, CSE, 2025–present
-    * BS in Math and Certificate in CSE from UT-Austin. He is a summer intern at LANL.
+    * BS in Math and Certificate in CSE from UT-Austin. He is a summer intern at LANL. 
+    * Co-advisor: [Peng Chen](https://faculty.cc.gatech.edu/~pchen402/) (CSE)
 * <ins>Alexander de Magalhaes</ins>, CSE, 2026–present
     * BA in Physics from Wesleyan. He is a summer intern at LANL.
     * Awards: GT Spark Award 
@@ -41,15 +42,12 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
 ### Master's Students at GT
 * <ins>Anna Ernst</ins>, CSE, 2026–present
     * BS in CS and Math from UT Dallas. She is a full-time GRA at LANL.
-* <ins>Jiya Varma</ins>, CS, 2025–present
-    * BS in CS from GT
-    * Awards: President’s Undergraduate Research Award (PURA)
 
 ### Undergraduate Students at GT
 * <ins>Elliot Day</ins>, CS, 2026–present
-* <ins>Connor Kelly</ins>, NE, 2025–present
 
-<!-- ### Student Interns at LANL and GT -->
+### Visiting Students at GT
+* <ins>Ilias Georgiou</ins>, MS student from National Technical University of Athens (NTUA), 2026–present
 
 ----
 
@@ -66,16 +64,20 @@ Our team has been supported by DOE Office of Science ASCR, FES and SciDAC progra
     * Placement: Staff Scientist, T-5, Los Alamos National Laboratory
     * My role: co-mentor
 
+### Master's Students at GT
+* <ins>Jiya Varma</ins>, CS, BS/MS (President’s Undergraduate Research Award), 2025–2026
+
 ### Undergraduate Students at GT
-* <ins>[Hao Wang](https://haowangmath.org/)</ins>, Applied Math, 2025–2026
 * <ins>Miles Hauck</ins>, EE, 2025
+* <ins>Connor Kelly</ins>, NE, 2025–2026
+* <ins>[Hao Wang](https://haowangmath.org/)</ins>, Applied Math, 2025–2026
 
 ### Student Interns at GT
 * <ins>Janani Murugan</ins>, UG in Biochemistry and CS, 2025–2026
 * <ins>Saisruthi Bandla</ins>, MS in AE, summer 2025
-
-### Student Interns at LANL and GT
 * <ins>Yicong (Eddy) Luo</ins>, PhD student in CS, summer 2026
+
+### Student Interns at LANL
 * <ins>Christian Engman</ins>, UG student in CS (DOE SULI fellow), 2025–2026
 * <ins>Leonardo Molinari</ins>, Graduate student from Emory University, 2025–2026
 * <ins>Jamar Sullivan</ins>, Postbac, summer 2025

@@ -1,6 +1,6 @@
 <div class="cv" markdown="1">
 
-## CSE/MATH-6643 <br> Numerical Linear Algebra
+## CSE/MATH-6643 — Numerical Linear Algebra
 
 ### Instructor Information
 
