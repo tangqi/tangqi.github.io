@@ -147,9 +147,15 @@
             
             
             
-                <li class="dropdown">
+                <li class="dropdown active">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Teaching <b class="caret"></b></a>
                     <ul class="dropdown-menu">
+                    
+                        
+                            <li class="active">
+                                 <a href="./">Spring 2027</a>
+                            </li>
+                        
                     
                         
                             <li >
@@ -197,7 +203,7 @@
             <div class="col-md-3 visible-xs visible-sm"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#csemath-6643-numerical-linear-algebra">CSE/MATH-6643 Numerical Linear Algebra</a></li>
+        <li class="main active"><a href="#csemath-6643-numerical-linear-algebra">CSE/MATH-6643 — Numerical Linear Algebra</a></li>
         
             <li><a href="#instructor-information">Instructor Information</a></li>
         
@@ -228,22 +234,23 @@
             <div class="col-md-9" role="main">
 
 <div class="cv">
-<h2 id="csemath-6643-numerical-linear-algebra">CSE/MATH-6643 <br> Numerical Linear Algebra</h2>
+<h2 id="csemath-6643-numerical-linear-algebra">CSE/MATH-6643 — Numerical Linear Algebra</h2>
 <h3 id="instructor-information">Instructor Information</h3>
-<p><strong>Lectures:</strong> M W 8:00-9:15pm <br>
-<strong>Location:</strong> Clough UG Learning Commons 152</p>
+<p><strong>Lectures:</strong> M W 8:00-9:15am <br>
+<strong>Location:</strong> TSRB 132</p>
 <p><strong>Instructor:</strong> <a href="https://tangqi.github.io/">Qi Tang</a> <br>
 <strong>Email:</strong> <a href="mailto:qtang@gatech.edu">qtang@gatech.edu</a> <br>
-<strong>Office Hours:</strong> <a href="http://gatech.zoom.us/my/qtang">zoom</a></p>
-<p><strong>TA1:</strong>  <br>
-<strong>Email:</strong>  <br>
-<strong>Office Hours:</strong> </p>
+<strong>Office Hours:</strong> TBD via <a href="https://gatech.zoom.us/my/qtang">zoom</a></p>
+<p><strong>TA:</strong> TBD <br>
+<strong>Email:</strong> TBD <br>
+<strong>Office Hours:</strong> TBD</p>
 <hr />
 <h3 id="course-description">Course Description</h3>
-<p>This course introduces fundamental algorithms in numerical linear algebra, including methods for solving linear systems, constructing orthogonal bases, and computing eigenvalue and singular value decompositions (SVD). A key objective is to prepare Ph.D. students for the qualifying exam; therefore, the course emphasizes theorems, proofs, and the mathematical principles underlying these algorithms.</p>
+<p>This course introduces fundamental algorithms in numerical linear algebra, including methods for solving linear systems, constructing orthogonal bases, and computing eigenvalue and singular value decompositions (SVD).</p>
+<p>A key objective is to prepare Ph.D. students for the qualifying exam; therefore, the course emphasizes theorems, proofs, and the mathematical principles underlying these algorithms.</p>
 <h3 id="prerequisites">Prerequisites</h3>
 <ul>
-<li>MATH 2406 or MATH 4305 </li>
+<li>MATH 2406 or MATH 4305</li>
 <li>MATH 4640 is not required but strongly recommended</li>
 </ul>
 <h3 id="topics">Topics</h3>
@@ -260,7 +267,7 @@
 <li>Krylov subspace methods for eigenvalues and linear systems (Lanczos, Arnoldi, CG, GMRES)</li>
 </ul>
 <h3 id="grading">Grading</h3>
-<p>The weights for the course grade are as follows. Students must pass the final exam to pass the course.</p>
+<p>The weights for the course grade are as follows. Students must score at least 50% on the final exam to pass the course.</p>
 <table>
 <thead>
 <tr>
@@ -274,7 +281,7 @@
 <td>30%</td>
 </tr>
 <tr>
-<td>Midterms</td>
+<td>Midterm</td>
 <td>30%</td>
 </tr>
 <tr>
@@ -283,7 +290,7 @@
 </tr>
 </tbody>
 </table>
-<p>The final course grade will be assigned based on the following scale.</p>
+<p>The final course grade will be assigned based on the following scale. Scores are rounded to the nearest integer.</p>
 <table>
 <thead>
 <tr>
@@ -314,8 +321,8 @@
 </tr>
 </tbody>
 </table>
-<h4 id="passfail-and-audit">Pass/Fail and Audit</h4>
-<p>For pass/fail, the passing grade is 50% and you are strongly encouraged to attend class regularly. If you wish to take the course for audit credit, the audit credit is given for a grade of at least 20% and you are strongly encouraged to attend class regularly.</p>
+<h4 id="passfail">Pass/Fail</h4>
+<p>For pass/fail, the passing grade is 50% overall. You are strongly encouraged to attend class regularly.</p>
 <h3 id="textbooks">Textbooks</h3>
 <ul>
 <li>Numerical Linear Algebra, Trefethen and Bau. <br>
@@ -323,40 +330,43 @@
 </ul>
 <h4 id="additional-references">Additional References:</h4>
 <ul>
-<li>Matrix Computations, Golub and Van Loan. <em>This is the bible of numerical linear algebra. Advanced material will be taken from this book.</em></li>
-<li>Applied Numerical Linear Algebra, Demmel. <em>This is another classic textbook.</em></li>
+<li>Matrix Computations, Golub and Van Loan. <em>This is the bible of numerical linear algebra.</em></li>
+<li>Applied Numerical Linear Algebra, Demmel.</li>
+<li>Numerical Linear Algebra with Julia, Darve and Wootters.</li>
 <li><a href="https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf">The Matrix Cookbook</a>, Petersen and Pedersen. <em>This online book contains many important identities and is incredibly useful.</em></li>
 </ul>
 <hr />
 <h3 id="homework-policy">Homework Policy</h3>
-<p>All homework is due by the EOD (11:59pm). Homework is penalized by 20% for each day it is late (this
-applies additively, meaning that no credit is gained after five late days). We strongly encourage the use
-of LaTeX for your submission. Unreadable handwriting is subject to zero credit.</p>
+<p>All homework is due by the EOD (11:59pm).</p>
+<p>You have a pool of <strong>72 penalty-free late hours</strong> for the whole term, which you may spend across all the
+assignments however you choose. Once that buffer is used up, homework is penalized by 20% for each day it
+is late; any partial day counts as a full day. The penalty is additive, so no credit is given after five late days.</p>
+<p>We strongly encourage the use of LaTeX for your submission. Unreadable handwriting is subject to zero credit.</p>
 <h3 id="class-management">Class Management</h3>
 <p>We will use Canvas to deliver course materials and announcements.</p>
-<hr />
 <h3 id="course-policies-expectations-guidelines">Course Policies, Expectations &amp; Guidelines</h3>
 <h4 id="plagiarism-academic-integrity">Plagiarism &amp; Academic Integrity</h4>
 <p>Georgia Tech aims to cultivate a community based on trust, academic integrity, and honor. Students are expected to act according to the highest ethical standards. For more information on the Honor Code, please visit the <a href="https://osi.gatech.edu/">OSI</a> website.</p>
 <p>We encourage you to discuss course content and homework problems with your classmates. However,
-all answers and codes should be prepared independently. If you refer to any material, it should be
+all answers and code should be prepared independently. If you refer to any material, it should be
 properly cited. Needless to say: you are not allowed to use solutions to homework problems that you
 may find online. If you discussed homework problems with your classmates, indicate which problems
-you discussed with whom. </p>
-<p>Any student suspected of cheating or plagiarizing on a quiz, exam, or assignment will be reported to the Office of Student Integrity, which will investigate the incident and identify the appropriate penalty for violations. </p>
+you discussed with whom.</p>
+<p>Any student suspected of cheating or plagiarizing on an exam or assignment will be reported to the Office of Student Integrity, which will investigate the incident and identify the appropriate penalty for violations.</p>
 <h4 id="role-of-ai-assistants">Role of AI Assistants</h4>
-<p>The use of LLMs like ChatGPT and Gemini will be treated like a human collaborator: You have to indicate their use,
-what you used them for, and you may only use them to get ideas in trying to figure out the solution of a
-problem or resolve places where you might have gotten stuck. Like a human collaborator, you should not use the LLMs when preparing your solutions or code. For instance, directly copying the output of a chatbot is strictly forbidden</p>
+<p>The use of LLMs like ChatGPT and Gemini will be treated like a human collaborator: you have to indicate their use
+and what you used them for. You may only use them to get ideas or to get unstuck on a problem. Like a human
+collaborator, you should not use LLMs when preparing your solutions or code. For instance, directly copying the
+output of a chatbot is strictly forbidden.</p>
 <h4 id="accommodations-for-individuals-with-disabilities">Accommodations for Individuals with Disabilities</h4>
-<p>If you are a student with learning needs that require special accommodation, contact the Office of Disability Services at (404) 894-2563 or <a href="http://disabilityservices.gatech.edu/">website</a>, as soon as possible, to make an appointment to discuss your special needs and to obtain an accommodations letter.  Please also email me as soon as possible in order to set up a time to discuss your learning needs.</p>
+<p>If you are a student with learning needs that require special accommodation, contact the Office of Disability Services at (404) 894-2563 or <a href="https://disabilityservices.gatech.edu/">website</a>, as soon as possible, to make an appointment to discuss your special needs and to obtain an accommodations letter. Please also email me as soon as possible in order to set up a time to discuss your learning needs.</p>
 <h4 id="student-faculty-expectations">Student-Faculty Expectations</h4>
-<p>The Georgia Tech community believes that it is important to continually strive for an atmosphere of mutual respect, acknowledgement, and responsibility between faculty members and the student body. Therefore, we herein endeavors to enumerate the specific expectations of each side. See <a href="https://catalog.gatech.edu/rules/21/">here</a> for more details.</p>
+<p>The Georgia Tech community believes that it is important to continually strive for an atmosphere of mutual respect, acknowledgement, and responsibility between faculty members and the student body. See <a href="https://catalog.gatech.edu/rules/21/">here</a> for the specific expectations of each side.</p>
 </div></div>
             <div class="col-md-3 hidden-xs hidden-sm"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#csemath-6643-numerical-linear-algebra">CSE/MATH-6643 Numerical Linear Algebra</a></li>
+        <li class="main active"><a href="#csemath-6643-numerical-linear-algebra">CSE/MATH-6643 — Numerical Linear Algebra</a></li>
         
             <li><a href="#instructor-information">Instructor Information</a></li>
         
