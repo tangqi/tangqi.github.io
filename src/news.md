@@ -8,7 +8,7 @@
 
 | | |
 |------------ | -----------------------------------------------------------------|
-Nov 17 | Qi Tang gave a seminar at the Institute for Fusion Studies (IFS) at the University of Texas at Austin, titled "Building structure into learned models for plasma dynamics: from symplectic neural networks to neural operators." See [here](https://physics.utexas.edu/events/ifs-seminar/phy359s-ifs-seminar).
+Nov 17 | Qi Tang gave a seminar at the **Institute for Fusion Studies** (IFS) at the University of Texas at Austin, titled "Building structure into learned models for plasma dynamics: from symplectic neural networks to neural operators." See [here](https://physics.utexas.edu/events/ifs-seminar/phy359s-ifs-seminar).
 Nov 6  | Three Ph.D. students in our group presented posters at the APS Division of Plasma Physics and Gaseous Electronics Conference joint meeting (**APS DPP 2026**), held Nov. 2–6 in Chicago. Tage Burnett presented a structure-preserving reduced-order model of particle-in-cell simulations. Alejo Ballester presented an adaptive grid interlacing PIC scheme for mitigating finite-grid instabilities. Emmanouil Georgios Drimalas presented simulations of particle acceleration at heliospheric shocks with symplectic neural networks.
 Nov 1  | Qi Tang gave an invited talk at the **SIAM Texas-Louisiana 2026 Sectional Meeting**, held Oct. 30–Nov. 1 at Southern Methodist University in Dallas. He presented the group's work on an adaptive Newton-based free-boundary Grad–Shafranov solver.
 Sep 25 | Georgia Tech successfully hosted the [2026 MFEM Community Workshop](https://mfem.org/workshop/) on Sept. 22–25. The School of CSE was a sponsor, and Qi Tang led the organizing committee.
